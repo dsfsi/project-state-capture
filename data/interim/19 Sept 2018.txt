@@ -1,0 +1,3002 @@
+STATE CAPTURE INQUIRY 
+PARKTOWN, JOHANNESBURG 
+ 
+ 
+19 SEPTEMBER 2018 
+ 
+ 
+ 
+SESSION 1 – 2. 
+ 
+ 
+DAY 14. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 2 of 90 
+ 
+Contents 
+Session 1 ................................................................................................................................. 3 
+Session 2 ............................................................................................................................... 43 
+ 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 3 of 90 
+ 
+Session 1 
+CHAIRPERSON: Good morning Mr Pretorius, good morning everybody. 
+ADV PAUL PRETORIUS SC: Good morning DCJ. This morning Chair, Advocate 
+Hofmeyer will lead Mike Brown of Nedbank that will be followed by the expert Dr 
+Kaufmann after the short adjournment. May I just place on record that Alfred Cockrell, 
+Advocate Cockrell is representing Mr Brown here today. 
+CHAIRPERSON: Okay, thank you.  
+ADV KATE HOFMEYER: Thank you Chair. Chair, Mr Brown’s evidence completes the 
+evidence under Term of Reference 1.7. May I request your Registrar to swear him in? 
+CHAIRPERSON: Thank you. 
+10 
+REGISTRAR: Please state your full names for the record? 
+MR MIKE BROWN: Michael William Thomas Brown. 
+REGISTRAR: Do you have any objection with taking the prescribed oath? 
+MR MIKE BROWN: No I don’t. 
+REGISTRAR: Do you consider the oath to be binding on your conscience? 
+MR MIKE BROWN: Yes I do. 
+REGISTRAR: Do you swear that the evidence you will give today will be the truth, the 
+whole truth and nothing but the truth. If so, please raise your right hand and say, so help 
+me God. 
+MR MIKE BROWN: So help me God. 
+20 
+CHAIRPERSON: Thank you.  
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 4 of 90 
+ 
+ADV KATE HOFMEYER: Mr Brown, you have in front of you a file which we will refer to 
+today as Exhibit H1. If you turn to page 202 in Exhibit H1 you will see a document 
+headed: Statement to the Inquiry into State Capture, and your name appearing beneath 
+that. Can you confirm that that is your statement provided to the Commission? 
+MR MIKE BROWN: That is correct. 
+ADV KATE HOFMEYER: And it runs as I have it, to page 206 where a signature 
+appears. Can you confirm that that is your signature? 
+MR MIKE BROWN: That is my signature. 
+ADV KATE HOFMEYER: And can you confirm the contents of that statement as being 
+correct? 
+10 
+MR MIKE BROWN: I can. 
+ADV KATE HOFMEYER: Thank you, the statement does go over the page to 207 but 
+that is an annexure and I will make reference to that in due course in your evidence. Mr 
+Brown, you also, in matters related to Term of Reference 1.7, depose to an affidavit in the 
+Minister of Finance vs Oakbay matter, is that correct? 
+MR MIKE BROWN: That is correct. 
+ADV KATE HOFMEYER: We explained to the Chair on Monday that we have not 
+included the full text of the affidavits in the bundle but I may well for the purposes of 
+setting the background to your evidence today ask you to provide testimony on some of 
+the aspects traversed in that affidavit. In terms of introductory matters Mr Brown, can you 
+20 
+please clarify for the Chair what your position in Nedbank is at the moment? 
+MR MIKE BROWN: I am the Chief Executive Officer of both Nedbank Group and 
+Nedbank Limited which is the registered banking entity.  
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 5 of 90 
+ 
+ADV KATE HOFMEYER: And for how long have you held that position? 
+MR MIKE BROWN: I was appointed in 2010. 
+ADV KATE HOFMEYER: And prior to that where were you? 
+MR MIKE BROWN: Prior to that I was the Chief Financial Officer and Executive Director 
+from 2004 up to that date, prior to that I have worked for businesses that are now part of 
+the Nedbank Group since 1993 and prior to that I qualified as a Chartered Accountant. 
+ADV KATE HOFMEYER: And Sir, in terms of professional qualifications, is it simply a 
+Chartered Accountant qualification that you hold? 
+MR MIKE BROWN: That’s correct, I have a B.Com Diploma in Accountancy and a 
+CA(SA). 
+10 
+ADV KATE HOFMEYER: Thank you, so many decades in banking, is that a fair 
+description? 
+MR MIKE BROWN: 25 Years to be precise and prior to that I actually spent several years 
+auditing banks. 
+ADV KATE HOFMEYER: Mr Brown, I propose to deal with your evidence really in a 
+chronological order which will require me at times to move around your statement 
+because it was presented thematically but for the purpose of todays’ evidence, a 
+chronological approach will be taken. And so with that in mind I would like to start with the 
+events in February 2016 because as I have it in your affidavit in the Minister of Finance 
+matter, you indicated there that it was in February 2016 that Nedbank began reviewing its 
+20 
+relationship with the Gupta family and associated entities. Can you please tell the Chair 
+about that? 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 6 of 90 
+ 
+MR MIKE BROWN: Chair, that refers to a specific request that I made to our Chief Risk 
+Officer in February 2016 to escalate reviews of the Gupta-related accounts. At that stage 
+I would have been certain that there were already ongoing reviews taking place within our 
+business units that had the direct relationships with any Gupta entities but at that stage it 
+was clear to me that there was an escalation in negative media activity and reporting 
+around the Gupta family and the related entities and as a consequence of that escalation 
+in media-related activities, I perceived there was an escalation in reputational risk to the 
+bank and asked our Chief Risk Officer to aggregate the work that was already being done 
+so that it could be presented to group Exco to enable us to opine on the reputational and 
+business risks. 
+10 
+ADV KATE HOFMEYER: And then you referred in your affidavit to an event in March 
+2016 which was a statement by the then Deputy Finance Minister. Of what relevance was 
+that to the work of the bank at the time? 
+MR MIKE BROWN: So I think that was of particular relevance in the escalation of 
+negative reporting around the Gupta family. In particular what made it of particular 
+importance to us was that it was a statement that was issued on the letterhead of the 
+Ministry of Finance and it contained an allegation from the then Deputy Minister of 
+Finance that members of the Gupta family had offered him the position of the Minister of 
+Finance to replace the then Minister Nene. So for us that was certainly an extremely 
+serious allegation. 
+20 
+ADV KATE HOFMEYER: Mr Brown, you then moved to April of 2016 where certain 
+institutions severed ties with the Gupta associated entities. Can you explain to the Chair 
+the relevance of those events in early April 2016?  
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 7 of 90 
+ 
+MR MIKE BROWN: Certainly Chair. So on the 4th April 2016 there were media reports 
+and indeed reported from the underlying companies confirming that that both KPMG who 
+were the auditors to these companies and SASFIN who at that stage were the sponsoring 
+broker, had terminated their relationships with the Gupta family. I think from Nedbank 
+point of view again these were particularly significant terminations given that we would 
+assume that the auditor of a set of companies is privy to information that Nedbank who 
+were not the main transactional bankers to the Gupta family would not have been privy to 
+and there must have been a reason for them to make their decision and in fact, the then 
+Chief Executive of KPMG was quoted as saying that the association risk was too great for 
+them to continue and while there was no direct quote from the sponsoring broker, I also 
+10 
+presume they would have had access to more information than we would have had at 
+that stage. 
+ADV KATE HOFMEYER: And what did that lead Nedbank to do in relation to the 
+accounts it held for Gupta associated entities? 
+MR MIKE BROWN: So, in terms of the process that we followed, we constituted a sub-
+committee of our group Exco. That sub-committee was appropriately represented 
+including myself, our head of risk, our head of legal and compliance, our head of our retail 
+and business banking unit in which these accounts were held, the head of some of the 
+other of our frontline businesses as well as our group legal counsel that sub-committee of 
+our group Exco was mandated to review our ongoing relationships with the Gupta 
+20 
+families. That sub-committee actually met on the 6th April and in addition to the media that 
+we have spoken about already during the course of the 6th April, there were also media 
+reports of both FNB and Barclays ABSA having terminated and we concluded that group 
+Exco meeting with the outcome that we believed that the reputational and business risks 
+to Nedbank of continuing with our banking relationships, would be too great and as a 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 8 of 90 
+ 
+result and in addition to that we also have the contractual right to terminate our banking 
+relationships, the underlying contracts that we enter into with our clients have a notice 
+period. If our clients want to move they can give us notice and move to another bank, we 
+are also entitled to give clients notice. So as a consequence of that group Exco meeting, 
+as a consequence of our review of the reputational and business risks, we concluded that 
+we would give contractual notice on the Gupta accounts that were held by Nedbank. 
+ADV KATE HOFMEYER: Mr Brown, I would like to ask you to go to page 1 of Exhibit H1 
+which is the Notice of Motion in the Minister of Finance Application. You will see on page 
+1 listed as respondents a number of the Gupta-related entities. Could you please clarify 
+for us which entity’s accounts were held with Nedbank and were closed by Nedbank with 
+10 
+the decision on the 6th April? 
+MR MIKE BROWN: So, turning to page 1 Mr Chair, the first respondent, Oakbay 
+Investments (Pty) Ltd., termination was given on the 7th April following the meeting on the 
+6th. The 11th respondent, Island Site Investments One Hundred and Eighty, the 12th 
+respondent, Confident Concept and the 14th respondent, Sahara Computers. 
+ADV KATE HOFMEYER: Thank you, and how long was the termination period given to 
+those entities? 
+MR MIKE BROWN: So the termination period was 30 days. 
+ADV KATE HOFMEYER: Thank you and how was that decision of the bank 
+communicated to the entities? 
+20 
+MR MIKE BROWN: So the decision was communicated in a meeting that was held on 
+the 7th of April. I was not personally in attendance in that meeting, Nedbank was 
+represented by people who dealt directly with these accounts and that meeting was held 
+with a Mr Nath of the Gupta entities. I am advised that Nedbank’s decision to terminate 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 9 of 90 
+ 
+was communicated in that meeting. Mr Nath refused to accept the delivery of our 
+termination letters and we subsequently delivered them by registered post. He also asked 
+that Nedbank didn’t make any media statements around the termination. I think perhaps I 
+would just like to add, coming back to your previous question, in addition to the accounts 
+that are listed here, the account of VR Laser Services which is the 10th respondent was 
+closed by Nedbank but that notice was given on the 4th of May so it was not part of that 
+first set of notices. 
+ADV KATE HOFMEYER: Thank you. Your affidavit in the Minister of Finance matter then 
+referred to the publication of a Government announcement on the 13th April 2016 about 
+the constitution of an inter-ministerial committee to investigate the closure of the Gupta 
+10 
+accounts. How did you come to learn of this closure, at least this constitution of the 
+committee? 
+MR MIKE BROWN: So I came to learn of it through I think, two mechanisms. Firstly, 
+there was an announcement by, I believe, Jeff Radebe in the Presidency that dealt with 
+the constitution of the IMC and then subsequent to that when we were invited to attend 
+the IMC. 
+ADV KATE HOFMEYER: Thank you and then on the 14th April, your affidavit traversed 
+an engagement with Mr Nazeem Howa who requested an urgent meeting with Nedbank. 
+Can you please tell the Chair about that development? 
+MR MIKE BROWN: So having given notice of 30 days for Nedbank to close the 
+20 
+accounts, in the intervening notice period it’s not unusual for clients to approach the bank 
+to try and have a conversation as to why the account should subsequently not be closed 
+and again I did not attend that meeting but I was advised that we were requested to 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 10 of 90 
+ 
+reiterate to reconsider our decision which we duly did and concluded that we would not 
+change our decision to close the accounts. 
+ADV KATE HOFMEYER: Thank you, as I have it from your affidavit where you traverse 
+in the affidavit the events of these meetings which you did not attend, you did provide 
+confirmatory affidavits from those representatives of Nedbank who attended the meeting, 
+is that correct? 
+MR MIKE BROWN: That is correct. 
+ADV KATE HOFMEYER: And so your testimony today is based on what they have 
+confirmed about those meetings, is that correct? 
+MR MIKE BROWN: That is correct. 
+10 
+ADV KATE HOFMEYER: I would then like to move to page 205 of Exhibit H1. You will 
+see in the second half of that page a heading: The ANC Meeting, and as I have it on the 
+chronology that is the next event that occurs after the meeting with Nazeem Howa on the 
+14th April. You then refer ... [interrupted]  
+CHAIRPERSON: I am sorry, I think it is the aircon that is making some noise. I don’t 
+know whether without it we are going to feel too hot so maybe if they could see what they 
+can do. I think technicians will see what they can do. If it becomes too hot we might have 
+to restore it. Okay, alright let’s, you may continue. 
+ADV KATE HOFMEYER: Thank you Chair. Mr Brown, at paragraph 8 on page 205 you 
+talk about the 20th April and a request that you received to attend a meeting at Luthuli 
+20 
+House. Can you please tell us about that request? 
+MR MIKE BROWN: Yes, I received and well, my personal assistant was on leave at that 
+stage so the stand-in personal assistant received a request from Enoch Godongwana. 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 11 of 90 
+ 
+That request didn’t have within it the topic of any conversation but it was a request to 
+attend a meeting which was subsequently set up by the secretaries and I attended that 
+meeting on the 20th April. 
+ADV KATE HOFMEYER: Had you been requested to attend Luthuli House before this 
+request? 
+MR MIKE BROWN: Yes, I have attended meetings at Luthuli House before so for 
+example, when there was national discourse in South Africa on the nationalisation of 
+mines, given the importance of that to our economy and the safety and soundness of our 
+banking system, I presented on Nedbank’s view on that as input into that national 
+discourse. 
+10 
+ADV KATE HOFMEYER: Had you ever been requested to attend a meeting to discuss 
+the closure of Nedbank’s accounts with any of its clients at Luthuli House? 
+MR MIKE BROWN: No, I hadn’t. 
+ADV KATE HOFMEYER: And can you tell us when that meeting was held and who was 
+in attendance? 
+MR MIKE BROWN: So the meeting was held on the 20th April, the records that I had after 
+the meeting of my notes showed that Gwede Mantashe and Jesse Duarte were in 
+attendance. It is also my recollection that Enoch Godongwana was in attendance 
+however, my notes didn’t have that so I am therefore uncertain as to whether he was or 
+wasn’t in attendance, he did however set up the meeting. 
+20 
+ADV KATE HOFMEYER: Thank you and what was the purpose of the meeting and what 
+was explained to you would be the purpose when you arrived? 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 12 of 90 
+ 
+MR MIKE BROWN: So the purpose that was explained to me was to try and gain a better 
+understanding around the circumstances why banks in general close bank accounts. I 
+thought quite deeply beforehand as to whether I should or should not attend the meeting 
+and my conclusion was that in the environment at that stage, there were at least two key 
+narratives or discussion points. One of them was around the specific matters of the 
+closure of the Gupta accounts and I was very clear that I would not be able to talk at all 
+given client confidentiality around the specifics of the closure of the Gupta accounts. 
+However, there was an intersecting and growing narrative around more general 
+statements around the bank’s ability to close accounts generally, what is the legislative 
+environment around FATAF and FICA, what impact is this having on investor confidence 
+10 
+and did the banks collude in closing the Gupta accounts and I certainly felt that in my 
+capacity as the Chief Executive of Nedbank, it was very important that I addressed that 
+second narrative around closure of accounts in general, the legislative framework, the 
+impact on investor confidence and the fact that Nedbank took its own individual decision 
+to close the Gupta bank accounts. I felt that that was incredibly important for the safety 
+and soundness of the financial system in general and for Nedbank in particular. 
+ADV KATE HOFMEYER: Were you provided with an agenda for the meeting in advance 
+of it? 
+MR MIKE BROWN: No. 
+ADV KATE HOFMEYER: And in paragraph 9 of your statement you, from the second 
+20 
+line, record there that you were advised of concerns that had been raised to the ANC 
+from the general population and businesses around the ability of banks to just close client 
+accounts unilaterally. What did you say in that regard at the meeting? 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 13 of 90 
+ 
+MR MIKE BROWN: So I explained that in the banking system in South Africa we 
+compete with all of the other banks to try and grow our businesses and actually to open 
+as many accounts as we possibly can so banks certainly are not in the business of 
+closing accounts unilaterally. I then went on to explain the broad framework around the 
+FIC Act in South Africa, I spoke in particular about Guidance Note 3, I then also in that 
+meeting took the attendees through a particular extract from the JP Morgan Chief 
+Executive and Chairman’s Report around closure of bank accounts to demonstrate that 
+this is not an unusual activity in a certain set of circumstances. 
+ADV KATE HOFMEYER: Thank you, you have made reference to the JP Morgan 
+Chairman’s Report of 2015. That was an annexure to your affidavit in the Minister of 
+10 
+Finance matter but is not part of Exhibit H1 and so I would like to beg leave to hand that 
+in Chair. It will be Exhibit H6 with your leave if I may request your Registrar just to take a 
+copy and also to the witness? Thank you. 
+CHAIRPERSON: Thank you. Well, while you are looking at that Mr Brown, you said that 
+banks are not in the habit of closing client’s accounts unilaterally. Whenever they close 
+accounts, certainly I would imagine based on what I have heard from other witnesses 
+from banks, when they close them in circumstances such as those that prevailed in 
+regard to the particular accounts we are talking about, they do so unilaterally in so far as 
+they don’t consult with other banks so they don’t collude but also they do so unilaterally to 
+the extent that their decision to close the accounts, is their decision and theirs alone in 
+20 
+the sense that it’s based on their view and from what I have heard in regard to the other 
+banks, it’s not that they will discuss with their client in advance but it looks like they make 
+an assessment of the situation and make a decision but after having made the decision, 
+they don’t close the door to the client if the client wishes to discuss the matter but the 
+decision does appear to be unilateral. What would you say to that? 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 14 of 90 
+ 
+MR MIKE BROWN: Sir, I would say that the decision is a decision of the bank. It is a 
+decision of the bank, as I said earlier, based on our assessment of business and 
+reputational risk as well as our contractual right in our underlying legal documentation 
+and inevitably what happens in circumstances such as this and there are many accounts 
+that we choose to close, in circumstances such as this, we give reasonable notice and it 
+is during that reasonable notice period that the client has the ability to come and talk to 
+the bank about the reasons for closure and there are certainly instances where, for 
+example, we are trying to complete for a high risk customer, something that is called an 
+extended due diligence that we are required to complete and if we are unable to get the 
+required documentation from the client to enable us to properly complete that due 
+10 
+diligence, we would give notice. If in that notice period the client delivers the required 
+documentation and that documentation is persuasive in the nature such that the 
+assessment that we had made prior to having that documentation is now no longer 
+correct, we would overturn our decision to close those accounts. 
+CHAIRPERSON: The only reason I was raising the issue of unilateral with you was that I 
+wasn’t sure that you were not contradicting what I thought you intended to say by 
+seeming to run away from unilateral because as I understand it, unilateral means simply 
+that the decision of one party is one side, “uni”, unilateral, it’s one side, it’s not a decision 
+you take jointly with anybody, with the client or with another bank, it’s just one side and 
+you take it, as I understand it, on the assessment of the situation as you see it in terms of 
+20 
+the reputational risk to the bank but from what I understand, after you have taken the 
+decision, if the client comes forward and wants to try and persuade you to change it, you 
+leave the door open but it seems to me it remains that it is a unilateral decision in that 
+sense, it’s yours and yours only as the bank.  
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 15 of 90 
+ 
+MR MIKE BROWN: Chair, that is correct, although that unilateral decision is taken by a 
+broad grouping within the bank. 
+CHAIRPERSON: Thank you. 
+ADV KATE HOFMEYER: Mr Brown, just to pick up on an aspect of the Chair’s questions. 
+You indicated in the termination notice to the Gupta-related entities that you were closing 
+those accounts because of reputational risk associated with the accounts and then there 
+was the meeting that we referred to previously with Mr Howa on the 3rd May, 2016. Is it 
+your understanding of that meeting that there were not adequate reasons presented by 
+Mr Howa at that meeting to remove the reputational risk that Nedbank regarded as 
+associated with those accounts? 
+10 
+MR MIKE BROWN: That is correct. 
+ADV KATE HOFMEYER: And can you tell us what that reputational risk really means for 
+a bank such as Nedbank? 
+MR MIKE BROWN: So, the reputation of a company or a bank is essentially how that 
+business is perceived by stakeholders in general so how we are perceived by clients, 
+employees, competitors, media, investors, regulators and particularly important for banks 
+would be depositors for the safety and soundness of banks and the system so probably 
+for banks more than most other businesses and there would be some that would also fall 
+into this category and I think here of auditors in particular, reputational risk is extremely 
+important. Our business relies on the trust of members of the general public in the safety 
+20 
+and soundness of our bank and the system to enable us to become the custodians of the 
+nation’s savings in the form of deposits so if one thinks through reputational risk, it has 
+inherent in it a level of cascading, it could escalate depending how bad it gets. There is 
+you know, inevitably certain pieces of reputational risk that would be business as usual 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 16 of 90 
+ 
+and we would deal with that on a normal basis in the bank but there are examples of 
+where reputational risk becomes so great to a particular business that that has a material 
+and in some instances terminal effect on that business to continue to operate and I would 
+point obviously to the public examples around the material impacts reputational risk has 
+had on the likes of KPMG and Mackenzie’s and the terminal impact the reputational risk 
+would have had on the likes of Bell Pottinger.  
+ADV KATE HOFMEYER: Thank you, if I may return to page 206. Chair was there 
+reflection from you, I am trying to anticipate here? 
+CHAIRPERSON: You are doing well to keep one eye on me. I just want to clarify this. 
+From what you say Mr Brown, it would seem to me that your evidence is consistent with 
+10 
+the evidence I have had from one, if not more, of the witnesses who have come here and 
+testified about the role of the banks and decisions they took. Now one of the things they 
+said was that in regard to a specific account holder, you could have or then could have a 
+situation where it considers that it should terminate its relationship with that account 
+holder, not because that account holder has committed any crime or is in breach of any 
+laws of the country but simply because there is a certain perception in the public domain 
+about that account holder. Would that be consistent with your understanding of 
+Nedbank’s position as well? 
+MR MIKE BROWN: So Chair, broadly yes, however I would like to amplify a few issues 
+there. There would certainly be accounts that sit on international sanctions lists that 
+20 
+would automatically be closed and in respect of the perceptions, I think certainly we take 
+a lot of time to try and understand where the underlying news flow comes from and 
+therefore as a consequence how reliable that is likely to be. So if I went back to my 
+previous examples, you know there is clearly an enormous amount that gets put out on 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 17 of 90 
+ 
+social media that would have a lot less, it would have some weight but a lot less weight 
+than for example, a statement coming out of the Ministry of Finance as we saw in March 
+or the resignation of auditors or sponsoring brokers. 
+CHAIRPERSON: So it would be taking into account of everything you consider relevant 
+to the bank’s reputational risk and how much weight you attach to any particular factor 
+would differ from one case to another with the result that maybe in some case, somebody 
+who has not actually breached any laws of the country, you might close the accounts 
+because there nevertheless is some serious reputational risk but in other cases, 
+somebody who has not breached any laws but has some reputational risk to the bank, 
+you might decide on balance not to close their accounts, it would just depend on the view 
+10 
+you take of everything, is that right? 
+MR MIKE BROWN: That’s correct. That’s why we manage these decision processes 
+through committees at the bank which enables input into that decision from a legal 
+perspective and from a business perspective. Perhaps also important to add is that we 
+would not only consider the reputational risk up to that moment in time when we take that 
+decision, we would also be forward looking in respect of the potential future reputational 
+risk and how that could escalate and in particular in respect of this set of circumstances, 
+Nedbank was not the main transactional bankers to the Gupta entities and it would have 
+been a concern to us that if all of the other banks had closed, the transactional banking 
+facilities with the Gupta entities we could have by default become their main transactional 
+20 
+bankers and therefore inherited an escalating level of reputational risk as a consequence 
+of that. 
+CHAIRPERSON: Thank you. 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 18 of 90 
+ 
+ADV KATE HOFMEYER: Mr Brown, if we can go to page 206 of Exhibit H1. In the top 
+paragraph on that page you conclude your description of the meeting at Luthuli House 
+with members of the ANC and you reference there the Bredenkamp case. How did that 
+come up in your discussions? 
+MR MIKE BROWN: So as I said earlier in my discussions I made it very clear that I could 
+not talk about matters related specifically to the Gupta-related accounts but what I felt 
+was important was that I spoke about the legal framework in general around the closure 
+of bank accounts and you know, of particular relevance there is the FIC and the related 
+Guidance Note as well as the Bredenkamp judgment which and I am not a lawyer but 
+which essentially in my understanding said that a bank is, Standard Bank in that case is 
+10 
+entitled to close the Bredenkamp accounts as a consequence of the reputational risk that 
+Bredenkamp posed to Standard Bank and in particular what that may mean for its 
+international and other banking relationships. 
+ADV KATE HOFMEYER: And Mr Brown, can you give us a sense of your impression of 
+that meeting at Luthuli House? Did you understand the meeting to be designed to place 
+pressure on the bank to reopen the Gupta associated accounts? 
+MR MIKE BROWN: I did not leave that meeting feeling that I was placed under any 
+pressure to reopen the Gupta accounts and in fact the meeting closed with me being 
+thanked for providing information that was helpful in understanding and answering 
+questions that the attendees get. 
+20 
+ADV KATE HOFMEYER: Thank you, if we can then move to page 202 of Exhibit H1? 
+You will see that there is an introductory section on that page and then a heading, 
+Interactions between Nedbank and the IMC. That is I have it the shorthand for the inter-
+ministerial committee that you referred to previously there were public announcements of 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 19 of 90 
+ 
+it having been constituted on the 13th April, 2016. And if you can go to paragraph 2 on 
+that page, talk about an event on the 4th May, 2016 where your Executive Personal 
+Assistant received an email from Ms Zarina Kellerman. Please can you tell the Chair 
+about that email? 
+MR MIKE BROWN: Yes Chair, it was an email that I received that said:  
+“I write to you on behalf of the IMC set up by Cabinet to look into certain allegations made 
+against certain financial institutions. The IMC consists of the Ministers of Mineral 
+Resources, Finance, Labour and Communications. I have been requested to make 
+contact with Mr, they said, William Thomas Brown but I presume they forgot the Michael 
+or alternatively a suitable alternate with requisite authority and request that he makes 
+10 
+himself available for a discussion with the IMC on Thursday, the 5th May from 12.00 to 
+12.30. There is no set agenda for the discussion but I am advised it is anticipated to be a 
+discussion to gain clarity on the current media reports and public statements made by 
+Nedbank with regards to closing the bank accounts and/or termination of relationships. 
+Should Mr Brown not be available, person teleconference could be accommodated”, and 
+then there were some admin around if, you know, the dates could move and finally, 
+“should Mr Brown not be willing to participate, please advise me accordingly so that I may 
+indicate the same to the IMC. I look forward to your response”. 
+ADV KATE HOFMEYER: Thank you. I would like to unpack some of the details that you 
+have provided us with there. First of all the Ministers who were identified as constituting 
+20 
+the IMC, I would like us just for clarification purposes to identify who the people were who 
+held those Ministerial positions at the time. The Minister of Mineral Resources, who was 
+that? 
+MR MIKE BROWN: Minister Zwane. 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 20 of 90 
+ 
+ADV KATE HOFMEYER: The Minister of Finance? 
+MR MIKE BROWN: Minister Gordhan. 
+ADV KATE HOFMEYER: The Minister of Labour. 
+MR MIKE BROWN: Minister Oliphant. 
+ADV KATE HOFMEYER: And the Minister of Communications? 
+MR MIKE BROWN: Minister Muthambi.  
+ADV KATE HOFMEYER: And can you tell me whether you had received requests like 
+this previously to meet with representatives of Government? 
+MR MIKE BROWN: So I have certainly received requests to meet with representatives of 
+Government, largely representatives of National Treasury around banking and banking 
+10 
+system related matters but I had certainly never received a request to attend an inter-
+ministerial committee, in fact I had to try and find out what it actually was. 
+ADV KATE HOFMEYER: And when you have had those meetings previously, where 
+have they generally been held? 
+MR MIKE BROWN: So I have attended meetings with Government in Parliament, I have 
+attended meetings with Government at the Ministry of Finance in Pretoria or at the 
+Reserve Bank by memory. 
+ADV KATE HOFMEYER: Thank you and just for clarification, when you referenced the 
+Minister of Communications, were you intending to reference Minister Muthambi? 
+MR MIKE BROWN: That’s correct sorry, my pronunciation was incorrect. 
+20 
+ADV KATE HOFMEYER: Thank you. In terms of the notification that was given to you 
+about the purpose of the IMC meeting that you were called to attend. At paragraph 2 on 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 21 of 90 
+ 
+page 202 there is a reference there to the purpose of the discussion being, and I quote 
+here: “To gain clarity on the current media reports and public statements made by 
+Nedbank with regards to the closing of bank accounts and/or termination of 
+relationships”. Did you regard that as being a broadly focused purpose for the meeting or 
+specific in its nature? 
+MR MIKE BROWN: So I think in the first instance I regarded it as being quite a strange 
+statement because I knew at that point in time Nedbank had not made any public 
+statements given client confidentiality around the closure of these accounts but I certainly 
+assumed there would be a conversation around accounts in general. I suppose I knew 
+that in attending any of these meetings, I would not be able to speak about the Gupta 
+10 
+accounts specifically so therefore I would only be able to provide general input into that 
+meeting. 
+ADV KATE HOFMEYER: Where were you told that that meeting would be held? 
+MR MIKE BROWN: So the meeting was held at the offices of the Minister of Mineral 
+Resources in Pretoria. 
+ADV KATE HOFMEYER: When you provided us a moment ago with your recollection of 
+where you have met previously with members of Government. As I recall your testimony 
+you referenced Parliament, you referenced the Minister of Finance’s offices and you 
+referenced the Reserve Bank. Have you ever previously had occasion to meet at the 
+offices of the Minister of Mineral Resources in relation to banking matters? 
+20 
+MR MIKE BROWN: No, I haven't. 
+ADV KATE HOFMEYER: And what was your response to the request for the meeting?  
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 22 of 90 
+ 
+MR MIKE BROWN: So similar to the request of the meeting from the ANC, I debated and 
+spoke to colleagues internally about whether I should or should not attend given some of 
+the strange elements that you have recently alluded to and again I concluded that I 
+should attend on the basis that I would not make any statements or references around 
+the Gupta accounts specifically but as an engaged corporate citizen and as a leader in 
+the banking environment, it was important for me to make sure that I could input into 
+these conversations my views around the bank’s ability to close accounts, the processes 
+that we follow generally, the legislative process to reference the JP Morgan Report that 
+we spoke about earlier and to very specifically point out that there was no collusion 
+amongst the banks in this process so on balance I felt it was appropriate for me to attend. 
+10 
+I also felt it would be disrespectful not to attend but that I would make sure that the 
+conversation was in that second area of the narrative and not the accounts in particular. 
+ADV KATE HOFMEYER: And did you regard it as strange that the meeting was to be 
+convened at the Minister of Mineral Resources in Pretoria? 
+MR MIKE BROWN: So I did regard it as strange, however, when I was given up front 
+who the members of the IMC were likely to be, one of those members was the Minister of 
+Finance who I thought would be the natural go to person for matters to do with financial 
+services so I suppose presumed that I assumed he would be in attendance and felt 
+perhaps that was just the most logistically easiest place to get the meeting done on that 
+day. 
+20 
+ADV KATE HOFMEYER: Precisely who attended was of concern to you wasn’t it? 
+MR MIKE BROWN: It was of concern to me. 
+ADV KATE HOFMEYER: And so what did you do in that regard? 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 23 of 90 
+ 
+MR MIKE BROWN: So prior to the meeting taking place, my secretary emailed as to who 
+would be in attendance and the first email listed the full, all of the Ministers in the IMC 
+including the Minister of Finance and then if you give me a minute to find it, I think there 
+was then a subsequent email to say that as a consequence of it being an ad hoc meeting, 
+they could not at that stage confirm the exact attendance. 
+ADV KATE HOFMEYER: Yes, maybe I can give you the reference. If we go to paragraph 
+3 on page 202, what you say towards the bottom of the page there is that Ms Buckley, 
+your personal assistant, confirmed your attendance in an email to Ms Kellerman on the 
+5th May and requested her to confirm that the Minister of Mineral Resources, Minister of 
+Finance, Minister of Labour and Minister of Communications would be in attendance and  
+10 
+then in the next sentence which is over the page at 203, you record and I quote: “Ms 
+Kellerman responded advising that she was unable to confirm exactly which Ministers 
+would be in attendance due to it being an,” and I think this is what you refer to, “an ad hoc 
+sitting”. I would like to pause there. What did that mean to you? 
+MR MIKE BROWN: I suppose at that stage it meant to me that this was either an initial 
+sitting, a sitting that had been set up in contemplation of a number of future sittings that 
+would take place and/or a sitting that had been set up at relatively late notice to get a 
+process going. That it wasn’t one that had been planned, you know, meticulously in 
+advance. 
+ADV KATE HOFMEYER: And then you go on in that sentence to say that Ms Kellerman 
+20 
+provided assurance that, and I quote, “the committee will be appropriately represented.” 
+What did you understand that to convey to you? 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 24 of 90 
+ 
+MR MIKE BROWN: Well, so I presumed that any committee set up like this would have 
+within its mandate a quorum and that when I got to the meeting that it would be 
+appropriately quorate in terms of its defining mandate. 
+ADV KATE HOFMEYER: Thank you and then further down on page 203 at paragraph 4, 
+you talk about the meeting which you attended on the 6th May. Can you please indicate 
+who attended the meeting with you from Nedbank? 
+MR MIKE BROWN: So from Nedbank I was accompanied by Ms Anna Isaac who is our 
+Chief Legal Counsel and Mr Ciko Thomas who is the Managing Executive in charge of 
+our Retail and Business Banking Operations which is the client facing business within 
+Nedbank the bank that housed the Gupta-related accounts. 
+10 
+ADV KATE HOFMEYER: And who attended on behalf of the IMC? 
+MR MIKE BROWN: So they, just give me a second and I will give you that?  
+ADV KATE HOFMEYER: If you would like to look at page 203 of your statement in 
+paragraph 4 there, you indicate from the fourth line who was attending on behalf of the 
+IMC. 
+MR MIKE BROWN: So page 203? 
+ADV KATE HOFMEYER: Paragraph 4 and then from the end of the third line.  
+MR MIKE BROWN: Thank you. So the attendees were Minister Zwane who chaired the 
+meeting, Mrs Kellerman who acted as secretary to the meeting, a Mr Herbert Mkhize who 
+joined the meeting as Minister Oliphant’s representative and then two other people who 
+20 
+joined the meeting but were not introduced and I assumed that at least one of them was 
+representing the Minister of Communications, Ministers Oliphant and Gordhan were not 
+present neither was the Minister of Communications. 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 25 of 90 
+ 
+ADV KATE HOFMEYER: Thank you. You then indicated paragraph 4 that you raised a 
+query about the quorate nature of this meeting and you have referred to that previously. 
+Why was that of concern to you? 
+MR MIKE BROWN: I think it was of particular concern to me because I expected given 
+the nature of the meeting for the Minister of Finance to be present given that it is the 
+Finance Ministry that has over arching, oversights of the financial services sector and 
+banks in particular. 
+ADV KATE HOFMEYER: And what was the response when you raised that concern? 
+MR MIKE BROWN: So I was assured by Minister Zwane that the Minister of Finance was 
+aware of the meeting and that we should continue given his previous response that the 
+10 
+meeting was quorate. 
+ADV KATE HOFMEYER: Have you gained any subsequent insight as to whether the 
+Minister of Finance was in fact aware of the meeting and had delegated his authority to 
+Minister Zwane for the purposes of it? 
+MR MIKE BROWN: So I have no subsequent insight of that other than having read 
+numerous documents and I believe there is a letter that forms part of one of the bundles 
+from the Minister of Finance where he disputes that. 
+ADV KATE HOFMEYER: Right, if I could just take you to that that is in Exhibit H1 at 
+page 144? That we heard from Mr Sinton who gave evidence on Monday was a letter that 
+was made available by the Minister of Finance in the course of the litigation in the High 
+20 
+Court involving the Oakbay companies and the pressure that had been exerted on the 
+Minister of Finance in relation to securing a re-instatement of those accounts for those 
+companies. If you look at this letter, it is headed from the Minister of Finance and over the 
+page it appears to have been signed by him. Of course Minister Gordhan will be giving 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 26 of 90 
+ 
+evidence to the Commission in due course and no doubt will be asked to confirm these 
+aspects but for present purposes you will see at the bottom of page 144 that, well, let’s 
+start above, he bullets 5 points there in relation to the constitution of the inter-ministerial 
+committee. In the second paragraph and I quote he writes, “as you are aware I was not 
+present at the Cabinet meeting you refer to but I have consulted the Cabinet Secretariat 
+on the matter. The following emerges,” he says, and if you wouldn’t mind reading into the 
+record the five points that he makes in relation to this Cabinet meeting in a letter 
+addressed to Minister Zwane? 
+MR MIKE BROWN: So the letter says:  
+“The following emerges: 
+10 
+1. The Cabinet meeting was on the 13th April, 2016, not the 16th April, 2016 which 
+was a Saturday. 
+2. No inter-ministerial committee was established. 
+3. Three Ministers were nominated: Finance, Labour and Mineral Resources. 
+4. No one Minister was designated as convenor.  
+5. The Financial Services Sector is not in “already distressed” as your letter 
+indicates and care must be taken not to compromise financial stability.” 
+ADV KATE HOFMEYER: And then if we could just take a look at the last paragraph on 
+that page. As I read it, Minister Gordhan concludes the letter with the statement, “in the 
+circumstances it will be advisable for the three Ministers to first consult on the framework 
+20 
+for any discussion with financial institutions.” What do you make of that request from the 
+Minister of Finance in relation to co-ordination with his office for the purposes of engaging 
+with financial institutions? 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 27 of 90 
+ 
+MR MIKE BROWN: So I would understand that to be the Minister in his capacity as 
+having oversight for the financial services system to prior to having any engagement 
+wanting to ensure that this would be a well thought through pre-planned engagement in 
+the context of the legislation around anti money laundering, etc. 
+ADV KATE HOFMEYER: Thank you, if we can return to page 203 which is back in your 
+statement. 
+MR MIKE BROWN: Sorry, just to be clear also. Clearly at the time that I attended the 
+IMC, I was unaware of this letter notwithstanding it pre-dating the IMC. 
+ADV KATE HOFMEYER: Indeed, thank you for that clarification. Mr Brown, you 
+referenced at the top of page 203 your engagements with Ms Kellerman and her 
+10 
+response that she couldn’t give you more details about who would be in attendance 
+because she said, quote: “It was an ad hoc sitting”. When you did convene on the 6th 
+May, was the meeting introduced as merely an ad hoc sitting of the committee? 
+MR MIKE BROWN: I can’t specifically recall whether it was introduced as a sitting or an 
+ad hoc sitting. 
+ADV KATE HOFMEYER: Thank you, and if you then go down to paragraph 5 on page 
+203, I am going to jump ahead slightly in the chronology because what your statement 
+does at this paragraph is it actually jumps ahead to what you did after the meeting but I 
+would like to follow its order and then return to what was discussed because we are 
+currently dealing with the theme of who was present at the meeting and so it’s 
+20 
+appropriate to deal with what you say in paragraph 5. As I have it, you record the steps 
+you took after the meeting to confirm those who were in attendance. Please can you 
+explain that to the Chair?  
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 28 of 90 
+ 
+MR MIKE BROWN: So Chair, as I said earlier in my evidence there were a number of 
+people in the meeting who I was familiar with. There were also two people who were not 
+introduced at the meeting so I felt it appropriate to get a full listing of who was in 
+attendance so I would know who those people were. 
+ADV KATE HOFMEYER: And if we go to page 207. That is Annexure A to your 
+statement. As I have it that is both your request in the second half of the page will you 
+please read into the record what you requested? 
+MR MIKE BROWN: So this was requested by my personal assistant and she requested 
+to Zarina Kellerman: “Please can you email me the full names and titles of Governments 
+that attended todays’ meeting. Thank you.” 
+10 
+ADV KATE HOFMEYER: And then if you look above that, there is the responses I have it 
+from Ms Kellerman on the 9th May and who does she record there as the attendees of the 
+meeting? 
+MR MIKE BROWN: So Chair, the response says: “Apologies for the delay, the team 
+consisted of the following: Mrs Faith Muthambi as well as her advisors, Mr Zwanele 
+Manyi and Zandile Nene, Minister Mildred Oliphant as well as her advisors, Mr Herbert 
+Mkhize and DDG Mr Virgil Seafield, Minister Zwane and his advisor, Advocate Zerina 
+Kellerman who was the Secretariat.” 
+ADV KATE HOFMEYER: Was that an accurate record of who attended the meeting on 
+the 6th of May with yourself? 
+20 
+MR MICHAEL BROWN: No, it was not.  
+ADV KATE HOFMEYER: And could you identify the respects in which it was inaccurate?
+ 
+  
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 29 of 90 
+ 
+MR MICHAEL BROWN: I can to the extent that I am aware of that. So, firstly, Minister 
+Muthambi did not attend. Her advisor, Mr Manyi did not attend. I am certain of whether Mr 
+Sandile Nene was or wasn’t one of the unidentified attendees that I said earlier. Minister 
+Oliphant did not attend her advisor Mr Mkhize did attend. I am also uncertain whether 
+DDG Seifield was or wasn’t the 2nd person from the prior discussion. And then it was 
+correct in the fact that Both Minister Zwane and Advocate Kellerman were there. 
+ADV KATE HOFMEYER: Thank you, I would like now to move to what was discussed in 
+the meeting. And that is page 203 of your statement, and it commences at the bottom of 
+the page at paragraph 6. Can you take us through in your own words, but table with 
+reference to what is contained in paragraph 6.1 to 6.7 over on page 205? What precisely 
+10 
+was discussed at the meetings? 
+MR MICHAEL BROWN: So, the meeting opened with Minister Zwane advising that the 
+IMC was required to submit a report to cabinet by the 11th of May and therefore, these 
+meetings needed to be held expeditiously. And at the back of that, I read into the reasons 
+for the ad hoc meeting that we spoke about earlier. He also upfront expressed 
+dissatisfaction for some banks that has refused to attend. I did not know at that stage if 
+any banks had or hadn’t refused to attend. And stated that it was concerning that banks 
+could undermine government by refusing to attend such meetings and I certainly felt that, 
+that was a veiled threat in terms of the power of the IMC. He said that the meeting was a 
+confidential meeting, and I had the impression that it was being recorded, given that both 
+20 
+the Secretariat was taking notes and there was equipment. I don’t know whether the 
+equipment was switched on or not from recording point of view. Minister Zwane started 
+by saying that the IMC was constituted by cabinet and it was not there to represent any 
+particular family or company; but rather to resolve the apparent issues of investor 
+confidence and reported potential job losses that had emerged as a result of banks 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 30 of 90 
+ 
+closing bank accounts, and that those job losses were in thousands. I recall the number 
+he mentioned in the meeting was 16 000. And I certainly upfront in the meeting confirmed 
+that while we were happy to engage on matters broadly around closure of bank accounts 
+and legislation, we will not be engaging at all around any specific matters on the Gupta 
+accounts given banking confidentiality. I then spent a large portion of the meeting going 
+through the regulatory environment, in particular guidance note 3, and I listed a number 
+of issues that existed in guidance note 3, around what banks are required to do in terms 
+of knowing their customers, risk rating their customers into high, medium and low, what 
+are indicators of higher risk customers, and banks reporting obligations under either cash 
+threshold reporting or suspicious transaction reporting. I also specifically spent time going 
+10 
+through the J P Morgan report, where J P Morgan disclosed publicly that they had closed 
+18 000 accounts in the prior period as a consequence of reputational risk, and also, the 
+legal risk they run if they make a mistake. 
+ 
+ADV KATE HOFMEYER: Mr Brown, if I may just take you then to Exhibit H6 which we 
+handed in previously, we handed it in at the point that you referred to having made 
+reference to it at the meeting at Luthuli House but here in your statement, you also record 
+that you made reference to it in the meeting in the IMC. We have marked it Exhibit H6. 
+And if you would please indicate to us the aspect of that report that you shared with the 
+IMC?  
+MR MICHAEL BROWN: So Chair, I would have court started on the 2nd page of H6, and 
+20 
+if you go about, just about half way down on the page, on the left-hand column, I would 
+have quoted J P Morgan as having said that they during the course of the financial under 
+review, because this is an extract from their public integrated report that they deployed 
+new anti-money laundering systems, which is a monitoring platform across all of their 
+global payment transactions. It’s now functioning across the company and utilizes 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 31 of 90 
+ 
+sophisticated algorithms that are regularly enhanced based on transactional experience. 
+J P Morgan reviews electronically 105 trillion dollars of gross payments each month. And 
+then on average, 55 000 transactions are reviewed by humans after algorithms have 
+identified any single transactions as being suspicious. Following this effort, we stopped 
+doing business with 18 000 customers in 2015. We are also required to file suspicious 
+activity reports. I presume that is the US equivalent of our STR reporting and for J P 
+Morgan last year, they filed 180 000 suspicious activity reports, and they estimate the 
+industry as a whole, files millions each year. We understand how important this activity is, 
+not just to protect our company, but to help to protect our country from criminals and 
+terrorists. I then would have continued in particular to say, J P Morgan exited or restricted 
+10 
+approximately 500 foreign correspondent banking relationships, and tens of thousands of 
+client relationship to simplify our business and reduce our risk to anti-money laundering 
+or AML. The cost of doing proper AML or KYC, know your customer diligence on a client 
+has increased dramatically, making many of these relationships immediately unprofitable. 
+But we did not exit simply due to profitability we could have maintained unprofitable client 
+relationship to be supportive of countries around the world that are allies of the United 
+States. The real reason we exited was often because of the extraordinary legal risk if we 
+make a mistake in many places, and he is talking about around the world, it’s simply 
+impossible to meet the new requirements. And if you make just one mistake, the 
+regulatory and legal consequences can be severe and disproportionate.  
+20 
+I think what’s also relevant is, you know, probably one paragraph further down to say, in 
+all cases we tried, we carefully tried to get the balance right while treating customers 
+fairly. And I certainly felt that, that was a very well set out framework in what takes place 
+in banks globally and here in South Africa. 
+ADV KATE HOFMEYER: And is it reflective of what happens in Nedbank? 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 32 of 90 
+ 
+MR MICHAEL BROWN: Certainly, the number of transactions and amounts are 
+significant smaller given the relative scale. But it is reflective of what happens in industry 
+and in Nedbank.  
+ADV KATE HOFMEYER: Thank you.   
+CHAIRPERSON: With regard to those transactions, are you able to give some picture of 
+how small that scale is in regard to Nedbank transactions or accounts which you closed 
+generally speaking in order to deal with reputational risk? 
+MR MICHAEL BROWN: So, the – I don’t have the specific numbers with me, but my 
+recollection is that in the year to June 2016, which was the last date – 2017 – which is the 
+last date at point I can recall, Nedbank would have closed approximately 100 accounts as 
+10 
+a consequence of reputational reasons. There would be a significantly larger number of 
+accounts that would have been closed for other reasons like dormancy, etcetera.  
+CHAIRPERSON: Okay. And I don’t know to what extent you may or may not have an 
+idea. Is that close to what you would think some of the major banks also might have, or is 
+quite difficult to say in terms of, how much in South Africa, how much of that happens in 
+South Africa in terms of banks? I see that maybe in the US it is quite large, but are you 
+able to say, you are not able to say?  
+MR MICHAEL BROWN: Mr Chair, unfortunately I wouldn’t have that data from our 
+competitors.  
+CHAIRPERSON: Okay, thank you, 
+20 
+ADV KATE HOFMEYER: Thank you Chair. If we then go to paragraph 6.4. on page 204, 
+and just to locate us, you told us previously in your testimony that when the meeting 
+began, Mr Zwane gave you an assurance that the purpose of the meeting was not to 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 33 of 90 
+ 
+represent any particular family or company, but to talk broadly about issues of investor 
+confidence. Mr Brown, did he hold true to that assurance? 
+MR MICHAEL BROWN: No, as you see here, there are several questions not only from 
+Minister Zwane, but also from other members of the panel were also posed into the 
+specific circumstances, there were questions around consistency, there were questions 
+around what had been the triggers for closing these accounts -  
+ADV KATE HOFMEYER: Sorry, when you say these accounts, is this now a focus on the 
+Gupta associated accounts? 
+MR MICHAEL BROWN: That is correct. 
+ADV KATE HOFMEYER: Thank you. 
+10 
+MR MICHAEL BROWN: And a conversation that is recorded here about a Nedbank staff 
+member talking to a client of Nedbank about the Gupta accounts, it’s a conversation that I 
+wasn’t aware of prior to this meeting but that clearly wasn’t in the spirit or in the framing 
+on how this was constituted. 
+ADV KATE HOFMEYER: And did you learn how they had come to learn about this 
+particular conversation? 
+MR MICHAEL BROWN: I do not know how. 
+ADV KATE HOFMEYER: And how did you respond to the allegation that there was a 
+staff member of Nedbank who had spoken to another financial institution about the 
+closure of the Gupta accounts? 
+20 
+MR MICHAEL BROWN: So, I responded by saying that I was unaware of these 
+allegations, that they were new to me. I then said that the only context that I could think 
+they could have taken place in is a context of Nedbank talking to other financial 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 34 of 90 
+ 
+institutions with which we have a correspondent banking relationship, and as a result of 
+our normal conversations in us doing our due diligence, and anti-money laundering 
+reviews on those clients of Nedbank, it would be normal to have that conversation. And I 
+said that I would however try and understand from when I went back to Nedbank as to 
+exactly what the underlying conversation was, which I was able to do and I subsequently 
+addressed a letter to the IMC that confirmed that the IMC’s allegations to us that the 
+Nedbank employee was inappropriately talking to Nedbank clients about Gupta related 
+matters was in fact, not true. 
+ 
+ 
+ 
+ADV KATE HOFMEYER: Thank you, and were the accounts of any other families 
+discussed at the meeting? 
+ 
+ 
+10 
+MR MICHAEL BROWN: No.  
+ADV KATE HOFMEYER: If we then go over the page to 205, you then reference a 
+paragraph 6.5 what Minister Zwane then said in relation to the Nedbank-Gupta entity 
+relationship. Can you please explain to the Chair what he conveyed to you? 
+MR MICHAEL BROWN: So, what happened in the meeting is that Minister Zwane 
+referenced that Nedbank were not the main transactional bankers to the various Gupta 
+entities. I do not know where he got that information. But he then went on to suggest that 
+would Nedbank consider stepping in to save jobs and provide an amicable solution given 
+that the relevant family had in the period where we gave notice and held this meeting 
+resigned from those companies. 
+20 
+ADV KATE HOFMEYER: What did you make of that request to you? 
+MR MICHAEL BROWN: I found it particularly strange. 
+ADV KATE HOFMEYER: And what was your response to it? 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 35 of 90 
+ 
+MR MICHAEL BROWN: I reminded Mr Zwane that we were not here to discuss specific 
+client matters. 
+ADV KATE HOFMEYER: And if we just go back to his suggestion that Nedbank step in 
+to save jobs and provide an amicable solution because family members had resigned 
+from the companies. Would that provide an adequate basis for Nedbank to reinstate the 
+accounts that you had closed? 
+MR MICHAEL BROWN: Absolutely not. 
+ADV KATE HOFMEYER: Why not? 
+MR MICHAEL BROWN: Because our decision for closing the accounts was based on the 
+reputational and business risk associated with those accounts and you know, that 
+10 
+reputational and business risk would not have changed or materially not have changed at 
+all as a consequence of resignation of directors. The underlying companies were still in 
+existence and operating. 
+ 
+ 
+ADV KATE HOFMEYER: At the end of paragraph 6.5. you deal with question of collusion 
+amongst banks. Please tell us what was discussed in that regard? 
+MR MICHAEL BROWN: So, my recollection is that there was a conversation around the 
+seeming timing of all of the banks closing accounts at the same time, and as a 
+consequence of that, was there collusion in the closure of accounts, and I refuted that 
+saying we had not had any conversations with any of the banks around closure of 
+accounts. 
+ 
+ 
+ 
+ 
+20 
+ADV KATE HOFMEYER: And then at paragraph 6.6 you talk about how the meeting 
+concluded. Can you tell us about what happened at the conclusion of the meeting? 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 36 of 90 
+ 
+MR MICHAEL BROWN: So, at the conclusion of the meeting, we were thanked for our 
+attendance, and Minister Zwane commented that he found it surprising that other banks 
+had refused to attend the IMC meeting with government considering that banks received 
+their licences from government. 
+ 
+ 
+ADV KATE HOFMEYER: What did you take that to mean? 
+MR MICHAEL BROWN: I also found it to be a very strange statement. I think it felt like a 
+form of a threat, it is also a technically inaccurate statement because banks do not 
+receive their licences from government they receive their licences from the Reserve Bank 
+which is constitutionally an independent body. 
+ADV KATE HOFMEYER: At paragraph 6.7 you reference that it was agreed that 
+10 
+Nedbank would be provided with a draft set of minutes for the meeting. Did that occur? 
+MR MICHAEL BROWN: No, we were not provided with a draft or final set of minutes 
+notwithstanding our request for one after the meeting. 
+ADV KATE HOFMEYER: And at paragraph 7 and Chair, this will conclude my question 
+for the witness, unless there is why further for you? You talk about your overall 
+impression of this meeting with the Ministers at Minister Zwane’s offices. What was that 
+impression? 
+MR MICHAEL BROWN: So, I think I left the meeting with the impression that the IMC 
+was focused on 2 key issues. Firstly, to try and determine if there was collusion amongst 
+the banks in the closure of bank accounts and secondly, to determine whether Nedbank 
+20 
+would have appetite to step in and become the primary transactional banker for the 
+Gupta group of companies. 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 37 of 90 
+ 
+ADV KATE HOFMEYER: And just for clarification purposes, at paragraph 6.5 the 
+discussion around the relevant family, can you just clarify for us which family that was? 
+MR MICHAEL BROWN: The Gupta family. 
+ADV KATE HOFMEYER: Thank you, those are our questions. 
+CHAIRPERSON: Thank you. Mr Brown, in that meeting with the IMC you said that there 
+was mention of job losses which were said to be in thousands. As at that time, did you 
+understand those job losses to refer to any specific entity or not? And if your 
+understanding was that they were talking about job losses relating to a particular entity, 
+what entity was that?  
+ 
+ 
+MR MICHAEL BROWN: So, my understanding at the time would be that it was job losses 
+10 
+associated with a particular group of entities being the Gupta-related accounts, and that 
+that was an estimate of, if the Gupta’s were unable to have banking facilities and 
+therefore as a consequence, these companies closed down, that was an estimate of job 
+losses.  
+CHAIRPERSON: Now, when you spoke about the meeting that you had with the ANC 
+you made it clear that when you came out of that meeting, you had no feeling that you 
+had been pressured to try and reverse the decision of the bank. The discussion had been 
+in general as I understand it. Excuse me. In regard to the IMC meeting, did you have the 
+same impression? 
+ 
+ 
+ 
+MR MICHAEL BROWN: No, I did not. 
+20 
+CHAIRPERSON: And do you want to just articulate again what your impression was as 
+you left the meeting?  
+ 
+ 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 38 of 90 
+ 
+MR MICHAEL BROWN: So, I certainly left the meeting with the impression that a good 
+outcome for the IMC would have been for Nedbank to agree to take over the 
+transactional facilities of the Gupta family. Something that we were clearly not prepared 
+to do. 
+CHAIRPERSON: And the impression you had, was it one that made you feel that there 
+was pressure being placed upon you, or simply that maybe there was an attempt to 
+persuade and no more than that? 
+MR MICHAEL BROWN: So, again I think this is relatively difficult on a continuum of 
+pressure to persuasion - 
+CHAIRPERSON: I appreciate that. 
+10 
+MR MICHAEL BROWN: But I certainly felt that the numerous references in the meeting 
+to the licencing regime was pressure that was being placed on the bank. 
+CHAIRPERSON: You see because it is conceivable that somebody may come before 
+this Commission and say that the discussion was intended for nothing more than just a 
+general discussion. That’s why I am asking you these questions. So, maybe it might be 
+good if you say, if you just mention all the things, officials of the meeting that together 
+may have given you this impression? 
+MR MICHAEL BROWN: So, I think primarily the conversation was being led by the Chair 
+of the meeting which was Minister Zwane. 
+CHAIRPERSON: Okay, maybe my question was not as clear as it should have been. 
+20 
+What I would like you to say and you have said part of it is just to say what you would say 
+if somebody said, you are wrong to think some pressure was being placed on you to 
+change the decision. I just want you to say, I would stand by that statement if that would 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 39 of 90 
+ 
+be the position because of A, B, C, D. or if you say, look, it is nothing more than my 
+impression. That’s fine. I just want to be able to – I just want you to deal with what I think 
+may well come up later on so that we know whether you feel strongly that, that was the 
+position or it is just an impression. I just want you to be able to deal with that adequately. 
+MR MICHAEL BROWN: Thank you Chair. So, I would say that what caused me to 
+believe that there was being pressure placed on the bank would have been a 
+combination to the references to the licencing regime. And beneath that, the sub-text 
+around, you know, be careful, things could happen to your licence if you don’t behave in a 
+particular way. And secondly, the closure of the meeting which effectively was a request 
+for Nedbank to become the primary transactional bankers for the Gupta companies given 
+10 
+that other banks had terminated. 
+ 
+CHAIRPERSON: Did you say you didn’t attend the meeting with Mr. Howa? 
+MR MICHAEL BROWN: That’s correct, I didn’t attend, but officials from the bank did. 
+CHAIRPERSON: Yes, and I assume they would have given reports to you. Would those 
+reports have revealed that basically and that meeting, the bank was – the bank did give 
+information to Mr Howa that it could not give to third parties to say, this is why we have 
+made this decision, and therefore, they had the opportunity to say that’s true, that’s not 
+true or whatever? 
+ 
+ 
+ 
+MR MICHAEL BROWN: So, Mr Chair, my information is that the – first, the meeting with 
+Mr Howa was a very short meeting. The meeting was concluded probably in a matter of 
+20 
+minutes. The intention of that meeting was to deliver the notices of termination which 
+contained within them the reasoning for termination being in our opinion, the level of 
+business and reputational risk. And as a consequence therefore, the termination in terms 
+of contractual clauses and that initially Mr Howa didn’t want to receive those notices. We 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 40 of 90 
+ 
+actually had to subsequently deliver them via registered post, and his only request was 
+for the bank not to make any public statements which we hadn’t done. So, I don’t believe 
+we had the opportunity in that meeting to explain more than that given the very short 
+nature driven by him, not by us. 
+CHAIRPERSON: Thank you very much. 
+ADV KATE HOFMEYER: Mr Brown, if I may just clarify there and I fully appreciate that it 
+is difficult for you not having been an attendee at those meetings. But the description that 
+you have just given about the wanting to hand over the termination letter and the 
+resistance to that, as I have it from your affidavit was the meeting that was held Mr Nath 
+originally. Your evidence previously was that, that occurred on the 7th of April, and that it 
+10 
+was short in the terms that you have described because he was not willing to take over 
+those letters of termination. As I have it, the Chair’s question relates to the subsequent 
+request from Mr Nazeem Howa to meet with the bank. As I have it, that was in the letter 
+of the 14th of April which you received as the bank on the 19th of April. And then the 
+subsequent meeting with Mr Howa took place, let me just get my note here – on the 3rd of 
+May 2016. Can you just assist us there with the nature of the meeting with Mr Howa and 
+what was discussed?  
+ 
+ 
+MR MICHAEL BROWN: Thank you, your sequencing is absolutely correct. Apologies, I 
+was answering in respect of the meeting with Mr Nath on the 7th of April. In respect of the 
+meeting with Mr Howa again, it is difficult for me because I didn’t attend the meeting, but 
+20 
+it is my understanding that that was the meeting were there was a much broader 
+discussion around Nedbank’s termination, a conversation around the reasons and an 
+attempt to persuade Nedbank to reverse that prior decision. 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 41 of 90 
+ 
+ADV KATE HOFMEYER: And as I have it, the outcome is that Nedbank did not retract its 
+prior decision.  
+ 
+ 
+ 
+ 
+MR MICHAEL BROWN: That is correct. 
+ 
+ADV KATE HOFMEYER: Thank you Chair, and the final follow-up just in relation to your 
+questions previously to the witness in relation of the possibility of further evidence before 
+the Commission, my learned leader at the commencement on Monday indicated that 
+notices to implicated persons had been sent out flowing from the statements, those were 
+the statements of Standard Bank and of Nedbank which the legal team viewed as raising 
+implications for persons. So, specifically in relation to Mr Brown’s testimony, due notices 
+were sent to Minister Zwane. And at present, there has been no application for cross-
+10 
+examination or any other application from Minister Zwane.  
+CHAIRPERSON: Okay, thank you very much. 
+ADV KATE HOFMEYER: Thank you Chair. 
+CHAIRPERSON: Mr Brown, thank you very much for coming to give your evidence. I will 
+excuse you for now. Should there be a reason for you to be asked to come back, the 
+Commission’s legal team will be in touch with you and request you to come back. thank 
+you very much, and you are excused. 
+MR MICHAEL BROWN: Thank you. 
+CHAIRPERSON: It looks like this might be the opportune time, Mr. Pretorius, you want to 
+say something? 
+20 
+ADV PAUL PRETORIUS: No, we understand that your preference to use all available 
+time Chair, but in this case we have to set up overhead projection facilities and the 
+witness is not here at present. He was due to arrive in time for 11:30 hearing. 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 42 of 90 
+ 
+CHAIRPERSON: Yes. 
+ADV PAUL PRETORIUS: So, may we adjourn until – may we adjourn for 15 minutes 
+then? Just to allow the setup to take place. 
+CHAIRPERSON: 15 minutes is normally for tea time. Are you sure you – that’s enough 
+for setting up? 
+ADV PAUL PRETORIUS: I am told so, yes. 
+CHAIRPERSON: Okay, all right, all right. We are at five past eleven now, so let us 
+resume at twenty past eleven. 
+ADV PRETORIUS: Okay, Chair. 
+CHAIRPERSON: We adjourn 
+10 
+COURT CLERK: All rise. 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 43 of 90 
+ 
+Session 2 
+CHAIRPERSON:  Yes Miss Norman? 
+ADV THANDI NORMAN SC: Thank you Mr Chairman.  This witness is Dr Daniel 
+Kaufmann and I would like the Chairman to have regard to exhibit “G1” which is his joint 
+statement together with Dr Hellman, but I would like, ask the Chairman to swear the 
+witness in? 
+CHAIRPERSON:  I am sorry, you want this bundle to be marked “G1”? 
+ADV THANDI NORMAN SC: It was marked already exhibit “G1”. 
+CHAIRPERSON:   It is just that the one in front of me is not marked or it doesn’t appear 
+to be marked. 
+10 
+ADV THANDI NORMAN SC: It doesn’t appear to be marked yes. 
+CHAIRPERSON:   Thank you the Registrar can swear the witness in please? 
+REGISTRAR:  Please state your full names for the record? 
+DR DANIEL KAUFMANN:   Daniel Kaufmann. 
+REGISTRAR:  Do you have any objection with taking the prescribed oath? 
+DR DANIEL KAUFMANN:  No. 
+REGISTRAR:  Do you consider the oath to be binding on your conscience? 
+DR DANIEL KAUFMANN:   Yes. 
+REGISTRAR:  Do you swear that the evidence you will give today will be the truth, the 
+whole truth and nothing but the truth?  If so, please raise your right hand and say so help 
+20 
+me God. 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 44 of 90 
+ 
+DR DANIEL KAUFMANN:   So help me God, yes. 
+REGISTRAR:  Thank you. 
+CHAIRMAN:   Thank you very much.    
+ADV THANDI NORMAN SC: Thank you Mr Chairman.  Dr Kaufmann is it correct that you 
+together on, with Dr Hellman testified via skype on the 31st of August 2018, to this 
+Commission? 
+DR DANIEL KAUFMANN:  Yes it is correct. 
+ADV THANDI NORMAN SC: Is it also correct that you are in possession of the transcript 
+of the proceedings of that day? 
+DR DANIEL KAUFMANN:  Yes. 
+10 
+ADV THANDI NORMAN SC: And have you gone through that transcript?  Do you recall 
+that the evidence that is contained in that transcript is evidence that you gave? 
+DR DANIEL KAUFMANN:  Yes. 
+ADV THANDI NORMAN SC: Thank you. On the last occasion you did indicate to the 
+Chairperson that in response to some of the questions that you would want to elaborate 
+when you come to South Africa? 
+CHAIRPERSON:  I am sorry before you proceed I thought you would follow up with 
+another question in the light of the fact that at the time when they testified, they were 
+thousands of kilometres away from here, that you would ask him, let me ask him.  Do you 
+confirm that the evidence that you gave at the time via the video link is true and correct? 
+20 
+DR DANIEL KAUFMANN:  Yes, Mr Chairman I do confirm that. 
+CHAIRPERSON:  Thank you. 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 45 of 90 
+ 
+ADV THANDI NORMAN SC:  Thank you Mr Chairman.  On the last occasion then you 
+indicated in response to some of the questions that you would want to elaborate when 
+you come to South Africa and testify. Just one aspect which I would like you to just 
+confirm which I do not recall that you confirmed according to the transcript that you are 
+actually an Economist and a Social Scientist, am I correct?  
+DR DANIEL KAUFMANN:  Yes that is correct. 
+ADV THANDI NORMAN SC:  And having read your statement, having looked at your 
+transcript and having looked at the material that you provided, I decided on my own to 
+come up with a presentation which I would like to show and then you would indicate to 
+me whether you believe or you want to elaborate on some of the things that I have 
+10 
+recorded on that presentation?  With your leave Mr Chairman may I beg leave to present 
+to you the presentation which is entitled, can we just open it, “The State Capture 
+Phenomenon Where Business Becomes The State”.  Could we just move on, or maybe 
+even at that point, would that coincide with your understanding of when a State is said to 
+have been captured that that would be those instances where business would become 
+the State itself? 
+DR DANIEL KAUFMANN:  Thanks, Mr Chairman a comment on these, that is a very 
+powerful title for a presentation and that is noted.  In terms of the approach and the work 
+which we have done for decades with Professor Hellman who is not here before you 
+today, these would be an extreme manifestation of State Capture when the business 
+20 
+become fully the State.  That however, should be also noted that State Capture could 
+have other forms and could be coming more in subtle ways.   
+The way we define it is the ability of certain very powerful influencing group usually from 
+the private sector to shape the rules of the game that basically make the State function or 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 46 of 90 
+ 
+not.  So shaping the institutions, the rules, the policies, the laws and regulations 
+governing the State which could come in various forms, an extreme form is when it 
+becomes the State itself. 
+ADV THANDI NORMAN SC:  Yes thank you, and then the next... (interrupted) 
+CHAIRPERSON:  I am sorry before you proceed.  It might be helpful if the witness would 
+just refresh everyone’s memory of some important features of the evidence they gave 
+before.  I do not know to what extent what you have will reveal that or whether it is just a 
+continuation? 
+ADV THANDI NORMAN SC:  No, in fact I wanted to start with what you are suggesting 
+but the witness preferred that we start this way.  We will deal with all of those very, very 
+10 
+critical features of his evidence. 
+CHAIRPERSON:  Alright. 
+ADV THANDI NORMAN SC:  Thank you.  And then the second slide would, haven taken 
+from various countries, haven taken from various authorities and various publications 
+where we have listed possible persons that may be or entities that may be captured.  You 
+see that, second slide?  Are you there? 
+DR DANIEL KAUFMANN:  Yes. 
+ADV THANDI NORMAN SC:  Yes in that certain countries it may be the President of that 
+country, in certain countries the Ministers, it may be Officials, it may be Councillors, it 
+may the Judiciary? 
+20 
+DR DANIEL KAUFMANN:  That’s correct. 
+ADV THANDI NORMAN SC:  Okay, thank you and then on the third slide we deal with 
+intermediaries and enablers, this is something that you did not touch upon in your 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 47 of 90 
+ 
+evidence when you testified on the last occasion.  It was mentioned briefly that there 
+would be many players in the industry, but then what I have identified, what I have 
+identified from your evidence is, these intermediaries, enablers can be many and not 
+easy to identify but the important facilitators of State Capture, some private Accountants, 
+financial and Tax Advisors, International Traders, Lawyers etcetera.  So why is it difficult 
+to identify the intermediaries and enablers?  
+DR DANIEL KAUFMANN:  Well the challenge is one of doing the proper in depth 
+diagnosis for each country.  If that, if and when that is done and a number of countries 
+have embarked in this process and you are one, it should be possible to identify those 
+intermediaries but by definition because of their nature of State Capture they tend to 
+10 
+operate in the shadow and there are many pre-conditions for basically shedding light on 
+that shadow. 
+I can refer to that later as we go through the transcript and you may have detailed 
+questions in regarding particular cases and how long it may take until all of these is 
+unearthed but with a proper political war resolve and then tactical war and investigative 
+war it is possible to unearth and identify who these enablers are.  It is very important to 
+recognise between the captor that those that seek to shape the laws, the regulations and 
+the policies of the State and those that are captured they are very important facilitators 
+and enablers, it is not done just between two parties usually, it is a complex web and 
+doing the proper diagnosis it will vary from country to country but it is possible, 
+20 
+ADV THANDI NORMAN SC:  Yes, thank you.  And then you have already mentioned the 
+capture which is on the next slide the entity, the person or the firm that would have 
+control over the intermediaries, enablers and may seize public power, influential business 
+people, particular economy conglomerates, military etcetera. 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 48 of 90 
+ 
+DR DANIEL KAUFMANN:  That is indeed the case and in some, certain some countries 
+also the mafia’s, drug traders, very powerful illicit economic interest play a role in some 
+others could be some part of the more traditional economic or financial elite so it will vary 
+from certain to certain. 
+ADV THANDI NORMAN SC:  Yes thank you, and then the next slide is these are the 
+potential sectors that you have identified in your report, not all of them but some of them 
+as being the sectors that can be captured being the extractive, the mining sector, the 
+industrial sector, energy, financial, communication and military.  Is that correct? 
+DR DANIEL KAUFMANN:  That is correct and that again I want to stress, take this 
+opportunity Mr Chairman to stress the importance of acknowledging the particularities of 
+10 
+these challenge in every country and that is one of the reasons I commend your 
+Commission and the work that it is doing but nobody can come from the outside and say, 
+and have a particular template or Bible that says where it all happens.   
+As the expression goes to use if you allow me a bit of lightness, why do so many robbers 
+are interesting in robbing a bank?  It is because that is where the money is.  Well it is a 
+useful simplistic approach to start looking at this issue when does a diagnosis within a 
+country it will depend where the most, the sources of major [inaudible 0:11:32] for that 
+elite would be.  In some countries it would be the oil sector which is, we focus many 
+countries on that which is subject to capture of the rands, others is the financial sectors, 
+others could be both so it would vary from country to country depending on the 
+20 
+particularity of the country. 
+ADV THANDI NORMAN SC:  Yes thank you, and then I have just entitled matters that 
+you have identified as red flags so to speak.  So you deal with sponsorships and 
+donations, charities and educational foundations, Trusts mismanaged and unduly 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 49 of 90 
+ 
+influenced State owned enterprises or through privatisation, illicit political finance, 
+beneficiary ownership, financial benefit to dependants of family members, monopoly over 
+fishing, mining, energy, communication rights, and financial benefits to the members of 
+the Executives from foreign countries.  I will take you to some of these later on in your 
+evidence, but is there any particular one that you believe that I have left out from your 
+summaries?    
+DR DANIEL KAUFMANN:  I think this is a comprehensive enough first unless some 
+further details can come out through the details. Later I should stress also that since 
+already it is clear that you are doing very, very important work on that, there may be 
+some features that you have emphasised here which may be particular here which we 
+10 
+would not have emphasised and we have not seen it in our previous work, like you 
+mentioned at first sponsorships and donations, you would know best how that works here 
+and whether that is a particular feature. That does not come from our work and the only 
+other comment for now to put it in context that could be quite unique to hear. 
+On the other hand the challenge of State owned enterprises being utilised as a vehicle for 
+capture and the distortion of basic policies, the use of public funds and so on, that is quite 
+common in this field and it is something that is a major challenge that we are trying to 
+help with in other countries in particularly in the oil sector we have studied that in the 
+context of the organisation I lead but also it is clear in other sectors as well.  So that you 
+have mentioned here, it is a challenge it is quite common in many other countries of how 
+20 
+State owned enterprises are not, do not operate in the best commercial, financial and 
+economic interest of the country, of the public good but are essentially part of the 
+captured environment for the benefit of the few.   
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 50 of 90 
+ 
+ADV THANDI NORMAN SC:  Yes, thank you, and then the next slide we deal with the 
+administrative corruption as you deal with it in your statement and regulatory corruption 
+State Capture, but what, I would not want you to comment on these because the 
+questions that I am going to be asking you later on they relate to the distinction between 
+these concepts which we must, you will have to deal with, but you just summarised your 
+report in so far as those are indicated therein. And then the next slide is the 
+consequences of State Capture, the erosion of the economy, the cost to the entire 
+society, that it may plunge the country into recession, it may affect poor members of 
+society, destroys competition, it affects countries borrowing capacity and it may lead to 
+unemployment and increase to State grant dependency.   
+10 
+But I am going to now with all of that summary then take you so that you can put that 
+summary into context as to when you are talking about State Capture, you have already 
+told us what it means, but we would like you to repeat it now because maybe other 
+people didn’t hear it properly when you explained via the video link, that the whole 
+concept, you had coined the terms State Capture together with Dr Hellman, am I correct? 
+DR DANIEL KAUFMANN:  That’s correct. 
+ADV THANDI NORMAN SC:  Yes, and then in simple terms what do you mean when you 
+say a State is Captured? 
+DR DANIEL KAUFMANN:  First Mr Chairman, and thanks again for this opportunity and 
+to be in person in here it is my honour and privilege to be before you in person and in 
+20 
+your wonderful country but to give credit where credit is due, we did not invent the terms 
+capture and we did not invent or what is in this framework but as it is usually in Academic 
+work, we studied in depth the previous literature as well as reality as we saw it on the 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 51 of 90 
+ 
+ground as well as we are serious believers in evidence based analysis, evidence based 
+advise and evidence based policy making.  
+So we did a lot of surveys to collect data about this situation, a lot of credit goes to other 
+writers in the, well in the past but particular one noble prize in the economics George 
+Stigler who wrote first about regulatory capture and he did encompass a sense of very 
+powerful interest being able to influence particular regulations in an economy, so that 
+already had been developed. 
+What we did is pick up on that but broaden it and I think that is a clarification if you allow 
+me to make it  very broadly here because I know that is a legally oriented Commission 
+which is commendable yet it is very important to understand our concept beyond only the 
+10 
+laws, the legal aspects of that.  The concept that we developed and we made it very clear 
+is the shaping of the rules of the game in a particular nation by those influential few, 
+usually but not always illicit means to do so and these rules of the game, by these of the 
+game we mean the laws yes included, but not only I mean some countries that mostly 
+express through the implementing regulations and other such regulations, it is the laws, 
+the regulations, the policies, what happens is micro economics policies and so on, there 
+is a lot of discretion in any country within the constitution, and within the existing laws yes 
+yet they can be captured the allocation of public expenditure. 
+What happens in State owned enterprises? Whether their procurement system is rigged 
+or not could still be in a context where their constitutions and the laws in the constitutions 
+20 
+were not necessarily unduly shaped by that particular capture, capture elite.  It could 
+have started very well but it is in the context of these policies and regulations and 
+institutions that are captured that these could happen.  So in that sense I want to draw 
+the distinction and the broadening of the term from regulate, the original notion of 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 52 of 90 
+ 
+regulatory capture or even legal capture, we would very narrowly focus on that to make it 
+broad to also encompass all policies implementing regulations as well as institutions, the 
+key institutions in the State.    
+ADV THANDI NORMAN SC:  Seeing that you have already touched on regulatory 
+capture, could you define for us because this is an aspect that you deal with in paragraph 
+7 in your statement, you deal with administrative corruption, you deal with regulatory 
+corruption. Could you just define those because there seems to be a very fine line 
+between the two and also to make it easy for one when you are presented with facts at 
+the end of the day to see whether this is indeed regulatory corruption or administrative 
+corruption, could you just deal with those two concepts? 
+10 
+DR DANIEL KAUFMANN:  So just a bit of elaborating on that Mr Chair, administrative 
+corruption takes place when there is bribery or related illicit action that basically provide a 
+private gain and a private benefit to one individual in the implementation of a particular 
+regulation or a particular law. If I have accumulated certain sanctions for being drunk, for 
+drunk driving or trying to get rid of parking ticket violations and I pay a bribe or for red 
+tape, to try to get around red tape in my company and so on and facilitate for my own 
+individual benefit without, which is insidious and it should not be happening but that does 
+not necessarily have a major impact throughout society and for the public good to 
+everybody else, that is administrative corruption and that would extinguish, so that is in 
+the implementation of a particular regulation or not. 
+20 
+If instead we are talking about altering and shaping these laws, these regulations, these 
+institutions have it influence it and distort them so that ultimately the benefit is for myself 
+or a small group in the elite and it is usually at the expense of the public good to the rest 
+of society, that is what we are talking about in terms of State Capture and again I want to 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 53 of 90 
+ 
+make the distinction that is broader than the original notion of regulatory capture which 
+only focus on particular regulation but here we are talking about institutions also and 
+about policies. 
+ADV THANDI NORMAN SC:  And then this regulatory corruption, administrative 
+corruption and State Capture, you associate, when you titled some of the headings they 
+referred to countries that are in transition.  Can we find these in countries that are actually 
+stable, that are old that are not in transition at all? 
+DR DANIEL KAUFMANN:   That is another excellent question Mr Chairman and before 
+fully embarking into that just like I gave an example in the case of administrative 
+corruption as like when there is red tape and one tries to get around the red tap in paying 
+10 
+a bribe, a very potent example of what happens with State Capture which doesn’t 
+necessarily imply that somebody shaped the constitution in a particular way, it is in 
+political financing and the rules, the regulations and the system of party and political 
+finance it is something that evolves over time and enormous amount of abuses take place 
+in many settings in the world to affect particularly those policies and subsequent laws that 
+are passed through Parliament in many countries. 
+So that is an example of how a system can be influenced, the same can happen with as 
+we said through State owned enterprises and through public expenditure and through 
+other such things which have major impact. So now in terms of the issue of in transition it 
+is essentially to recognise the notion that countries that have been in transition, their 
+20 
+institutions are either more influx because they are also in transition, they are evolving, 
+they are being developed and or they start from a rather weak initial stand point. 
+And for either of those two reasons or for both the vulnerability to being captured in the 
+process, because the institutions are being shaped during those transitions and the laws 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 54 of 90 
+ 
+and the implanting regulations and the policies, there is a higher probability of being 
+available to capture. It is very important to recognise also how do we interpret transition? 
+Transition is not unique to what we used to call developing countries and I am a proud 
+citizen of a country that was labelled as a developing country was it Chile and now we are 
+a proud emerging economy and part of OCD. 
+Those transitions also take place in very industrialised and very rich countries, many of 
+us are observing with much concern the transitions beginning to take place, how it has 
+begun and will probably have major impact in the case of Britain and Brexit, that is going 
+to be a major transition where many institutions, rules, laws, regulations would have to be 
+reformulated and are going to traverse. 
+10 
+So that is the first clarification. Transition doesn’t mean development, developing country 
+status it is common in emerging economies. We were in transition and in some sense we 
+were just at the end of a very important transition, post military dictatorship in Chile which 
+was in Chile until the late ‘80’s. It took a generation to, for that transition to occur I am not 
+going to label now all the details but it takes a long time. The Soviet system, one is a 
+transition, one is a red curtain falls and in many ways it is still in transition. 
+I have come here from Ukraine, still a country very much in transition where many of the 
+institutions had been subject to this challenge of capture in one form or another. So it is a 
+higher vulnerability in countries in transition but it is not only. To illustrate, a country that 
+has not been in full-fledged transition with very robust institutions since sometimes the 
+20 
+1900’s, after having experienced enormously high and corrosive corruption is the United 
+States itself and it took a very long time for that transition to occur. 
+After the Civil War historically things did improve, there were hiccups with the mummy 
+hall experience of their political movement out of New York and so on then there was a 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 55 of 90 
+ 
+recovery and much improvement but nowadays it is a serious concern and given their 
+political changes that some forms however subtle or not subtle of State Capture have 
+returned even in the case of the United States which if there is interest I can elaborate 
+further later but it is to illustrate that that can also happen in countries which are typically 
+not labelled in transitions. 
+ADV THANDI NORMAN SC:  Yes, then you would get a questions from someone from 
+South Africa, where South Africa is, has according to South Africa now as you find it now 
+has its foundational values entrenched in the Constitution which we regard as one of the 
+best Constitutions in the world, now, then someone is going to say when all the laws were 
+promulgated, all of the laws after 1994 at least, they had to be consistent with the values 
+10 
+as housed in the Constitution. So you have that situation then in South Africa where we 
+know that everything has to be constitutionally compliant, how then does one associate 
+regulatory corruption with a state such as South Africa as we find it now?  
+DR DANIEL KAUFMANN:   Thanks, an excellent and complex issue again that you are 
+asking and Mr Chairman, the first thing that I would want to clarify is that the assessment 
+of the situation in South Africa is yours, I am not an expert in South Africa so that’s of 
+high interest and I am of course very interested in informing myself while I am here on 
+that, so I speak from the experience of other countries. Countries like the United States 
+and some others have very robust also and proud constitutions, there had been 
+amendments because the times evolve and as times evolve there is always a need to 
+20 
+refresh the legal framework, reinterpret, have amendments and so on. 
+Just to illustrate since we just discuss the United States and also to put it very frankly and 
+clearly that this problem of State Capture is not of one type or particular country or 
+economy, it is not an issue for developing countries in particular or so on. The United 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 56 of 90 
+ 
+States which has had their very robust constitution, very robust and then with its 
+amendments they have had over time, interpretations, because it is common law 
+interpretations, they go to the Supreme Court and what constitutes corruption and 
+bribery? Under the existing laws as of 2 years ago, as of a few years ago, what 
+constitutes bribery and corruption their former Governor, the other time a certain 
+Governor of Virginia was indicted, was prosecuted, indicted and then ended up serving 
+time because of illicit gifts that he had received while in office from a contractor that 
+subsequently got particular contracts.  That goes, is appealed, goes up to the Supreme 
+Court, the Supreme Court, the Supreme Court essentially uses that case to redefine and 
+narrow the definition of bribery and corruption by suggesting that was not sufficient there 
+10 
+was corruption there had to be a much more direct and totally proven link between the 
+two events. 
+The gift that was provided on the one hand and then the subsequent decision which is 
+considering the Governments field of overly restrictive and draconian and therefore it 
+would leave many people who are engaged in bribery and corruption with impunity. That 
+as an analyst I am suggesting that but the main point here is to illustrate that the laws are 
+a very important institution in a country at a particular moment but they do evolve even 
+when there is a constitution. So what was illegal up to a year and a half ago in the United 
+States regarding a possible bribery offence now it is legal that goes also to the notion that 
+we have exploring the past that bribery can be or capture, can be done through legal 
+20 
+means according to the laws of the moment in that country which doesn’t mean that that 
+cannot change. 
+Conversely and not to be also fair to many robust institutions in the United States, after 
+the Wall Street crisis, following that major debacle which had major worldwide 
+consequences and the Wall Street crisis is a case on capture of the financial rotatory 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 57 of 90 
+ 
+system by Wall Street and related elite. After that there is a reaction, there’s an 
+institutional reaction suggesting the robustness and the resilience of the political and 
+related institutions in the United States, as a result major regulation and legal changes 
+take place in the form of the Dodd-Frank Financial Sector Bill which makes many things 
+that were legal before illegal in terms of the activities in the financial sector. 
+Again it is a way of suggesting that these laws do evolve over time and different groups 
+may have different type of influences on those laws. Some through legitimate lobbying 
+and part of the competitive political discourse but some they could be on you and could 
+be going the wrong direction. Unfortunately now there is a movement to undo many of 
+those tighter regulations of the financial sector again because of the interest of the 
+10 
+financial elite in the United States and the present political environment. Most of it has not 
+yet been undone and it goes to show that the resilience of the institution are important. 
+But the point here is we are in a dynamic context where the laws the regulations, the 
+policies of every country evolves even in the context of a very robust initial constitution 
+and set of laws. 
+ADV THANDI NORMAN SC:  Yes, thank you. In your statement you deal with the issue 
+of governance witnesses as being some of the causes of State Capture and then could 
+you just elaborate on that and just show briefly why governance deficiencies would cause 
+that or would lead to it? 
+DR DANIEL KAUFMANN:   In simple terms Mr Chairman, thanks again for a very apt 
+20 
+question, in simple terms we are dealing with a complex inter play between the chicken 
+and the egg. First and you showed it in your summary slide very well, when State 
+Capture is present that those actions by the captor are bettered by the intermediary, the 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 58 of 90 
+ 
+facilitators, the enablers, can have major consequences. Some of those consequences 
+are on the broader governance structures of a country itself.  
+In some countries expectedly [inaudible 0:34:59] in some countries in Latin America, not 
+the Brazils or the Chile’s who has made much progress but in others some many 
+countries, the Former Soviet Union the judicially has been totally captured. So the 
+undermining of the governance, a key governance institutions where it is in rule of law in 
+terms of economic management and policy making and so on takes place as a result of 
+capture and that would be one of the slight additions I would have suggested in your nice 
+framework that you put it, is not only the social economic and other costs you put but the 
+cost in terms of the governance institutions being weakened and undermined and let’s 
+10 
+not under estimate and call it by its name, the undermining of democratic constitutions. In 
+countries were, that happen in transition, democracies is already dynamic and vibrant but 
+if a very small elite captures a system, in the eyes of the rest of the population there is a 
+major loss of legitimacy of those very democratic institutions. 
+I mean in Latin America we have had it from time to time, such political influencing in 
+equality that arises, there are talks about military coup again and so on, after having left 
+behind this military dictatorship for a long time and the appetite then of considering well 
+maybe we would not be so bad under military dictatorship if instead the alternative is a 
+completely capture system in the economic and social sets. So I want to stress that 
+linkage. 
+20 
+Of course the other side of the causality direction, the direction from going of weak initial 
+institutions to enabling State Capture to occur is also present and that goes to your 
+previous question why do you focus on countries in transition? When the Soviet Union 
+collapses, in some sense he becomes almost like a blank cheque in terms of all the 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 59 of 90 
+ 
+institutions that have to start from scratch consistent with political competition and 
+democratic institutions as well as economic competition, what to do with all the State 
+assets that begin to privatise and what happens to them? 
+So depending how weak those governance structures at the initial point that can also 
+influence the extent to which State Capture occurs, so essentially the directions in both 
+ways. The initial governance strength or weakness or the institutions of the State when 
+the process start is a very important determinant about the vulnerability to State Capture 
+and conversely once State Capture occurs that has very pernicious effect for the 
+development of the governance institutions in the country.               
+ADV THANDI NORMAN SC:  Yes, from your, I know in one of the answers to one of the 
+10 
+questions you made it very clear you are not here to talk about South Africa because you 
+have not looked, you have not researched south Africa? 
+DR DANIEL KAUFMANN:  And because... [interrupted] 
+ADV THANDI NORMAN SC:  Yes. 
+DR DANIEL KAUFMANN:  You know it much better. 
+ADV THANDI NORMAN SC:  Yes thank you, and then can we then just deal with one 
+other issue that you dealt with in your report at page 38 where you now say once a State 
+finds that or once there is what is State Capture in any state, what are the solutions? I 
+had taken you through this in your previous testimony but I would like you to give 
+examples to the Commission because you had undertaken to come back and give 
+20 
+examples of some of the countries that were found to be in a situation where there was 
+State Capture and what steps did they take to try and redress that situation?  
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 60 of 90 
+ 
+DR DANIEL KAUFMANN:  Sure, I can do that. Now it is very important to recognise how 
+incredibly complex this issue is and that is why it is commendable what you are doing and 
+there are pitfalls in just picking a country and suggesting the whole country is a success. 
+We are in an imperfect world with great leaders, great institutions and lighten countries in 
+many cases but also there are other forces, other institutions so there will be progress in 
+some areas and not in others. There will be two steps forward and one step back even 
+when there is progress. 
+But of course I cannot help if you allow me to say a few things about the case of my own 
+country in Chile where first it is very important to study and recognise the historical 
+antecedence in every country, the Soviet Union for instance the Soviet system in many 
+10 
+ways we studied very, with data and very clearly, there was very significant corruption 
+throughout their system and how their elite in fact basically benefit in a very particular 
+way at the expense of the rest of the population. 
+So it is very easy sometimes to only focus on what happened a few years ago. In Brazil 
+everyone is focused on what has happened very recently in the case of the car wash 
+scandal and so on but we have this, the understanding and the view of already this has 
+been going on for 20 years and one has to understand the military dictatorship and to see 
+them and how that had a major impact. 
+In the case of Chile it is a case that historically, there was already, there were already in 
+lighted leaders who in parked the absolute paramount importance of serving, of being 
+20 
+public servants and serving with full integrity and doing away from lack of  interpreted 
+practises. There was already historical structure, in fact from the first founder of the 
+country Bernardo O’Higgins and who becomes the first leader in the country we are 
+talking about 1812 if you allow me, and one of his first decrees was to order at that time 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 61 of 90 
+ 
+the presidential house, it is a presidential palace but it is not so much of a palace, the 
+outside walls had to be plastered with all the names of the top officials and the high 
+officials and what were their income and assets. 
+This is 1812, we are now in almost 2020 how many, in how many countries they still 
+reticence to do some, such basic wall, but that is to illustrate that it is very important to go 
+back to history and then there are many other [inaudible 0:42:27] there are problems, but 
+governance improves and then there are set backs and these are set backs under the 
+dictatorship of Pinochet in the mid ‘70’s to late ‘80’s and eventually was discovered there 
+was a lot of corruption including by the leader [inaudible 0:42:45] and the association with 
+the particulars by the private elite was already a form of capture then and then major 
+10 
+reform start to take place. 
+Two major findings that we have, already with Joel Hellman from our initial war on State 
+Capture from the Soviet Union, which post-Soviet countries we are talking about 27, did 
+better and which ones went the capture way, which ones went the competitive way?  And 
+it is a clear distinction and I discussed it briefly last time between the two types, the 
+countries in the Baltics, the Slovenians and others have gone market, have gone 
+completely, so there is nothing predetermined versus countries like Ukraine and Russia 
+[inaudible 0:43:35] and others. 
+So there are two distinct types.  Two major issues has come out very clearly as 
+associated with [inaudible 0:43:46] of capture of lack thereof.  One, political contestability, 
+20 
+the extent that there is a vibrant competition politically and associated with that civil 
+liberties, the voice of civil society, engagement of civil society, are they there or are they 
+supressed like in Central Asia unfortunately that is the case there now, the voice of that, 
+so that is one, the political contestability and competition. 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 62 of 90 
+ 
+The other is economic contestability and competition, to what extent a vibrant medium 
+small scale sector is allowed to operate, enter and operate. Even if there are large 
+enterprises either is there enough competition rather than, in the Former Soviet Union we 
+call them Holy Guard, is there one or two Holy Guards or maybe there are twenty, twenty 
+five and then already competition and suits as well as the next stage medium and small 
+scale.   
+So the extent of that economic contestability, economic competitions is very important. 
+For that obviously opening te doors to the rest of the world having investors and the 
+presence of global, more global industries also can be very important. Also misbehaving 
+in terms of Governments and corruption but overall the openness and the competition 
+10 
+that context is very, very important. 
+Then one gets into the details those are very large buckets but obviously to the extent to 
+which anti-monopoly regulation in the country effective works is extremely important for 
+such a competition in the economic field. In the political field it is extremely important to 
+which, not only to which this political competition among parties, you know very open 
+legitimate way and total open and voice of civil society but the extent to which there is 
+democracy within party. 
+In Chile, one of the things that we have to do following some scandals including, 
+regarding public financing and so on, one of the major reforms that were undertaken is 
+opening up the system of electing the leaders within each political parties. So the whole 
+20 
+notion of how political parties function and how can they be made more open and 
+democratic which is a significant challenge in my region Latin America is it’s a key issue 
+on that. 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 63 of 90 
+ 
+And then there are obviously major advances that are made including in my country in 
+Chile regarding the whole procurement process that is another institution that tends to be 
+captured. First transparencies is absolutely crucial and putting everything on line and 
+making it contestable and subject to appeal, but also the system how competitive the 
+bidding takes place, it is absolutely key. 
+And for now, last and lastly and least because it is also a great experience in the case of 
+Chile, meritocracy, the importance of instituting and having us part of the DNA of the 
+institutions in the country that is meritocratic, be it the civil service, their judiciary but very 
+importantly also State owned enterprises, how the board are constituted and the top 
+executive on State owned enterprises and on regulatory agencies. 
+10 
+There is a commission, there is a commission which is totally independent including 
+outsiders from the public sector and Government and other experts that essentially 
+provide three top candidate to the decision making body be it Parliament or the President 
+regarding the top agencies and that politicians, those politicians can only chose after 
+meritocracy. 
+So now some allowance for the political should be there and the politicians should have 
+been elected to powers shall we say but they have to choose from that trio, that is chosen 
+wat meritocratic suggest.  There were so many thousand, tens and tens of thousands of 
+political appointees, whenever Government change hands, political appointees were very 
+low in terms of the totem pole or the secret services. Nowadays that has been capped 
+20 
+and it is a very clear and limited amount which are political appointees the rest is all on 
+democratic grounds. So these are types just to suggest that the type of reforms in that 
+direction which are very important.     
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 64 of 90 
+ 
+Last but not least on political campaign finance, there is a major role that the public sector 
+plays in providing public finance which is equal across parties in terms of also access to 
+TV and so to make the system more equal and less amenable to private influence and 
+very, very strict gaps and bands regarding private contributions to political finance.  It is 
+just a whole field different areas where one would have to cover but of course it depends 
+on the particular vulnerability and nature of the capture in each country where their 
+homework needs to be done, which institutions are the most amenable to capture? 
+The wholly show of State owned enterprises and the reform of Sate owned enterprises 
+the state of the art has advanced significantly in terms of what to do it to improve. The 
+issue is mostly at the stage now it is not so much technical it is political will, it is political 
+10 
+will to do it to make them truly independent commercialise. I rejects and as an analyst we 
+have done a lot of homework, I reject the notion that the only solution is privatisation. 
+Privatisation if well done in a particular form makes sense in some cases but not in 
+others. State owned enterprises, if the reforms do take place and then they can perform 
+the role that they should be performing can be efficient. We, recently an assessment was 
+done of over 80 State owned enterprises in all gas and mining around the world and I am 
+very proud to suggest and I didn’t have any role in the methodology that Codelco the 
+Chilean mining company came out ahead of even Statoil the Norwegian oil company and 
+others from industrial countries and the State owned enterprises from India from other 
+emerging economies came out, rated and assessed very, very highly so yes it can be 
+20 
+done. 
+ADV THANDI NORMAN SC:  Yes thank you. And then maybe you could just as well now 
+that you are dealing with the examples of these countries and then just give us an 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 65 of 90 
+ 
+example of parent because you asked, you had indicated at page 106 of the transcript 
+that you would elaborate on that, on the position of the Peruvian State? 
+DR DANIEL KAUFMANN:   Well, Peru it is another context that is very dynamic and they 
+made some strides unfortunately less in the potential it could have been. A number one 
+again it is really important in Peru to recognise now the following, yes the President up to 
+about 8 months ago or so, up to recently, President Kuczynski had to leave power, was 
+basically sacked because he was associated with the major corruption and capture 
+scandal that started in Brazil under the car wash scandal, which I can refer the case of 
+Brazil because it is quite interesting in that and I had promised that if there is time an 
+interest but it goes to show first that some of these corruption and State Capture 
+10 
+nowadays is transnational in nature and one, it is very important to always look at the role 
+of outsiders in that, both enables in our field which is all gas and mining which is one of 
+the areas I focus on. 
+There is some commodity traders in the oil business who do not necessarily behave and 
+act in the best interest of the nation where the oil, gas and mining is being purchased as 
+oppose to some now more enlightened transnational and multinational mining companies 
+that are operating at a much higher standard of governance realising that ultimately it 
+pays, it pays for the country, it pays in the long run for them. 
+So the first is to recognise the international dimension that has become very clear 
+recently in the case of Peru, the President loses his job but this is not a recent 
+20 
+phenomenon and again it is really important to go back to history. Many people are 
+focussed on the military regime of President Fujimori who also ended up in prison. 
+So one can say some institutions do work because there is no impunity and it happen in 
+prison and the system that he had with the Chief of Intelligence Montesinos which was a 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 66 of 90 
+ 
+different type of capture because is started from that political intelligence elite but then 
+they were in cahoots with the top business elite, some in the top business elite. They also 
+captured the media which is a very important issue here the freedom of the press which 
+is something we can relate to. 
+Later, but in that context even what happened under the military regime of Fujimori and 
+we are talking about the ‘80’s into the ‘90’s, already had [inaudible 0:53:56] of corruption 
+under the previous administration which was more democratic but with fragile institutions, 
+the President of, President Garcia where the particular relationship with the elite had 
+already begin to take place.   
+So already there was a history since then. In recent times, in recent months because of 
+10 
+what has recently happened in terms of this scandal or corruption which was a bit more 
+transnational in nature and because of the nowadays the press is no longer captured like 
+it was before because of the civic space that is provided and the citizens demanding 
+change, there is increasing attention to that by the top political leadership who had begun 
+to enact certain laws and policies to try to move forward and address these issues of 
+corruption and capture but this incipient and there one has to recognise there is a deep 
+historical background that has to be brought into play in understanding these issues of 
+capture. They do not happen overnight and they do not usually just happen under one 
+regime.    
+ADV THANDI NORMAN SC: Thank you, and then from that answer one gets the sense 
+20 
+that from what you have told us, there is different forms of State Capture, they come in 
+different forms and shapes and one has to look at a particular form that present itself 
+before that particular country at that time. 
+DR DANIEL KAUFMANN:  That is right. 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 67 of 90 
+ 
+ADV THANDI NORMAN SC: Yes, and then once then a country has found that is has 
+been captured, what is the best way of dealing with it? 
+DR DANIEL KAUFMANN: I would want to encourage a broader debate and discussion 
+because you know the case of South Africa better what the notion of discovery also 
+means. I assume it is not an overnight epiphany but it is already a process of observing 
+and basically also feeling the consequences of a particular types of mis-governance, 
+corruption that may be taking place already for some time and then it takes the work of a 
+Commission like yours and I know that many Academics here working on it and so on to 
+fully unearth what are the major manifestation, what is really happening and I know there 
+were major reports issued late, or not so late last year by the Prosecutor and so on and 
+10 
+that is part of the process one goes on what you, I know in legal terms you have the 
+notion of discovery but it is a process, it is a dynamic process. 
+Similarly the response to it which is absolutely crucial and I commend you because it, for 
+what you are trying to do and this is such a historical opportunity here in that case, that 
+has to be home grown and it has to draw and we, I am very pleased to have been invited 
+here with also Joel Hellman having testified and we can provide suggestion from the rest 
+of the world but it is more in terms of what they did and they did in response to A, B, C, 
+and D, and you would know best what is applicable or not. 
+I would start this as a way of thinking about the issue in terms of asking the questions 
+regarding of what are the most vulnerable institutions that had been subject to capture 
+20 
+and why and what are the forces behind it. In terms of the forces behind it one has to look 
+and I speak as an Economist in terms, the incentives, what were these incentives for 
+those that were trying successfully or not to capture, why were they there rather than say 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 68 of 90 
+ 
+no that is not in our interest as was told by Professor Hellman in our joint discussion from 
+a far a few weeks ago.   
+It is in our human nature that is part of researchers, we know that and we try to influence, 
+influence others and influence decisions that is true everywhere.  The questions is how to 
+organise and regulate that influencing so that it is competitive, it is legitimate.  The many 
+civil society groups, legitimate groups that want influencing in one form or another to take 
+place and thus inform the Parliament and that is part of the vibrant democratic process.   
+The problem is when it becomes monopolised by the few that influences and that gets 
+into the very important issues of conflict of interest and Labour Law Regulations.  There is 
+a whole bucket there that the country would want to look at, any country in terms of 
+10 
+whether it is appropriate to ensure vibrant, competitive influencing.  Nobody would, one 
+cannot illuminate influencing it is part and parcel, the same about the regulations and 
+system of political campaign financing because it plays such a key role. That is another 
+issue of public service reform related to meritocracy we just mentioned that, it is another 
+area of focus and something that was much focussing in the case of Chile that has been 
+dealt with. 
+Then there are the issues around state owned enterprises which you did mention recently 
+and then of course the issues of judiciary. At the end of the day, these progress 
+[indistinct] including absolutely crucial, the freedom of the media as opposed to capture 
+the media which has been a problem in many countries.  The freedom of the media 
+20 
+coupled with the accountability that civil society leaders in the outside can demand from 
+the public service and government has proven crucial and that is proven why in Chile, 
+parliament, parliament didn’t have incentives, the congress and the parliament, the law 
+makers, many of these laws that will be passed on political finance, it is against their 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 69 of 90 
+ 
+interest, but why they were eventually adopted, they had no choice.  There was such a 
+groundswell of support and pressure from civil society mobilising groups that look after 
+what happened and these are the recommendations of the commission.  The 
+recommendations of the commission, was either we do it or we are out in the next 
+election and many of these leaders put them on notice.  This affects the voting, so that 
+those different type of aspects need to be looked at, but which ones are crucial in the 
+country, but to end, it was absolutely crucial all this can be happening including 
+transparency reforms which are crucial.  We have not discussed enough, but if at the end 
+of the day, all this happens, but it is full impunity, then it has very little traction or impact, 
+so how rule of law functions and the absence or existence of impunity is crucial and that 
+10 
+is what has made the difference and that’s why even with a lot of problems, Brazil is 
+making progress, so they had a major scandal, a major discovery of a system of state 
+capture.  It was discovered because the judiciary had been strengthened and they were 
+very courageous investigators and judges went out there and they unearthed a whole 
+web of capture and corruption that involved the whole political elite that the whole 
+personal human risk in much context, but it was because the judiciary had been 
+strengthened.   
+Associated with that strengthening, was the use, the adoption and use of plea bargaining, 
+plea bargaining as a tool for discovery and unearthing the whole problem in the system 
+and not just with one particular individual captor.  Captors is not one individual, it is 
+20 
+usually a whole web, it is many, it could be a group of industrialists working together or a 
+group in the financial sector having met in the shadows for a very long time, so it takes 
+one of them to tell the whole story.  
+There is plea bargaining that is happening.  We are witnessing this in another context in 
+the United States right now in the case of [indistinct] but in the case of Brazil, it was 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 70 of 90 
+ 
+absolutely crucial, so there are all these types of innovations and reforms that different 
+countries are undertaking.  I am reticent to say this is one country with a great success.  
+Of course I am very proud of Chile, we still have challenges there, and unfished business, 
+but it is very important to focus on particular areas where some countries have made 
+enormous progress and the same country may not be making the same progress. 
+ADV THANDI NORMAN SC:  So in those countries where it has been found that there 
+were these transgressions, people were brought to book so to speak and you believe that 
+if that happens at the end of the day, after all the evidence has been led, all the findings 
+are made, that would be a necessary process to be undertaken? 
+DR DANIEL KAUFMANN:  If I can just have one comment about that.  Obviously where 
+10 
+in settings where there is complete impunity, there can be enormous progress on the 
+rest, but the country will have a significant challenge. Speaking very frankly, I have been 
+a student on this issue for decades and I like to [indistinct] countries to study that share 
+the same historical and cultural history and so on.  Chile and Argentina, Argentina was 
+much richer and much better off than Chile.  We have now crossed paths because of 
+governance in the other direction.  Chile and Mexico also it’s very interesting, because in 
+Chile, rule of law has been very, very important and there have been improvements.  
+There was more reticence of having transparency reforms for a variety of reasons.  There 
+was much more anxiety regarding that.  The converse in Mexico, will make many 
+transparency reforms while the judicial rule of law is to put it mildly, a huge challenge and 
+20 
+that is why Mexico is not making the progress it should in spite of those other reforms.  
+Well Chile have eventually adopted transparency and so on. 
+At the end of the day, it’s not one that will work, so you put it very rightly rule of law 
+versus impunity is very important, it is necessary, but at the same time, it will not be 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 71 of 90 
+ 
+sufficient on its own. It has to be complemented by the systemic reforms that we are 
+discussing.  This is our observation in other countries. Maybe you come to a different 
+conclusion in South Africa, but it has to be what happens with state owned enterprises in 
+any country and what happens with the meritocracy in appointments in the public service, 
+what happens to political campaign finance.  All these other areas, if they are far, far 
+behind, then they are going to be a major pull back in not allowing these reforms to 
+progress even if there is no impunity, so it is just not impunity or persecutions alone. 
+ADV THANDI NORMAN SC: Yes and then you have linked the whole issue of 
+transparency, conflict of interest with beneficiary ownership.  Could you just elaborate on 
+that? 
+10 
+DR DANIEL KAUFMANN:  I am glad you asked about that.  It is one example, a potent 
+illustration of the notion that even if the country is not in transition, the whole legal 
+regulatory institutional system in any country because the world evolves so significantly, 
+has to be in transition, has to be very dynamic and evolve with the times. In the old days, 
+there was very little ability for the corrupt to engage in, through technology now and other 
+means in placing the monies abroad.  The whole issue of illicit financial flows and so on, 
+has taken particular prominence in our modern era.  It was not such an issue 30 years 
+ago and given the magnitude of the [indistinct] related to state capture and the ability of 
+many to appropriate that and put them elsewhere, that has been very important. 
+All of a sudden, speaking about discovery, we get this major worldwide scandal which I 
+20 
+am confident you are aware of, which is called the Panama Papers.  That provides a 
+major [indistinct} for many who are pushing for a long time to have much more disclosure 
+and much more transparency in who are the real owners of the major corporations, 
+entities activities and also those that are bidding for licences for the [indistinct] of the 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 72 of 90 
+ 
+country, whether it is mining or in oil and so on, so we have been asking for a long time 
+for disclosure.  One of my roles, is also to sit as a member of an international board in the 
+extractive industry, transparency initiative which has more than 50 countries in the hope 
+that maybe someday South Africa would wish to join, but it’s helping with the norms 
+regarding full transparency, accountability and governance in the oil, mining and gas 
+sector across the board, so there was the push to try to have much more disclosure 
+regarding who are the real owners that benefit from all these deals which is very 
+important for anti-corruption and for mitigating state capture, there was a lot of resistance. 
+The Panama Paper scandal happens and the resistance had to be much more muted 
+and there was a big push and therefore, new regulations and requirements.  In this case, 
+10 
+it’s a requirement probably but every country decides whether to adopt it in the law or not 
+as to have full disclosure of who the actual owners are and through that, one ought to be 
+able to see well are they very high officials, higher level politicians that are involved in 
+these commercial oil licences and are they related to the ministry of oil.  This is just an 
+example of what is called in international lingo, the PEPT political exposure.  This is to 
+illustrate that there are certain innovations regarding laws and regulations that happen 
+over time even in a country irrespective of how robust the original constitution and set of 
+laws are.  The same applies to anything related to technology.  Obviously with the laws 
+and regulations regarding that, it will have to be adapted to a completely new [indistinct] 
+compared with 50 years ago.  So there are all kinds of innovations, but regarding the 
+20 
+public disclosure registries in terms of every country having it viz-a-viz the beneficiary 
+owners, both of the company, but also for the licencing’s which is where their [indistinct] 
+licencing or natural resources which belonged to the people, so if you are going to issue a 
+licence, one wants to know who is bidding and of course transparency about the 
+contracts and transparency about the payments that are given to government.  That is 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 73 of 90 
+ 
+one of the major progresses that have taken place over the past 10 years.  Transparency 
+and beneficiary ownership is evolving still and many countries have not implemented it, 
+but it is one of those. 
+ADV THANDI NORMAN SC: Yes and you had referred us to the emoluments clause that 
+exists in the United States.  Could you just mention that to the Chairperson, which deals 
+with receipt of gifts? 
+DR DANIEL KAUFMANN: Well there is a particular legal case that is taking place right 
+now in the United States.  The emoluments clause it’s a clause that comes in the 
+constitution, but the original writers of the constitution of the United States, were talking 
+essentially 250 + years ago, they were [indistinct] have to say that no holder of high 
+10 
+office, including the president, shall be allowed to receive any gifts from any foreign 
+entity, particularly for a government, or even officials of the different states of the United 
+States, the government and so on, so there can be no undue influencing from abroad or 
+even from the other states, for both national security but also in terms of property and 
+integrity.  There have been many question marks and issues that have arisen under the 
+current leadership and the administration in the United States and one of them, is the 
+undue influencing of commercial business interests that may be tainting the decision 
+making by the top leader for the public good, so as a result, the leadership of one state, 
+the State of Maryland and some former officials of US administration, who happened to 
+be the ethic [indistinct] in charge of ethics of both – in one case a republican 
+20 
+administration President Bush and the other case of Obama administration, they are both 
+jointly in this case basically trying to bring to trial, for the president for violating the 
+emoluments clause because a person that supposedly had gone to the allegations had 
+been benefiting from his own investments that he does have in the United States and a 
+particular example is the Trump Hotel in Washington DC which is close to the White 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 74 of 90 
+ 
+House, is supposedly or allegedly may have received basically foreign guests as well as 
+leaders of particular states and as a result, benefiting from those, so that is a case that is 
+moving through the courts and of course, the last thing is for me to comment on how it 
+may end up.  For one, the constitution can be very robust and it can be used also by the 
+legal system of the court to respond when there is an alleged case of miss-governance or 
+corruption or state capture however it is labelled by the law of the particular response.  So 
+this is just one illustration that sometimes a constitution can be helpful in this context. 
+ADV THANDI NORMAN SC:  Yes and then maybe just on that issue of transparency, 
+just the example that you gave us the other day of you having invited someone over to 
+your house and the restrictions on what to offer that person and the extent to which you 
+10 
+can go as a host to make your guests comfortable? 
+DR DANIEL KAUFMANN: Well it’s a quick anecdote but also I am glad you’re asking me 
+this now because it is too easy right now to be totally critical about one country or totally 
+[indistinct] for another, that is why I was also being cautious in my own country Chile, 
+where we still have our challenges.  In the case of the United States, there are enormous 
+institutional strengths that should be commended and that is part and parcel of 
+governance in the country. No country in the definitions that I give about governance, the 
+good governance, absence of state capture or corruption, that doesn’t exist and therefore 
+that’s not the definition absence of corruption, that it should be equated with stellar 
+governance.  Good governance is when challenges happen, that they do happen 
+20 
+everywhere, is the ability of the system, the institution, it’s the rule of law to respond to it 
+and that is what we have done in Chile. 
+In the United States, for better or for worse, that is happening and there are going to be 
+mid-term elections and so on and where it is very serious in the United States, it’s the 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 75 of 90 
+ 
+rules and regulations and laws around governmental ethics governing public service and 
+just as an illustration, they cannot receive gifts from an outsider.  When I was heading the 
+World Bank office in the Ukraine in the early days of transition, there I invited a high level 
+official of one of the agencies of agriculture, who used to be in the World Bank before so I 
+knew him, I invited him for dinner and he said I can accept dinner as long as you promise 
+that it’s not going to be a very luxurious dinner because I cannot accept even in kind 
+anything that would exceed the cost of 50 dollars, but it’s just to illustrate that in those 
+systems, that is part of the DNA.  Even if at a higher level, there may be attempts at 
+capture as we have discussed. 
+ADV THANDI NORMAN SC: Yes and then maybe if you could just deal briefly with the 
+10 
+cost of state capture to a country.  You have dealt with this in your report and you have a 
+section in the slide, if we may just go back to the slide, you have just put up two 
+examples, could you just go back to that?   
+DR DANIEL KAUFMANN: Okay so you have already summarised it very well at the 
+beginning.  In fact, you had shown everybody a slide after that- 
+ADV THANDI NORMAN SC:  That’s the slide. 
+DR DANIEL KAUFMANN: That slide does come from us the rest was your excellent work 
+Ms Norman.  That is from our original work, one of the summaries of the data which we 
+did summarise in the earlier hearing that we had with Professor Hellman present. It is 
+also fully explained in the statements. All that I am going to suggest here, is the 
+20 
+enormous difference in the height of the two sets of coloured reflect what happens with a 
+dynamism or lack thereof or the whole private sector and also more generally of the 
+economy in countries that manage to avoid state capture versus countries that exhibited 
+state capture.  These are among the post-socialist countries in transition, so out of 27 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 76 of 90 
+ 
+countries it’s a ratio of 2 to 1 in terms of the growth of the private sector who are not the 
+captors.  The captors that small elite, manages to benefit particularly in a captured 
+setting.  That is because they buy essentially that influence, but it is at the expense as we 
+see in the graph, of everybody else and there is much less growth, there is much less 
+investment and there is much less revenue for the company and importantly, which is not 
+in this graph, there is much less protection of property rights for the regular company, the 
+regular firm which is not the captors.  The private captors buy their own protection of their 
+property rights and they do well and they do in fact five times better in terms of the extent 
+of protection of property rights than a non-captor firm in countries that have been subject 
+to capture. 
+10 
+The other countries that have managed to avoid capture, they do very well in terms of 
+property rights, so that’s one aspect of obviously the cost.  If you can go to the next slide, 
+to broaden the discussion, that comes from separate work which takes the whole world 
+data that we have had and we have monitored and we have a set of indicators that we 
+started developing already in the 1990’s for 20 years which I call the worldwide 
+governance indicator with my partner in these things, so we can use the data throughout 
+the world about governance, including one of the dimensions is control of corruption 
+which also includes capture, so this is more general. 
+What happens in countries that over time, have exhibited high corruption versus medium 
+level corruptions versus low corruptions.  There is an extreme difference in terms of the 
+20 
+levels of wellbeing of the population between those and that gives a sense not only about 
+the cost of corruption, but also about the promise and the potential payoff, we call it 
+dividend of improving governance, controlling state capture, controlling corruption.  Just 
+to give one point of data which is part of that research, a country that decides to embark 
+on serious governance institutional reforms to tackle corruption and state capture, in a 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 77 of 90 
+ 
+realistic manner which doesn’t mean no country can go from being the worst in the world 
+even in 5 years to being at the top.  The realistic manner is basically traversing about one 
+fifth of what the distance between the worst and the best of the worst which is totally 
+realistic in statistical terms. 
+So a country that improves realistically, significant reforms but realistic improvement that 
+is associated with an improvement in per capita income for every citizen, if it is distributed 
+by three times, it is a tripling of income per capita.  If the country has income per capita of 
+$10 000 per year today, you can expect in the long term, it takes time to have $30 000, 
+so that applies to income per capita.  That also applies to- we have seen it in the data 
+and it goes from improving control of corruption to this. It is lessening of inequality, 
+10 
+lessening of illiteracy, better education gains and also, very importantly, much better 
+investments.  As I said earlier, that is associated with research of others. I am not in that 
+field.  It also strengthens national security of the country, the whole issues around 
+migration, national security around corruption and security services and so on is very 
+important and lastly but not least, it’s mentioned it also improves the prospects of 
+democratic institutions, so it has a major also very healthy political dimension. 
+ADV THANDI NORMAN SC: Yes and then you had mentioned in your statement, 
+recession in the case of Brazil, am I correct? 
+DR DANIEL KAUFMANN:  Thank you for the question.  That is the flip side of – I just 
+tried to put it in prospective and very positive terms, what if a country does not, but a 
+20 
+country that has been enmeshed with this corruption and indeed, what we show in our 
+research, is that the medium and longer term impact, but nowadays, particularly when a 
+country goes downhill in terms of corruption and state capture, they impact it’s not in the 
+long term.  The income can be very, very large and it can be of a short term and it’s not 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 78 of 90 
+ 
+only about general wellbeing objectives, it’s also about the basic macro-economic 
+financial indicators, but your deficits go up, financial crisis ensues and the rate of growth 
+of GDP, comes to a halt very quickly.  Brazil in fact for the first time in an extremely long 
+time after a very robust period of growth entered a recession of which they are now trying 
+to get out.  They are just barely back to zero growth after being in the negative territory 
+for a couple of years as a result of what happened. 
+In Peru and some other countries, because of the trans-national nature of these major 
+state capture events, there has been a major impact not only on GDP, but on the 
+paralysis, the sudden halt and paralysis of infrastructure and investments since much of 
+their captor was associated with construction and infrastructure companies and so on and 
+10 
+in some cases, have come to a halt. This shows in real time and concretely on the 
+ground, that this is not just abstract numbers, it is what’s happening and that’s a major 
+cost for the middle class and for the poor that ultimately takes the brunt of this problem. 
+At the financial level, one more comment, this has become such a serious concern and 
+issue, that the International Monetary Fund, that in the past, were not very focused on 
+these issues  because their limit was short-term financial issues, so corruption, state 
+capture was a bit more foreign to an organisation like that.  The World Bank was dealing 
+more with that, but now the IMF has taken significant leadership of that and they have 
+coined a new term for the impact, potential impact of state capture and corruption in a 
+number of countries, they call it macro critical.  I mentioned that before given the concern 
+20 
+of that and this is an example of that.  Brazil was [indistinct] case for these type of 
+organisations and looking at it more internationally, that this can have a major impact for 
+the whole macro economy of a country, which implies major impact for the poor and the 
+middle class. 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 79 of 90 
+ 
+ADV THANDI NORMAN SC: Yes, so in summary, is the last slide indicating that the 
+sooner that you act on any suspicion or allegations of corruption and state capture the 
+better for a country? 
+DR DANIEL KAUFMANN: Obviously it is incredibly important as mentioned before, the 
+role of the judiciary and not only that the proper persecutions take place and there is no 
+impunity as a result, but it’s very important that it sends such a clear signal to the 
+population also to investors abroad and so on which plays not only an enforcement role 
+but a deterrent role, because the more that there is no impunity and there is a real 
+sanction involved with [indistinct] in this form, the less you are going to have those type of 
+cases in the future.  At the end of the day, we are all human, we all make cost benefit 
+10 
+calculations, is it worth it or not. Of course, we have our ethics too, but incentives play a 
+key role. 
+Now there is in the United States again talking about the strengths of the United States, 
+you are not supposed to and by law, you cannot evade taxes. Only about 1% of the tax 
+payers are audited because it’s millions and millions of extremely expensive and so on.  
+However, if you are audited and you are found to have evaded, you will go to jail and you 
+do and the politicians and others right now in the Muller case, these are some cases of 
+how they are doing it, so as a result, the extent of tax evasion is not very large in a 
+country like that, so it’s not that you need to be auditing everything, but rule of law does 
+work and people know here there is a sanction, one doesn’t mess around with that. So 
+20 
+just to exemplify that it is very important that a judiciary’s function in any place and there 
+is no impunity because it also plays a deterring role.  At the same time, as a lead-up from 
+your question, it is absolutely crucial in any country, to also embark and make progress 
+on the complimentary issues and reforms that are absolutely essential, because no signal 
+progress on just one dimension, is going to make the difference alone and that’s only for 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 80 of 90 
+ 
+you to know regarding South Africa in the systemic sense, how much whether issues 
+regarding safeguarding the budget from being looted what needs to be done with state 
+owned enterprises, what needs to be done with political finance campaigns, what needs 
+to be done in other political realms.  What I was telling about Chile, you would know best.  
+It would be my hope, this is such an impressive initiative that you have all undertaken that 
+this also creates a space to discuss not only the issues of prosecutions, but now legal 
+issues that you are discussing, but to have the space of discussing more broadly what is 
+absolutely essential as well in other realms regarding addressing state capture. 
+ADV THANDI NORMAN SC:  Thank you, thank you Mr Chairman. 
+CHAIRPERSON:  Thank you very much for your evidence.  Would it be correct to say in 
+10 
+the end, the whole idea behind anyone who might be wishing to capture a state, is to 
+have influence on certain decision making institutions and functionaries within a state so 
+that ultimately, they may have financial or business benefit, or are there other motives or 
+goals? 
+DR DANIEL KAUFMANN:  A very important question Mr Chairman, Mr Deputy Chief 
+Justice, obviously from our experience in other places, the traditional and boring answer, 
+is going to be both.  The whole issue of financial motivation it’s obviously a very important 
+driver of human nature for reasons that you know better than I do, but that’s not the only 
+motivator.  We collectively and in different degrees, driven by power, there are many 
+people who accept to serve in public service in positions of leadership with not full 
+20 
+integrity and I have met so many in so many countries and that it’s not for financial gain, 
+but to have a major influence in policymaker and the power to do so, but for the public 
+good.  It’s also a very important driver.  Many of us, in think tanks, academics, I had an 
+organisation which is an international institution that we also advocate with evidence for 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 81 of 90 
+ 
+improved governance transparency in natural resources for the benefit of the citizens of 
+the country. 
+I come from Chile and my colleagues come from all over the world, we want ultimately all 
+the benefits.  That drives us and that drives many of you in public service, so the financial 
+motive is not the only thing that obviously drives them.  That’s the first point, but even if 
+the main driver, particularly by those that want to capture for their own financial benefit, is 
+purely financial and economic, it makes a very big difference if that is in the context of 
+enormous competition in terms of lobbying and political influencing or it’s in the context of 
+the political influencing. The extent of that political economic influencing by the few has 
+become monopolised. The moment that it becomes monopolised and the relationship 
+10 
+between the few and the elite, in the economic financial elite, with the top political 
+leadership or with the law makers in parliament, it can be extremely damaging and 
+distorted, but as I mentioned at the beginning, the intention to influence, it is part of 
+human nature.  Many organisations and groups do and we do it in the voting booth every 
+time that we vote also, which I don’t know if that is legitimate, but that’s why it’s so 
+important to look at the extent to which the whole system of political influencing has been 
+distorted or not via political campaign finance, via the way that the political parties elect 
+and monitor their own leaders and by the issues of conflict interest, lobby laws, all that 
+was discussed, it’s what’s important.  In short, one cannot ban by feared influencing, that 
+is in the human nature, but one can regulate it and ensure that there is a system put in 
+20 
+place which is not just through laws, but through institutions and so on, provides more of 
+a level playing field regarding such influencing. 
+In [indistinct] cases, this exists, a case is obviously the Scandinavian countries, where 
+they do have a social compact among the different, with the whole population of what is 
+legitimate and how to move forward and certain [indistinct] of equality both political, 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 82 of 90 
+ 
+economic and so on. Canada is a very interesting case that has made significant 
+progress in those, so these models and these systems, it’s not at an academic level.  
+They do exist and they have achieved consensus in how to move forward and at a more 
+practical and micro institutional level, if you will allow me to mention exciting initiatives are 
+taking place and innovations in this day and age in many countries.  In Chile there was a 
+lot of mutual interest because we had our own after [indistinct] and so on, there is 
+increasing effects and an interest in multi stakeholder type of institutional arrangements 
+to reach consensus about key issues in society, so about improved governance and anti-
+corruption in natural resources, we have these global initiatives which is extractive 
+industry transparent initiative. 
+10 
+This is where we have to agree among the key representatives of government, of 
+industry, of investors, as well as civil society think tanks and so on and something 
+happens when this is done in such a consensus form.  It is my measured sense that in 
+the context of improved governance and corruption, it’s really important when these 
+initiatives do embrace and involve also this multi stakeholder nature engaging civil 
+society, the leaders in think tanks as well as the leadership in industry, the enlightened 
+leadership.  Every country does have that.  We have been witnessing some from the 
+banking system and others. In no country, it’s just that this whole group, they are all 
+tainted and so on. There are leaders with integrity and reformists among all stakeholders, 
+just like there are others who have other interests, but it’s very interesting and important 
+20 
+how this multi stakeholder initiatives can also make progress through the commendable 
+work of your Commission if that could be also perhaps a venue to engage in that 
+discussion and which in some other countries, that has allowed for a broader type of 
+consensus regarding the need to move ahead for this reason. 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 83 of 90 
+ 
+I am not mentioning or referring at all to the legal aspects of that which you have a very 
+particular mandate and you know best, but from my experience in many other countries, 
+the whole notion of moving forward, whether through one commission or separately, with 
+a multi stakeholder dynamic discussion and debate in trying to arrive at consensus in 
+society with that, it’s something that could in the case of Chile we have done it, in the 
+case of anti-corruption recently and so on and there are other such examples. 
+CHAIRPERSON: Now you mentioned that in your research, you found that in some 
+cases of state capture, what happens is that certain groups want to change the laws and 
+the policies of government, so as to suit their ends.  I would imagine that in a case where 
+it’s difficult to change laws, in terms of the constitutional and legal system of a particular 
+10 
+country, they might want to look at people who have power, people who serve in certain 
+institutions of government, people who occupy certain positions in government and 
+therefore, seek to ensure that it is people that can do what they want them to do.  Does 
+that sound consistent with your experience in terms of research? 
+DR DANIEL KAUFMANN: Yes indeed Mr Chairman, one of the vehicles of capture, in 
+fact rather than the indirect influencing from still saying supposedly on the outside of 
+government through political campaign finance or through other illicit means, bribes 
+themselves and so on.  That is one way, but the influencing on who would be in a high 
+position of power and who being in the cabinet is obviously such a form.  In some 
+countries, it’s no secret. In the post-Soviet era, there was even an informal price tag 
+20 
+associated with how much a particular ministry capturing it and putting one’s own person 
+would cost and it was interesting to see the differences across ministries which was again 
+related to the question of what are the most vulnerable sectors, where rents can be 
+accrued, whether the country was oil rich, obviously the ministry of oil versus the minister 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 84 of 90 
+ 
+of agriculture and so on, so the answer is yes unfortunately, that is one of the vehicles, 
+one of the mechanisms by which it can be accomplished. 
+But let’s keep in mind also that yes, some countries go through increasing sophistication, 
+development and so on like many countries here and so on, so over time, the form of 
+corruption and the form of state capture, morphs, changes, so at a particular vulnerable 
+time, in terms of the institutions, they may be placing directly the cabinet ministers.  In 
+some cases, some of the oligarch’s quote unquote oligarch’s become the leader or the 
+state themselves.  It has happened too and then over time, governance institutions they 
+evolve, they strengthen, but that doesn’t mean that state capture necessarily disappears.  
+It takes a while, but then there other forms which are more subtle through the political 
+10 
+finance context and so on, take more prominence. 
+The ability to adapt and see opportunities, obviously should not only be a major priority 
+for reformists, but unfortunately it’s also what the other side is always looking how to 
+adapt to the new policies and so, they are trying to counter those forces of capture. 
+CHAIRPERSON:  You spoke also about state owned enterprises and that they can be a 
+target for state capture and from what you have said, it seems you would be saying to us 
+that talking generally, to the extent that state owned enterprises could be easy targets for 
+state capture, that it would be important to ensure that the legal framework for example 
+for the appointment of boards of those state enterprises, should be strong and 
+transparent maybe, the appointments should be very transparent so that in that way, one 
+20 
+minimises the prospects that somebody, one person may just put in all the people that he 
+or she wants to put in if all the power depends on one person to constitute boards of such 
+entities.  What would be your comment on that? Is my reading of what you say correct? 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 85 of 90 
+ 
+DR DANIEL KAUFMANN:  Absolutely correct and one of the main concerns in a number 
+of state owned enterprises and we have looked around the world, I would extend it not 
+only about the board is crucial, how the board is appointed, but then I would added to 
+strong and transparent even if it’s embedded in the notion you just said of strong, the 
+explicit notion of meritocratic, so that’s extremely important, I would expand it also to the 
+chief executives, to the top executives obviously of the state owned enterprises and then 
+the regulations and laws that govern the independence by which they can operate, the 
+clarity of their remit is crucial.  Deliberately many of the state owned enterprises, they 
+remit it either unclear even in the box or even if it is in the box, it’s not followed and they 
+take over the production and regulatory remit at the same time, when there should be 
+10 
+total [indistinct] and should differ in institutions, that is just to illustrate that that is 
+happening in the oil sector or a major state owned enterprise and take both remits on the 
+data that creates all kinds of miss-governance and potential conflict of interest and that 
+there are many such issues that need to be clarified. Transparency also applies to the 
+financial accounts, so that everybody can monitor that, so you are absolutely right, it is 
+like what we were discussing before as to how to tackle state capture more generally.  
+These what you have just mentioned, are referred to in my testimony regarding the 
+appointment of the board is crucial, but not ought to be seen as the silver bullet on its 
+alone.  It’s necessary, but not sufficient and the rest or the homework will of course 
+depend on the diagnostic of each country and state owned enterprise, but the rest of the 
+20 
+homework on this other dimension is very important as well to compliment that initiative 
+regarding the board appointment. 
+CHAIRPERSON:  Well I guess you may or may not say the same thing with regard to the 
+appointment for example of directors general in different government departments.  Now 
+in South Africa, directors general I think generally would be appointed I think one of the 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 86 of 90 
+ 
+witnesses told us by I think the President, I think at a certain stage, it was the President, I 
+don’t know if at another stage, it was the Minister or there was consultation between the 
+two, but the director general is like the chief executive officer of the government 
+department and it would seem based on what you have told us, that it may well be that if 
+the appointment of directors general happens in a certain way, that might encourage 
+state capture, but if it is done in a certain way, maybe very transparently and so on, 
+maybe it might not, so I just want you to comment on that or whether you would limit what 
+you said to state owned enterprises in terms of board and their chief executive officers? 
+DR DANIEL KAUFMANN: That’s an excellent question because we have to 
+acknowledge that it becomes more nuanced regarding senior level appointments in 
+10 
+government because there is a legitimate political process, there is a reason why a 
+particular leader with a political backing, is elected into power and that is part of the 
+political process.  Then, every country differs, there is a legitimate question, the extent to 
+which those appointments and how far down should be of a political nature and from 
+where it’s absolutely crucial to safeguard the integrity meritocratic technical integrity of 
+the civil service and that should not be.  That is [indistinct] in terms of best practice 
+around the world that should not be touched by the political process.  There was a time I 
+studied this issue in particular depth many, many years ago, so this doesn’t reflect the 
+current era, but it was a time 20 years ago, when I looked at this issue to say in countries 
+like Bolivia, a small country, government change, 60 000 civil servants and public officials 
+20 
+were changed as a result of change. In Japan, at the time, the mandated changes were 
+18 just the ministers for political reasons and of course, the reality around the world, it is 
+somewhere in between.  That is very different than state owned enterprises, that basically 
+has to play a certain role in terms of maintaining and safeguarding the independence and 
+functioning in an efficient and commercial way otherwise it can be an enormous drag to 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 87 of 90 
+ 
+economy, a social drag on society.  If it happens at the end of the day, that’s the 
+difference, the last work, its state owned, but it’s an enterprise.  If it’s going to be an 
+enterprise, in this day and age and not be a major drain ultimately on the tax payers that 
+pay for that that is absolutely crucial.  But having said that, in terms of director generals 
+and even those decisions that are decided to be political decisions, certain systems allow 
+for that having an integrated degree of meritocracy in it, so at the end, the minister or the 
+leader, basically they want to make a decision which has a political dimension, but okay, I 
+want to see the top five candidates that will come from a meritocratic system and then on 
+the top, I may have a political dimension with that, but at least I am choosing within a 
+[indistinct] of the most very highly qualified people with different dimensions and so on, so 
+10 
+there are ways of integrating this with the political reality of any country and the political 
+imperatives, but saying but I still want to get the best possible person, so I will look at that 
+list rather than just having my person [indistinct]. 
+The other question and you raised it with state owned enterprises the more transparent 
+the system, the more that it will encourage – even if the ultimate decision has a political 
+dimension, but it will encourage more credibility and more meritocracies in that ultimate 
+decision made. 
+CHAIRPERSON:  Do you have anything you can say about what you think could be done 
+to protect for example, a director general who is opposed to doing wrong when for 
+example, his or her political master, wants them to do something wrong?  Now if the 
+20 
+director general concerned, his or her continued employment as director general really 
+depends just on that one person, then there may be a risk of losing the job and therefore, 
+that director general doesn’t get protected, but at the same time, one may have to look at 
+what you have said, to say well, maybe directors general fall within a certain category of 
+persons where somebody in political office should be given room to put in whoever they 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 88 of 90 
+ 
+want in order for them to achieve their goals in government, but I am just wondering how 
+one would balance the two to try and make sure that there is a framework or an 
+environment that encourages directors general to say no to any attempt to get them to do 
+wrong or to say no to state capture without being vulnerable to losing their jobs or being 
+changed from one department to another maybe for no good reason?   
+DR DANIEL KAUFMANN: Again, Mr Chairman to again backstop the point that I am not 
+an expert in South Africa and I know you are asking in general, but just showing my own 
+ignorance, when you speak about Director General, you are referring within the 
+ministries, not a particular outside agency or something like that. 
+CHAIRPERSON: Within the ministry, in our system, a director general is within a ministry, 
+10 
+so it would be the president, the deputy president, the minister and then the director 
+general and the Director General is basically the head of the administration of the 
+department, whereas the minister is a political head of the department. 
+DR DANIEL KAUFMANN: That’s clear, in other regions I have worked on, there have 
+been permanent secretaries and there are secretaries in the United States, or vice 
+ministers and so on, I am clear and that makes the answer even more difficult, that in 
+general, obviously a traditional response in this, but it has been full of challenges in the 
+implementation. The visible protection is one of those examples where it is not that 
+difficult to get consensus to adopt it and to put it in the laws and regulations, yet at the 
+end of the day, through loopholes and the waiting implemented, it doesn’t necessarily end 
+20 
+up fully protecting the whistle blower, even if in paper or in principle, that may be the 
+intention, that person or that functionary who is under pressure, may have serious doubts 
+whether he or she will be indeed fully protected, so the first question is that any country 
+would want to undertake – okay, how is our system a whistle blower protection and not 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 89 of 90 
+ 
+just what’s written in the law?  How is it being implemented and do we know for a fact, 
+that it has really truly protected and that would have to imply that there could be no 
+retribution and no sanction and that would be – if there was retribution and sanction, that 
+would be subject to a high penalty for those doings, because again, we get back, that’s 
+the second comment to the issue of rule of law and judicial working.  
+Ultimately and I know where you seem to be going with the question, you would not want 
+that undue pressure from the higher up to the director general to do the wrong thing and 
+that is what we tried to do in Chile many times, to get to the situation where the director 
+general is capable of saying do you know that if I do that, we both may end up in jail?  So 
+that’s where the issue of penalty and sanction being really there, this is by the way they 
+10 
+respond at an international level and I know I am taking the [indistinct] from the director 
+general, but I think the parallel applies.  
+The response that many in the early days of again United States some kudos in this 
+case, the Foreign Corruption Practices Act, when it begins to be instituted and basically 
+barring foreign bribery from the US at first and then it gets expanded by all SED 
+countries, then when international executives will go to a country, a high official would say 
+we can do this deal, but you have to give me this or that under the table.  Their response 
+was that you know that if I do that, I will end up in jail, so that to make sure that there is 
+serious sanction for even that type of pressure and action, would be an important 
+deterrent so that the director general not only has to think do I whistle blow or not, but be 
+20 
+able to say look, you know what will happen if we do this? 
+CHAIRPERSON:  Thank you very much, Ms Norman you are done? 
+ADV THANDI NORMAN SC:  Yes thank you Chair. 
+ 
+ 
+ 
+DAY 14, 19 September 2018 
+ 
+ 
+Page 90 of 90 
+ 
+CHAIRPERSON:  Yes is it you or is it Mr Pretorius who will tell me what is envisaged 
+from now on? 
+ADV THANDI NORMAN SC:  Mr Pretorius. 
+CHAIRPERSON: Okay thank you. 
+ADV PAUL PRETORIUS SC:  Thank you Chair, the application in respect of at least one 
+of the applicants will be heard tomorrow by arrangement at 10:00.  We will shortly receive 
+documentation in that respect and thereafter, we will announce the programme for the 
+following week. 
+CHAIRPERSON:  Thank you, thank you very much Dr Kaufmann, you have given us very 
+useful insight and to the issues of state capture and I have no doubt that we will be 
+10 
+enriched by the evidence you have given and there may well be further communication 
+between the legal team and yourself, thank you very much, you are excused.  We will 
+then adjourn until tomorrow at 10:00.  I will then deal with Ms Lynn Brown’s application, 
+that should not take long and then we will announce tomorrow after that application, what 
+is going to happen for the rest of the week and next week.  The proceedings are 
+adjourned. 
+ 
+ 
+ 
+ 
+20 

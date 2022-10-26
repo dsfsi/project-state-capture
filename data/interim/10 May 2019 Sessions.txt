@@ -1,0 +1,2619 @@
+ 
+ 
+ 
+ 
+COMMISSION OF INQUIRY INTO STATE CAPTURE 
+HELD AT 
+PARKTOWN, JOHANNESBURG 
+ 
+ 
+ 
+10 
+ 
+10 MAY 2019 
+ 
+ 
+ 
+DAY 92 
+ 
+ 
+ 
+ 
+20 
+ 
+ 
+ 
+ 
+ 
+10 MAY 2019 – DAY 92 
+ 
+Page 2 of 82 
+ 
+PROCEEDINGS ON 10 MAY 2019  
+CHAIRPERSON:  Good morning Mr Mokoena, good morning everybody. 
+ADV PHILLIP MOKOENA SC:  Good morning Chair. 
+MR PETER STEPHEN VOLMINK:  Good morning. 
+CHAIRPERSON:  Thank you.  Good morning.  Are you ready?  
+ADV PHILLIP MOKOENA SC:  We are ready. 
+CHAIRPERSON:  Okay you may proceed. 
+ADV PHILLIP MOKOENA SC:  Mr Volmink yesterday when we parted 
+ways we were just about to deal with the T-Systems with particular 
+reference to page 48 paragraph 105 of your witness statement.  
+10 
+MR PETER STEPHEN VOLMINK :  Yes. 
+ADV PHILLIP MOKOENA SC:  Could you please proceed dealing with 
+those issues there? 
+MR PETER STEPHEN VOLMINK :  Chair this section of my evidence 
+deals with an award of the IT Data Services tender initially to T-
+Systems which was then subsequently withdrawn and awarded now to 
+Gijima.  I will take you through what I say in paragraphs 105 and 
+following Chair. 
+ADV PHILLIP MOKOENA SC:  It is page 48 Chair. 
+CHAIRPERSON:  48? 
+20 
+ADV PHILLIP MOKOENA SC:  48. 
+CHAIRPERSON:  Thank you.  Yes. 
+MR PETER STEPHEN VOLMINK :  Chair so I point out in my statement 
+that during January of 2010 Transnet entered into the initial agreement 
+with T-Systems for the provision of IT data services.  It is a critical 
+10 MAY 2019 – DAY 92 
+ 
+Page 3 of 82 
+ 
+service for Transnet’s operations.  Effectively it enables access to all 
+critical IT data pertaining to the rail operations, ports, pipelines, 
+personnel, a range of functions that Transnet requires in orde r to 
+operate effectively and efficiently.  I then say that after that initial 
+tender was – the contract was entered into a series of variations or 
+extensions in value to that contract then occurred.  And I explain those 
+variations in one of the annexures w hich I would like to take you to.  It 
+is not directly germane to the issue of the award to Gijima which 
+subsequently followed but I thought just for context I would like to give 
+the commission a full sense of the history of the matter.  
+10 
+ADV PHILLIP MOKOENA SC:  And how many variations are you talking 
+– are you referring to? 
+MR PETER STEPHEN VOLMINK :  There were in total five variations.  
+ADV PHILLIP MOKOENA SC:  And those were between 2010 and 2019?  
+MR PETER STEPHEN VOLMINK :  That is correct. 
+ADV PHILLIP MOKOENA SC:  And for that period no services went out 
+on tender? 
+MR PETER STEPHEN VOLMINK :  Sorry? 
+ADV PHILLIP MOKOENA SC:  During that period no services went out 
+on tender.  It was all extended on variations?  
+20 
+MR PETER STEPHEN VOLMINK :  It was extended on variations but 
+parallel to that… 
+ADV PHILLIP MOKOENA SC:  Yes. 
+MR PETER STEPHEN VOLMINK :  The new tender process was being 
+evaluated and awarded and so on. 
+10 MAY 2019 – DAY 92 
+ 
+Page 4 of 82 
+ 
+ADV PHILLIP MOKOENA SC:  Yes.  Then may I refer you then to…  
+CHAIRPERSON:  I am sorry extended on varia tions means what?  
+Extended on variations, what does that mean?  
+MR PETER STEPHEN VOLMINK:  No it is um – I use the term 
+somewhat interchangeably. 
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK :  To extend the contract. 
+CHAIRPERSON:  Oh that it was extended. 
+MR PETER STEPHEN VOLMINK :  Or varied in the sense that  
+CHAIRPERSON:  Oh yes. Okay. 
+10 
+MR PETER STEPHEN VOLMINK :  And the value. 
+CHAIRPERSON:  But basically you mean it was extended?  
+MR PETER STEPHEN VOLMINK :  Exactly Chair. 
+CHAIRPERSON:  Ja okay alright. 
+ADV PHILLIP MOKOENA SC:  Mr Volmink may I then refer you to 
+Exhibit BB2.1C.  Chair that should be the third file with particular 
+reference to page 1086. 
+CHAIRPERSON:  Is the reference to third file reference to Exhibit 
+BB2.1.C? 
+ADV PHILLIP MOKOENA SC:  1C yes. 
+20 
+CHAIRPERSON:  Okay. 
+ADV PHILLIP MOKOENA SC:  So that at least it becomes easier.  
+CHAIRPERSON:  Okay. 
+ADV PHILLIP MOKOENA SC:  Chair to locate it. 
+CHAIRPERSON:  And what is the page?  
+10 MAY 2019 – DAY 92 
+ 
+Page 5 of 82 
+ 
+ADV PHILLIP MOKOENA SC:  The page number it is page 1086. 
+CHAIRPERSON:  1086? 
+ADV PHILLIP MOKOENA SC:  Yes Chair. 
+CHAIRPERSON:  Thank you.   
+ADV PHILLIP MOKOENA SC:  Mr Volmink are you there?  
+MR PETER STEPHEN VOLMINK :  I am there Chair. 
+ADV PHILLIP MOKOENA SC:  Yes could you please identify that 
+document for us? 
+MR PETER STEPHEN VOLMINK:  Chair this document is a document 
+which was initially prepared by our Group strategic sourcing function 
+10 
+one of the units within the procurement department.  It was a report 
+which was delivered to SCOPA the initial intended date of the 
+presentation was for December 2017.  That engagement finally 
+happened in January of 2018 and the document has just been updated 
+to reflect events that have occurred  
+ADV PHILLIP MOKOENA SC:  Yes. 
+MR PETER STEPHEN VOLMINK :  Subsequent to January 2018. 
+ADV PHILLIP MOKOENA SC:  And can you then take us please through 
+those several variations and extensions that you alluded to?  
+MR PETER STEPHEN VOLMINK :  Chair what the document then 
+20 
+reflects is that the initial award to T-Systems was a five year contract 
+with an option to extend for a further two years.  So the option was 
+incorporated into the initial contract which was to run from 1 January 
+2010 to 31 December 2014 with a total initial contract value of about 
+R1.9 billion. 
+10 MAY 2019 – DAY 92 
+ 
+Page 6 of 82 
+ 
+ADV PHILLIP MOKOENA SC:  That was the initial amount? 
+MR PETER STEPHEN VOLMINK :  That is correct. 
+ADV PHILLIP MOKOENA SC:  And subsequently?  You can take us 
+through the variations then?  
+MR PETER STEPHEN VOLMINK :  The variations then were as follows 
+Chair.  Firstly the first variation related to the exe rcising of that two 
+year option. 
+CHAIRPERSON:  Let me just take you back to this issue of variation 
+and extension.  Technically variation might be correct when you mean 
+extending but normally or rather I associate variation with an 
+10 
+amendment of  
+MR PETER STEPHEN VOLMINK:  The contract. 
+CHAIRPERSON:  The contents of the agreement.  Okay.  So I just want 
+to confirm that wherever in this document there is a reference to 
+variation should I read it as extension or sometimes variation is used to 
+mean something other than extension? 
+MR PETER STEPHEN VOLMINK :  No Chair it would be the former 
+meaning that…  
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK :  Wherever we refer to variation  
+20 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK :  It is an extension. 
+CHAIRPERSON:  An extension. 
+MR PETER STEPHEN VOLMINK :  In both time and value. 
+CHAIRPERSON:  Oh oh 
+10 MAY 2019 – DAY 92 
+ 
+Page 7 of 82 
+ 
+MR PETER STEPHEN VOLMINK :  So it is not just the time extension.  
+CHAIRPERSON:  Oh oh okay so…  
+MR PETER STEPHEN VOLMINK :  With the time extension would be a 
+value [indistinct]. 
+CHAIRPERSON:  Oh so so variation might be more accurate in that 
+context.  That is not just an extension of time?  
+MR PETER STEPHEN VOLMINK :  Yes Chair. 
+CHAIRPERSON:  It is also a variation of the price?  
+MR PETER STEPHEN VOLMINK :  Correct. 
+CHAIRPERSON:  Effectively an amendment of the price that must of 
+10 
+necessity come with the extension of time?  
+MR PETER STEPHEN VOLMINK :  Precisely. 
+CHAIRPERSON:  Yes.  Okay. Alright. 
+ADV PHILLIP MOKOENA SC:  Would that also include the variation of 
+the scope of what was inten ded to be performed? 
+MR PETER STEPHEN VOLMINK :  Sometimes that may well be.  It 
+would be extended. 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK :  Ja. 
+ADV PHILLIP MOKOENA SC:  Yes.   
+20 
+MR PETER STEPHEN VOLMINK :  I was then referring to the first 
+variation Chair which involved really the exercise of that two year 
+option that I had referred to earlier which then extended the contract 
+from 1 January 2015 to 31 December 2016.  There were various 
+reasons given for the exercising of this – of the option.  Some of the m I 
+10 MAY 2019 – DAY 92 
+ 
+Page 8 of 82 
+ 
+will mention briefly.  In essence Chair it was said that the Transnet had 
+contracted Gartner to review all the current services that were being 
+received from T-Systems to develop a new strategy.  To issue a new set 
+of specifications.  The RFP had to be  written and the motivation that 
+was given was that we – that two year extension was required in order 
+to complete that part of the work.  
+ADV PHILLIP MOKOENA SC:  And the second extension?  
+MR PETER STEPHEN VOLMINK :  The second extension was for a 
+further period of nine months from 1 January 2017 to 30 September 
+2017 I refer that is on page 1087 just the following page.  And what it 
+10 
+says Chair is that the nine month extension was requested to enable 
+Transnet to finalise the new IT data services procurement e vent which 
+was now ready at the adjudication stage.  So it had progressed but it 
+had not yet been completed and a further extension of both time and 
+value was then requested. 
+ADV PHILLIP MOKOENA SC:  And the initial amount value which was 
+R1.9 billion it now became R3.8 billion, am I correct?  
+MR PETER STEPHEN VOLMINK :  Correct Chair.  With all the 
+extensions there was a significant value extension as well which now 
+stood at R3.8 billion. 
+20 
+ADV PHILLIP MOKOENA SC:  And the third? 
+MR PETER STEPHEN VOLMINK :  The third extension…  
+CHAIRPERSON:  That is R3.8 billion hey?  
+MR PETER STEPHEN VOLMINK :  That is correct Chair. 
+ADV PHILLIP MOKOENA SC:  Yes. 
+10 MAY 2019 – DAY 92 
+ 
+Page 9 of 82 
+ 
+MR PETER STEPHEN VOLMINK :  Chair the third extension …  
+ADV PHILLIP MOKOENA SC:  Page 1088 Chair. 
+MR PETER STEPHEN VOLMINK:  Is on page 1088. 
+CHAIRPERSON:  Thank you. 
+MR PETER STEPHEN VOLMINK :  And – and what it related to was an 
+initial request actually for twelve months for – to enable Transnet to 
+essentially extricate itself from the unlawful award that had been made 
+to T-Systems and to award the tender to Gijima as was initially 
+submitted by management.  But there was a process of litigation that 
+had unfolded and the concern was that the litigation process would not 
+10 
+run its course within a twelve month period.  Eventual ly National 
+Treasury approved the extension but not for twelve months.  They only 
+granted an eight month extension during which time I think there was 
+considerable attempt as I say for Transnet to extricate itself from this 
+initial tender award which I wil l deal with in more detail in a short while 
+I am just giving an overview of the various reasons for the extension.  
+ADV PHILLIP MOKOENA SC:  And the fourth one?  Page 1089 that is 
+where you find the fourth one. 
+MR PETER STEPHEN VOLMINK:  Correct Chair.  The fourth one the 
+motivation that is stated in the document is that Transnet had 
+20 
+requested this extension for the commencement of what I refer to as 
+disengagement processes from T-Systems.  It is not the kind of contract 
+where – when the contract ends the service provider moves off and the 
+new service provider comes in immediately.  There is a process of 
+disengagement.  In fact if recollection – if my recollection is correct the 
+10 MAY 2019 – DAY 92 
+ 
+Page 10 of 82 
+ 
+contract made provision for a six month process of transition and 
+disengagement and treasury only approved a three month extension 
+which was then the fourth variation.  And then the fifth variation …  
+ADV PHILLIP MOKOENA SC:  On page 1090. 
+MR PETER STEPHEN VOLMINK :  Is on 1090.  This was for the period 9 
+September 2018 to 8 March 2019 a nd there has been no further 
+extensions after that date.  So that was the last extension.  
+ADV PHILLIP MOKOENA SC:  And the entire amount pursuant to those 
+extensions or variations was an amount of R4.9 billion.  
+MR PETER STEPHEN VOLMINK :  That is correct Chair. 
+10 
+CHAIRPERSON:  So this contract started in 2010?  
+MR PETER STEPHEN VOLMINK :  Yes. 
+CHAIRPERSON:  And it is still ongoing or has just ended?  
+MR PETER STEPHEN VOLMINK :  As currently it is no longer ongoing.  
+CHAIRPERSON:  YEs. 
+MR PETER STEPHEN VOLMINK :  The last extension was – it expired 
+on 8 March 2019.  
+CHAIRPERSON:  This year? 
+MR PETER STEPHEN VOLMINK :  That is when this contract ended. 
+CHAIRPERSON:  So it – it went on for ultimately about what nine 
+20 
+years? 
+MR PETER STEPHEN VOLMINK :  Ja. 
+CHAIRPERSON:  Ja.  Originally it was meant to be five years.  
+MR PETER STEPHEN VOLMINK :  Five years. 
+CHAIRPERSON:  But there was a provision for a possible extension?  
+10 MAY 2019 – DAY 92 
+ 
+Page 11 of 82 
+ 
+MR PETER STEPHEN VOLMINK :  Correct. 
+CHAIRPERSON:  Ja okay. 
+ADV PHILLIP MOKOENA SC:  That is the point Chair.  May I then refer 
+you back to your witness statement paragraph 106 on page 48 and we 
+can continue with the evidence from there having now painted the 
+context to the Chair. 
+MR PETER STEPHEN VOLMINK:  From 106 the point we simply make 
+is that Governance was involved in the reviewing certain of these 
+addenda and was also then quite involved in advising the board to 
+reverse its decision to award to T-Systems and to award to Gijima. 
+10 
+ADV PHILLIP MOKOENA SC:  Yes.  You may then proceed to deal with 
+the events relevant to Gijima. 
+MR PETER STEPHEN VOLMINK :  Yes so now if I can focus more 
+directly on the award to T-Systems Chair.  In paragraph 107 and 
+following I state that during November 2015 Transnet issued this RFP 
+to the open market for the supply of IT data se rvices and T-Systems 
+responded and Gijima responded and a few others responded.  After 
+quite a drawn out protracted tender process a recommendation was 
+made by management to award the tender to Gijima.  Having said that I 
+should also point out to you Chair  that my understanding is 
+20 
+management did have some misgivings during the evaluation process 
+about Gijima.  There were various commercial and also technical 
+concerns that management had raised and they were not at first in 
+favour of the award to Gijima.  Bu t after extensive engagements with 
+Gijima management came to the conclusion ultimately that those risks 
+10 MAY 2019 – DAY 92 
+ 
+Page 12 of 82 
+ 
+had been adequately mitigated.  Based on the view that the risks had 
+been mitigated they made the recommendation to award to Gijima.  
+What I then go on to say is that during February 2017 the board took a 
+decision not to award to Gijima based on those risks that management 
+had earlier dealt with and to award it to T-Systems. 
+CHAIRPERSON:  So this is one of those contracts which were dealt 
+with during the period when the board was getting involved in the award 
+of certain tenders? 
+MR PETER STEPHEN VOLMINK:  That is correct Chair.  They had 
+delegation of authority. 
+10 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK :  In terms of the delegation of 
+authority framework . 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK :  To make those decisions. 
+CHAIRPERSON:  Yes okay.   
+ADV PHILLIP MOKOENA SC:  And would this be an instance whereby 
+the risk factors are only raised at a later stage when they were in fact 
+dealt with by the management adequately but they are raised in order 
+to not grant the award to the [indistinct] bidder?  
+20 
+MR PETER STEPHEN VOLMINK :  That is precisely the difficulty that 
+Governance had with this entire transaction.  The risks had been 
+highlighted at an earlier s tage and as I testified in the view of the 
+technical and other experts who assessed the matter they were 
+satisfied that the risks had been properly dealt with.  What then 
+10 MAY 2019 – DAY 92 
+ 
+Page 13 of 82 
+ 
+happened is…  
+CHAIRPERSON:  Well let us talk about that a little bit before you.  
+MR PETER STEPHEN VOLMINK :  Yes. 
+CHAIRPERSON:  Move on and – and it takes us to something that we 
+discussed a little bit yesterday namely that if management has a right 
+to take a view on a tender on various factors and – but their role is to 
+make a recommendation and the body that makes the final decision is 
+higher up generally speaking the higher body would be entitled to take 
+a view different to that of management on any of the factors, is it not?  
+Generally speaking. 
+10 
+MR PETER STEPHEN VOLMINK :  Generally speaking? 
+CHAIRPERSON: Yes, yes.  Therefore when a higher body takes a view 
+different to that of management on any particular issue or factor that on 
+its own ought not to raise eyebrows but it just depends on everything 
+else. 
+MR PETER STEPHEN VOLMINK :  Ja. 
+CHAIRPERSON:  On all the circumstances of that particular tender 
+whether it should raise eyebrows.  But one of the factors that may 
+legitimately be taken into account in saying should this raise eyebrows 
+or not is the expertise that management may have on a par ticular issue 
+20 
+knowledge expertise and experience vie a vie knowledge expertise and 
+experience maybe of the body that decides.  If it is a – if the subject is 
+about some scientific technical thing and management consists of a 
+committee of scientists and I a m sitting on a higher body and I am a 
+lawyer I am going to be very careful to go against the view of scientists 
+10 MAY 2019 – DAY 92 
+ 
+Page 14 of 82 
+ 
+in a field where they are the experts.  
+MR PETER STEPHEN VOLMINK :  Yes. 
+CHAIRPERSON:  But it does not necessarily mean that I am going to 
+rubber stamp their view. 
+MR PETER STEPHEN VOLMINK :  Yes. 
+CHAIRPERSON:  I may still question and sometimes I might show them 
+that maybe they did not attach proper weight to a particular factor or 
+they might even change their view but what I should not do is basica lly 
+disregard what they are – the view they have expressed. 
+MR PETER STEPHEN VOLMINK :  Yes.  Precisely. 
+10 
+CHAIRPERSON:  So I am just going back to it – to this point which we 
+discuss yesterday simply because you – you just mentioned that you 
+had a certain difficulty with the fact that the board looked at an issue 
+that you had looked at as management.  And my question goes back is.  
+MR PETER STEPHEN VOLMINK :  Ja. 
+CHAIRPERSON:  Of course they are entitled to look at…  
+MR PETER STEPHEN VOLMINK :  Ja, ja. 
+CHAIRPERSON:  The same issue that you have looked at and they are 
+entitled to take a different view. The question is whether their view 
+weighed against your view is such that it should point to something.  
+20 
+MR PETER STEPHEN VOLMINK :  Ja. 
+CHAIRPERSON:  You would go along with that? 
+MR PETER STEPHEN VOLMINK :  Chair I am – I am in large measure in 
+fact I am in – I am in total agreement. 
+CHAIRPERSON:  Yes. 
+10 MAY 2019 – DAY 92 
+ 
+Page 15 of 82 
+ 
+MR PETER STEPHEN VOLMINK :  With the – with what you say. 
+CHAIRPERSON:  Yes, yes. 
+MR PETER STEPHEN VOLMINK : Because I – my evidence should not 
+be understood to mean that I am of the view that the board is bound by 
+recommendations of management.  It is a board for – it is called the 
+accounting authority for a good reason.  That is the body that must 
+ultimately make its decisions.  My difficulty does not lie with the 
+principle of the board. 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK :  Arriving at a different conclusion.  
+10 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK :  But Chair my concerns firstly is that 
+when these risks were properly evaluated at an earlier stage at the 
+functionality and the commercial gate and the bidder passed that 
+threshold for functionality then in fact we – our own procurement rules 
+in Transnet warns against this concept of double dipping where 
+someone was properly and fully assessed at any earlier stage and then 
+under the guise of a risk evaluation those very issues are now 
+revisited.  And – so I think that is the first concern and the second is 
+just the rationality of it. 
+20 
+CHAIRPERSON:  Yes.  Okay, okay. 
+MR PETER STEPHEN VOLMINK:  Because if management and I am not 
+saying management is always right I mean.  
+CHAIRPERSON:  Yes, yes. 
+MR PETER STEPHEN VOLMINK :  But in this particular case there was 
+10 MAY 2019 – DAY 92 
+ 
+Page 16 of 82 
+ 
+quite a comprehensive motivation  
+CHAIRPERSON:  Hm 
+MR PETER STEPHEN VOLMINK:  Put forward 
+CHAIRPERSON:  Ja which dealt with these issues.  
+MR PETER STEPHEN VOLMINK :  To the board which dealt with all of 
+the issues. 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK :  And one does see a detailed logical  
+CHAIRPERSON:  Response 
+MR PETER STEPHEN VOLMINK :  Analysis on the part of the board.  
+10 
+CHAIRPERSON:  No I… 
+MR PETER STEPHEN VOLMINK :  As to why it held a different view.  
+CHAIRPERSON:  No I think that last part which you say is an important 
+factor because if the one view is fully m otivated and the opposing view 
+is not motived at all or very – or motivated very insignificantly you 
+know it is something to look at.  Yes but I think I understand your 
+position.  You say it is not the principle.  
+MR PETER STEPHEN VOLMINK :  No. 
+CHAIRPERSON:  That you have a problem with it is the facts of the 
+case. 
+20 
+MR PETER STEPHEN VOLMINK :  Precisely. 
+CHAIRPERSON:  And the fact that at Transnet there was as I 
+understand you a rule or policy against what you double dipping.  Okay 
+thank you. 
+ADV PHILLIP MOKOENA SC:  Following from the Chair questions of 
+10 MAY 2019 – DAY 92 
+ 
+Page 17 of 82 
+ 
+clarification.  You are also giving this evidence against the background 
+of a number of transactions that suffered the same fate premised on 
+this risk factors whereby a preferred bidder who was being thoroughly  
+assessed just simply being ignored and another entity being awarded 
+the tender, am I correct?  
+MR PETER STEPHEN VOLMINK :  That is… 
+ADV PHILLIP MOKOENA SC:  And that is why – that is why you are 
+raising these issues specifically?  
+MR PETER STEPHEN VOLMINK:  That is correct Chair.  This is hardly 
+an isolated 
+10 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK :  Incident. 
+CHAIRPERSON:  Okay. 
+MR PETER STEPHEN VOLMINK:  We have seen other cases in the past 
+where 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  Risks are invoked at the eleventh 
+hour 
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  As a reason to overlook bidder A in 
+20 
+order to go to bidder B. 
+CHAIRPERSON:  Ja. 
+MR PETER STEPHEN VOLMINK:  The – the PPM does say that risk can 
+be taken into consideration. 
+CHAIRPERSON:  Hm, hm. 
+10 MAY 2019 – DAY 92 
+ 
+Page 18 of 82 
+ 
+MR PETER STEPHEN VOLMINK :  It says it must be a material risk 
+such that it can cause severe prejudice to Transnet if it were not 
+properly taken into account. 
+CHAIRPERSON:  Hm. 
+MR 
+PETER 
+STEPHEN 
+VOLMINK: 
+ 
+And 
+must 
+not 
+involve 
+a 
+reconsideration of the very factors that were earlier evaluated.  
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK :  So the principle I have no difficulty 
+with. 
+CHAIRPERSON:  Hm. 
+10 
+MR PETER STEPHEN VOLMINK :  But it is the opportunistic use of risk.  
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  In order to 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK :  Not award to a bidder X 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  And to award to what appears to be 
+the deferred bidder. 
+CHAIRPERSON:  Ja. 
+ADV PHILLIP MOKOENA SC:  Let us proceed to deal with specific facts 
+20 
+in order to at least you know place them in it proper context.  You may 
+then proceed to tell us what happened?  
+MR PETER STEPHEN VOLMINK:  Yes thank you Chair. So what they 
+happened is that Gijima lodged a complaint to the Transnet 
+Procurement … 
+10 MAY 2019 – DAY 92 
+ 
+Page 19 of 82 
+ 
+CHAIRPERSON:  Okay just to complete.  Management recommended 
+that Gijima be awarded the contract after the consents or reservations 
+that management had had – had been mitigated through engagement 
+with Gijima. 
+MR PETER STEPHEN VOLMINK :  Correct. 
+CHAIRPERSON: 
+ 
+But 
+the 
+board 
+did 
+not 
+go 
+along 
+with 
+the 
+recommendation of management and decided that the contract should 
+be awarded to T-Systems and largely and if not exclusively their 
+reasons were based on certain risks that they articulated, is that rig ht? 
+MR PETER STEPHEN VOLMINK :  That is correct Chair. 
+10 
+CHAIRPERSON:  And then Gijima lodged a complaint?  
+MR PETER STEPHEN VOLMINK :  A complaint. 
+CHAIRPERSON:  Okay, alright thank you. 
+MR PETER STEPHEN VOLMINK:  The complaint was then received by 
+the Procurement Officer of the Procurement Ombudsman it is one of the 
+functions which I have to oversee within the organisation.  But because 
+it implicated the accounting authority there is a national treasury 
+prescription that when a complaint implicates the account ing authority 
+it must not be investigated by the organ of state itself it must be 
+referred to National Treasury.  And that process was followed.  National 
+20 
+Treasury considered the complaint and ultimately came to the 
+conclusion that the proposed award to – or the award in fact that had 
+been made to T-Systems was invalid and that Gijima should be awarded 
+the tender. 
+ADV PHILLIP MOKOENA SC:  And did Governance also agree with 
+10 MAY 2019 – DAY 92 
+ 
+Page 20 of 82 
+ 
+what National Treasury was saying?  
+MR PETER STEPHEN VOLMINK:  Governance agreed with the 
+conclusion that the tender was invalid  – um sorry that the tender award 
+to T-Systems was invalid and that the tender had to be awarded to 
+Gijima.  So we shared that conclusion.  We held slightly different views 
+on how risks ought to be eval – technical dif – differences that we had 
+which perhaps we do not really need to delve into.  
+ADV PHILLIP MOKOENA SC:  But what was then the advice or the 
+recommendation of Governance?  
+MR PETER STEPHEN VOLMINK:  Well when Governance considered 
+10 
+the matter produced quite a comprehensive memorandum on the matter 
+as well spelling out the various risks and how it had been mitigated and 
+we then made the following recommendations which are contained in 
+paragraph 110 …  
+ADV PHILLIP MOKOENA 
+SC:  Page 49 Chair.  Yes you can 
+(intervenes). 
+MR PETER STEPHEN VOLMINK:  And we recommended that Transnet 
+abide – the first recommendation is Transnet must abide by the ruling 
+taken by National Treasury.  Secondly that T-Systems should be invited 
+to make representations on how – on Transnet’s proposed decision to 
+20 
+abide the – the ruling of National Treasury.  We felt it would be 
+important to invite – represent - T-Systems had now already been 
+awarded the tender and our proposal was well let us withdraw it and we 
+thought that a procedurally fair process would be to at least invite 
+representations.  The third aspect of our recommendation was that 
+10 MAY 2019 – DAY 92 
+ 
+Page 21 of 82 
+ 
+Transnet who should proceed to make the award then to Gijima 
+following a judicial process to set aside the award to T-Systems.  We 
+were conscious of the rule against self-help and so and we thought it 
+would be better to follow a judicial process rather than simply 
+withdrawing from one and awarding to another.  
+ADV PHILLIP MOKOENA SC:  And what ultimately happened to that 
+tender? 
+MR PETER STEPHEN VOLMINK:  Chair I should perhaps just say that 
+he views that we had expressed were also confirmed by senior counsel.  
+We had sought the opinions of Advocate  Sibeko and Advocate Ford and 
+10 
+they were in large measure in agreement with the views that were – 
+were expressed.  Chair ultimately what then happened is after much 
+deliberation the Board then took a resolution to set aside its earlier 
+award to T-Systems and Transnet then approached the High Court for 
+an order declaring its earlier award to T-Systems to be invalid a nd a 
+direction that it be allowed to award to Gijima.  The matter was initially 
+strongly opposed by T-Systems but after some preliminary skirmishes 
+they withdrew their opposition and the matter was then set down for 
+hearing in the Johannesburg High Court o n 12 December 2018 and the 
+court essentially granted the order as prayed for by – by Transnet and I 
+20 
+have attached a copy of the judgment in the papers (intervenes).  
+ADV PHILLIP MOKOENA SC:  So it was only after all those 
+interventions that the Board then d ecided to do the correct thing?  
+MR PETER STEPHEN VOLMINK:  Correct Chair. 
+ADV PHILLIP MOKOENA SC:  Yes.  Now from page - 113 paragraph 
+10 MAY 2019 – DAY 92 
+ 
+Page 22 of 82 
+ 
+113 page 50 you are now dealing with the acquisition of the 100 
+locomotives? 
+MR PETER STEPHEN VOLMINK:  Correct. 
+ADV PHILLIP MOKOENA SC:  Can you please take us through it?  
+MR PETER STEPHEN VOLMINK:  Chair I – I was asked by the 
+investigators to look at this confinement of the – of - for the acquisition 
+of 100 locomotives that was initially confined to a company called 
+Mitsui Africa Rail Solutions or MARS for – for short - and a second 
+confinement where the initial proposed award to MARS was now 
+completely ignored and a second confinement was then motivated for 
+10 
+the award of the very same tender to China South Rail or CSR and I 
+was asked to reflect on – just on the rational as contained in the 
+confinement documents itself. 
+ADV PHILLIP MOKOENA SC:  Yes and then what transpired when you 
+have – after having reviewed and assessed you know the two 
+confinements? 
+MR PETER STEPHEN VOLMINK:  Yes.  So Chair in essence I say in 
+paragraph 113 and following that the initial motivation was made in 
+October 2013.  I said in my initial statement that it was submitted by 
+Mr Brian Molefe but upon further consideration of the documents I see 
+20 
+he did not sign that confinement.  Hence in my amended statement I 
+simply make the point that a submission was made rather than but 
+apart from that minor change the point that I make is that this 
+confinement described in glowing terms the virtues of Mitsui – MARS.  
+Why we should award to Mitsui Africa Rail Solutions and for example 
+10 MAY 2019 – DAY 92 
+ 
+Page 23 of 82 
+ 
+Chair I point that in paragraph 114 there are a number of sub 
+paragraphs.  It says there that these MARS locomotives they were I 
+think for the Class 19E - it is a particular class of l ocomotives.  These 
+MARS locomotives are known they meet requirements and the 
+prototyping is not required.  They have done this before.  It goes on to 
+say that the confinement to MARS was required for purposes of 
+standardisation because MARS had done a numb er of these tenders 
+and a number of the locomotives before.  That there were MARS 
+facilities that were readily available for immediate production.  Lead 
+times would be kept to a minimum and also there would be significant 
+10 
+savings.  Across the page on page 51 the virtues of MARS are further 
+extolled by the individuals who submitted the memo and it says there 
+that the Mitsui models were operating optimally and in fact exceeded 
+their design parameters that we do not need to train new – to train our 
+drivers on any new model because they have been trained on the Mitsui 
+model.  So they also speak about extensive socio economic benefits 
+that would be as a result of the award to Mitsui including job retention 
+at Transnet Engineering and job creation and ultimately t hey said it was 
+not in the interest of Transnet to follow – to award to anyone else.  So 
+in essence what we see …  
+20 
+ADV PHILLIP MOKOENA SC:  Yes. 
+MR PETER STEPHEN VOLMINK:  Is a motivation to – to confine to 
+MARS based on what were depicted as outstanding qu alities that – that 
+MARS had. 
+ADV PHILLIP MOKOENA SC:  And that was the justification why not – 
+10 MAY 2019 – DAY 92 
+ 
+Page 24 of 82 
+ 
+Transnet was not supposed to go out of – out to tender on a – on an 
+open fair competitive bidding system?  
+MR PETER STEPHEN VOLMINK:  That – that was the basis for – for 
+the confinement.  That is correct.  
+ADV PHILLIP MOKOENA SC:  Yes.  However three months down the 
+line there was … 
+MR PETER STEPHEN VOLMINK:  But then correct … 
+ADV PHILLIP MOKOENA SC:  Yes. 
+MR PETER STEPHEN VOLMINK: 
+ 
+Correct 
+Chair. 
+ 
+This 
+MARS 
+confinement served at – at a Board – at a meeting of the BADC which is 
+10 
+a Sub Committee of the Board which is entrusted specifically with 
+procurement matters and I was not at that meeting.  I have no personal 
+knowledge as to what transpired who said what at that  meeting.  All we 
+know from the record is that three months after this initial MARS 
+confinement had been made there was now a second confinement.  This 
+time to award the tender to China South Rail and no longer to – to 
+Mitsui and I have also attached a copy of that confinement to the 
+papers. 
+ADV PHILLIP MOKOENA SC:  Yes.  If I may refer you to EXHIBIT BB 
+2.1D.  You can now ignore C.  We are now going to D.  
+20 
+MR PETER STEPHEN VOLMINK:  D, sorry.  Let me just put C away.  
+Yes. 
+CHAIRPERSON:  In the meantime I can ask whether the – this second 
+submission for confinement meant that there were going to be two 
+submissions before the BADC for confinement – one to Mitsui and the 
+10 MAY 2019 – DAY 92 
+ 
+Page 25 of 82 
+ 
+other one to China Rail or whether the first one was effectively 
+withdraw? 
+MR PETER STEPHEN VOLMINK:  I think it is the later Chair.  I think 
+the first one was effectively withdrawn because if one looks at the 
+contents of the China South Rail confinement the – there it is said that 
+Mitsui’s quality and all the various aspects that were firstly p raised in 
+the first … 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  Confinement. 
+CHAIRPERSON:  Yes. 
+10 
+MR PETER STEPHEN VOLMINK:  They say no Mitsui is …  
+CHAIRPERSON:  Ja. 
+MR PETER STEPHEN VOLMINK:  Not up to scratch. 
+CHAIRPERSON:  A dilution of … 
+MR PETER STEPHEN VOLMINK:  Yes. 
+CHAIRPERSON:  The praises that had been heaped on Mitsui.  
+MR PETER STEPHEN VOLMINK:  That is correct. 
+CHAIRPERSON:  Ja, okay. 
+ADV PHILLIP MOKOENA SC:  If you go to page 1196. 
+MR PETER STEPHEN VOLMINK:  1196 or 1197? 
+20 
+ADV PHILLIP MOKOENA SC:  1197.  This will be …  
+CHAIRPERSON:  I am sorry.  I thought that was D.  
+ADV PHILLIP MOKOENA SC:  D for … 
+CHAIRPERSON:  D for Doris. 
+ADV PHILLIP MOKOENA SC:  For Doris. 
+10 MAY 2019 – DAY 92 
+ 
+Page 26 of 82 
+ 
+CHAIRPERSON:  Ja, okay.  D for David.  D for Doris, okay.  
+ADV PHILLIP MOKOENA SC:  On page 1197 Chair. 
+CHAIRPERSON:  Okay.  So that is 11 …? 
+ADV PHILLIP MOKOENA SC:  97. 
+CHAIRPERSON:  Thank you. 
+ADV PHILLIP MOKOENA SC:  Could you identify that document for us 
+Mr Volmink? 
+MR PETER STEPHEN VOLMINK:  Chair this is a submission made by 
+Mr Brian Molefe the then Group Chief Executive of Transnet to the 
+Transnet Board Acquisitions and Disposals Committee – the BADC – 
+10 
+and the subject simply says: 
+“Mitigation of MDS volumes …”  
+MDS just stands for Market Demand Strategy.  
+“MDS volumes at risk throug h investment in and 
+procurement of 100 Class 19E equivalent dual 
+voltage electric locomotives and 60 Class 43 diesel 
+locomotives.” 
+ADV PHILLIP MOKOENA SC:  And he is the one who was motivating 
+the award in favour of Mitsui?  
+MR PETER STEPHEN VOLMINK:  That – that is correct Chair. 
+20 
+ADV PHILLIP MOKOENA SC:  Yes.  Now if you – while you are still 
+opening that memorandum may I also refer you to page 1223 and could 
+you please identify that document for us?  
+MR PETER STEPHEN VOLMINK:  This is a – a submission from 
+Mr Brian Molefe 
+to 
+the 
+Transnet 
+Board 
+of 
+Directors 
+dated 
+10 MAY 2019 – DAY 92 
+ 
+Page 27 of 82 
+ 
+21 January 2014 which has the same heading as the earlier – earlier 
+confinement that I quoted.  It also says:  
+“Mitigation 
+of 
+MDS 
+volumes 
+at 
+risk 
+through 
+investment in and procurement of the 100 dual 
+voltage electric locomotives.”  
+ADV PHILLIP MOKOENA SC:  But this one a different entity was – was 
+motivated for? 
+MR PETER STEPHEN VOLMINK:  Correct.  This is now the CSR. 
+ADV PHILLIP MOKOENA SC:  Now did you have an opportunity of 
+reading both these memora ndums?  Are they different in any manner?  
+10 
+MR PETER STEPHEN VOLMINK:  Chair the documents – the two 
+memoranda are essentially - the substance of it is almost identical.  
+Where it differs is where the virtues of CSR are now extolled in the 
+second memorandum whereas the qualities of MARS …  
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  Are highlighted in the first …  
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  The first document. 
+CHAIRPERSON:  Hm. 
+ADV PHILLIP MOKOENA SC:  May I now refer you back to your 
+20 
+statement – EXHIBIT BB 2.1A …  
+MR PETER STEPHEN VOLMINK:  Yes. 
+ADV PHILLIP MOKOENA SC:  And page 51 and take us through 
+paragraph 116 and onwards?  
+MR PETER STEPHEN VOLMINK:  Chair in paragraph 116 and following 
+10 MAY 2019 – DAY 92 
+ 
+Page 28 of 82 
+ 
+I simply highlight my – how I deal with my observations of these 
+confinements as I was requested to do by the - by the Commission – 
+the Commission’s investigators and what I say in paragraph 116.1 is 
+that the confinement to China South Rail firstly invokes urgency as a 
+ground for confinement and as we disc ussed yesterday urgency is 
+something that has to be dealt with immediately because of a potential 
+crisis that is looming and I make the point that three months had 
+already elapsed since this earlier confinement to Mitsui which was also 
+based on urgency – by the way – and no steps had been taken to 
+procure any locomotives during that time and I question whether this 
+10 
+matter could genuinely be urgent if no action had been taken but I think 
+more significantly the second point that I make is that this 
+memorandum it misquotes the PPM and perhaps Chair if you would 
+allow me.  It is a very short clause from the PPM that I just want to 
+read into the record. 
+CHAIRPERSON:  Ja, you may do – do that. 
+MR PETER STEPHEN VOLMINK:  In paragraph 116.2 I say that the 
+memorandum quotes the PPM as stating the following:  
+“Where a genuine unforeseeable urgency has arisen 
+such urgency should not be attributable to a lack of 
+20 
+proper planning.” 
+And then the underlined words are added.  
+“However where a genuine urgency has been 
+created by the lack of proper planning urgency can 
+still be relied upon as a ground for confinement.  In 
+10 MAY 2019 – DAY 92 
+ 
+Page 29 of 82 
+ 
+such cases appropriate action must be taken 
+against the individual or individuals responsible for 
+the bad planning.” 
+Now I say it misquotes the PPM because those  underlined words were 
+contained in a draft which we had submitted to the Board and it relates 
+to a point Chair which you made yesterday which is to the effect that if 
+a genuine urgency has come about but it is as a result – even if it is a 
+result of poor planning … 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  There is still an urgency …  
+10 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  To be dealt with …  
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  And it can be relied upon …  
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  As a confinement …  
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  Bu you must deal with the individual 
+… 
+CHAIRPERSON:  Yes. 
+20 
+MR PETER STEPHEN VOLMINK:  Who has created the crisis …  
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  But when this was tak en to the Board 
+at the time they felt strongly that bad planning could never be an 
+excuse for confinement and they deleted the reference that has been 
+10 MAY 2019 – DAY 92 
+ 
+Page 30 of 82 
+ 
+underlined here. 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  So I think the point is that …  
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  The rule which they had now relied 
+upon … 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  Is not the – it is a non-existent rule. 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  I think furthermore Chair …  
+10 
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  I make the point in paragraph 116.4 
+… 
+ADV PHILLIP MOKOENA SC:  On page 52 Chair. 
+CHAIRPERSON:  Well I am just still thinking about this point about 
+poor planning and urgency.  You know – for what it is worth.  I think you 
+– you understood the point… 
+MR PETER STEPHEN VOLMINK:  Yes. 
+CHAIRPERSON:  When we had the discussion yesterday.  I mean if – if 
+the Commission’s administrative wing was supposed to bring something 
+20 
+to my attention to say I must please convene a certain urgent meetin g 
+to deal with a certain situation because if I do no convene that meeting 
+and a certain decision is made we are going to – we will not be able to 
+sit in this venue from next week and the commission will have nowhere 
+to sit and I think that the administrative wing should have told me a 
+10 MAY 2019 – DAY 92 
+ 
+Page 31 of 82 
+ 
+month ago.  I cannot say I am not going to convene a meeting because 
+you people had poor planning.  You should have told me last month.  
+MR PETER STEPHEN VOLMINK:  Ja. 
+CHAIRPERSON:  I am going to say you should have told me la st month 
+but now that this has happened I must convene the meeting …  
+MR PETER STEPHEN VOLMINK:  We have to deal with it. 
+CHAIRPERSON:  Because we cannot afford not to sit next month - next 
+week because we will not have …  
+MR PETER STEPHEN VOLMINK:  Yes. 
+CHAIRPERSON:  We will have no venue. 
+10 
+MR PETER STEPHEN VOLMINK:  Yes. 
+CHAIRPERSON:  So I deal with the poor planning but I recognise that 
+there is urgency because - for example – the lease is expiring over the 
+weekend. 
+MR PETER STEPHEN VOLMINK:  Ja. 
+CHAIRPERSON:  So the meetings that are set – the hearings that are 
+set down for next week and the other week will not take place if I do 
+not meet with the landlord and say the administration has really been 
+poor in planning.  They should have brought this to my atte ntion but 
+now they have brought – they should have brought it to my attention 
+20 
+much earlier but they have now brought it.  Can we do something?  I 
+cannot say I am not going to meet with the landlord because they 
+should have told me last month. 
+MR PETER STEPHEN VOLMINK:  Ja.  I am very fully appreciative of 
+what you are saying Chair. 
+10 MAY 2019 – DAY 92 
+ 
+Page 32 of 82 
+ 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  That also motivated …  
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  The – the inclusion …  
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  Of that clause the sentence …  
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  That was underlined. 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  Management felt that if you are 
+10 
+dealing with a genuine emergency …  
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  Then we cannot close our eyes to the 
+fact that  
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  There could be an operational …  
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  Implosion … 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  As a result of not …  
+20 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  Obtaining a particular. 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  Let us deal with that perhaps on a 
+confinement basis. 
+10 MAY 2019 – DAY 92 
+ 
+Page 33 of 82 
+ 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  Sometimes with a heavy heart one 
+has to … 
+CHAIRPERSON:  That is right, yes. 
+MR PETER STEPHEN VOLMINK:  Agree to these things …  
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  And – and discipline the person …  
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  But let us acquire the … 
+CHAIRPERSON:  Hm. 
+10 
+MR PETER STEPHEN VOLMINK:  The product. 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  If I recall correctly …  
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  The Board’s concern at the time was 
+these self-created urgencies and how easily it gets invoked as a reas on 
+not to follow a procurement process.  There was a view that the system 
+had been subject to abuse – considerable abuse …  
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  Maybe the pendulum swung …  
+20 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  Quite far … 
+CHAIRPERSON:  Because of that ja. 
+MR PETER STEPHEN VOLMINK:  Onto the one side … 
+CHAIRPERSON:  Yes. 
+10 MAY 2019 – DAY 92 
+ 
+Page 34 of 82 
+ 
+MR PETER STEPHEN VOLMINK:  But I think that … 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  That motivated the exclusion of the 
+(intervenes). 
+CHAIRPERSON:  Yes.  Okay, no that is fine. 
+ADV PHILLIP MOKOENA SC:  You may proceed from paragraph 116.4.  
+MR PETER STEPHEN VOLMINK:  In paragraph 116.4 I make the point 
+that certain grounds for the confinement that are set out now in the 
+CSR memo were identical to the Mitsui memo.  It is as if the grounds 
+for confine – there was like a cut, copy, paste exercise done from the 
+10 
+grounds of confinement for MARS and put into the CSR.  Now they also 
+say that: 
+“These diesel locomotives from CSR they are known 
+and they meet technic al requirements and set up 
+costs are not required and facilities are readily 
+available for CSR.” 
+The very – the very things that were said about Mitsui and I make the 
+observation Chair in – sort of in the middle of that paragraph I say 
+assuming that these facts regarding CSR were true that they had all of 
+those qualities why was the confinement then not made to CSR in the 
+20 
+first instance and why did it take three months to realise that CSR 
+actually had the same attributes as Mitsui in relation to set up cost s 
+and prototyping and at very least that suggests bad planning and when 
+there is bad planning as we have said that effectively negates a ground 
+for confinement and that is the – the observation that is made there.  
+10 MAY 2019 – DAY 92 
+ 
+Page 35 of 82 
+ 
+ADV PHILLIP MOKOENA SC:  But let us – let us deal with the effects 
+of these numerous confinements.  What they meant was that a party 
+that was never subjected to any tender process a name will be 
+mentioned and an award will be given to that entity?  
+MR PETER STEPHEN VOLMINK:  It is slightly – it is slightly more 
+complex than that.  So an entity would be recommended as for the 
+confinement. 
+ADV PHILLIP MOKOENA SC:  Yes. 
+MR PETER STEPHEN VOLMINK:  It has to be approved by the person 
+with delegated authority …  
+10 
+ADV PHILLIP MOKOENA SC:  Exactly. 
+MR PETER STEPHEN VOLMINK:  But it is still a tender process.  So an 
+RFP would then be issued to that one or sometimes one or two or three 
+however many entities are listed in the confinement.  Submissions must 
+be received.  It must be evaluated.  It must serve before  the Acquisition 
+Council.  I think the fundamental difference is that it is not an open 
+invitation to - to any – any bidder to (intervenes). 
+ADV PHILLIP MOKOENA SC:  In this regard there were only two 
+memos.  The first one motivated Mitsui?  
+MR PETER STEPHEN VOLMINK:  Only Mitsui. 
+20 
+ADV PHILLIP MOKOENA SC:  And the next one motivated only …  
+MR PETER STEPHEN VOLMINK:  Only CSR. 
+ADV PHILLIP MOKOENA SC:  Yes.  That is the point that – yes. 
+MR PETER STEPHEN VOLMINK:  Yes, yes. 
+ADV PHILLIP MOKOENA SC:  You may proceed then. 
+10 MAY 2019 – DAY 92 
+ 
+Page 36 of 82 
+ 
+MR PETER STEPHEN VOLMINK:  I also point out Chair that the CSR 
+memo now refuted the very qualities that had earlier been stated about 
+MARS.  It now says that: 
+“MARS had not done well during the 1064 loco 
+process and there was another 95 loco tran saction.” 
+I also say that: 
+“This SD of MARS was not …  
+Supply Development. 
+“…was not a key factor when MARS was awarded 
+the contract.” 
+10 
+And then it also says that: 
+“If we continue with MARS that would create 
+unnecessary risk for Transnet.”  
+It says that: 
+“CSR on the other hand had excelled in all of these 
+SD requirements.” 
+And Chair in essence I come to the conclusion having dealt with all of 
+this that the about turn in such a limited period of time I think it – it 
+defies rationality.  It defies logic at least from my observation.  I should 
+also point out and I deal with this in paragraph 117 that it was – in 
+20 
+addition it was stated that regarding these reputational risks that 
+Transnet would suffer it was then said that it was not elaborated on but 
+except to say that there was speculation in the media around Mitsui’s 
+local partners and their political affiliations and it said that Transnet 
+would never entertain awards based on the political prowess of any 
+10 MAY 2019 – DAY 92 
+ 
+Page 37 of 82 
+ 
+business partners to an OEM but the risk does not need to be taken 
+into account for – from a reputational perspective.  Essentially they 
+were saying look we hear some worrying stories but the point is why 
+were those worrying stories not a factor when MARS was motivated for 
+confinement three months earlier when th ese stories had come about – 
+I think – way before that.  So I think all of this – Chair the most 
+generous interpretation that I can give is that it is as a result of just 
+bad planning and I say that is the most generous.  Whether there are 
+other nefarious motives that influence this others will come and testify.  
+ADV PHILLIP MOKOENA SC:  Yes.  Just clearing those bases, fine.  
+10 
+Then we can proceed Mr  Volmink to deal with the McKinsey 
+confinements. 
+MR PETER STEPHEN VOLMINK:  As far as the McKinsey confinements  
+are concerned Chair … 
+ADV PHILLIP MOKOENA SC:  Chair they are from page 54 paragraph 
+118. 
+MR PETER STEPHEN VOLMINK:  Chair I – I say in paragraph 118 that 
+… 
+CHAIRPERSON:  I am sorry – I am sorry Mr Volmink. 
+MR PETER STEPHEN VOLMINK:  Yes. 
+20 
+CHAIRPERSON:  When the BADC – that Board Committee – dealt with 
+matters such as this – you know – this request for confinement would 
+they have the benefit of somebody at that stage - I know the 
+recommendation that you expressed going forward.  Would they call for 
+somebody with some more knowledge of procurement from within 
+10 MAY 2019 – DAY 92 
+ 
+Page 38 of 82 
+ 
+Transnet and say you know there is this request give us some advice.  
+What is your view?  You know - is this in compliance is this not in 
+compliance with the prescripts and policies or would they rely on  the 
+relevant Executive members of management or CEO and so on?  
+MR PETER STEPHEN VOLMINK:  Chair if memory serves me correctly 
+the ADC called the Group Chief Supply Chair Officer …  
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  To attend … 
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  Their meetings … 
+10 
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  And to – I would imagine that if there 
+were procurement process related issues …  
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  They would look to the Group Chief 
+Supply Chain Officer to say …  
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  Is this correct or not correct. 
+CHAIRPERSON:  Ja.  So - so they would have at the meeting available 
+to them such a person? 
+20 
+MR PETER STEPHEN VOLMINK:  Correct Chair. 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  Whether that person as present when 
+these matters were discussed …  
+CHAIRPERSON:  You do not know? 
+10 MAY 2019 – DAY 92 
+ 
+Page 39 of 82 
+ 
+MR PETER STEPHEN VOLMINK:  I cannot say …  
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  But usually …  
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  The Group Chief Supply Chair Officer 
+would be present …  
+CHAIRPERSON:  Would attend, yes. 
+MR PETER STEPHEN VOLMINK:  At - at these discussions. 
+CHAIRPERSON:    Would attend, okay thank you. 
+ADV PHILLIP MOKOENA SC :    Can you now move on to d eal with the 
+10 
+McKinsey confinements? 
+MR PETER STEPHEN VOLMINK :     Chair I – with regards the 
+McKinsey transactions I’ve also been asked to comment on the grounds 
+of the confinement to McKinsey I make the point in paragraph 118 that 
+over a three year period  2012 to 2018 there were at least eight 
+contracts that were awarded to McKinsey consulting for various 
+consultancy work. 
+ADV PHILLIP MOKOENA SC :    And this all eight were on 
+confinements? 
+MR PETER STEPHEN VOLMINK :     All eight followed a confined tender 
+20 
+process and I – a summary is contained in the bundle in the Annexures 
+but on the next page Chair, on page 55 paragraph 1251 to 1258 I 
+summarised these confinements. 
+ADV PHILLIP MOKOENA SC :    And what is the value – the total value 
+of these confinements? 
+10 MAY 2019 – DAY 92 
+ 
+Page 40 of 82 
+ 
+MR PETER STEPHEN VOLMINK:     Chair the combined value of these 
+various confinements came to about 1.6billion and with some 
+amendments and increases to scope of work and value to about 
+2.1billion. 
+ADV PHILLIP MOKOENA SC :    All that did not go out on tender ? 
+MR PETER STEPHEN VOLMINK:     It did not go out on open tender, it 
+was awarded by of a confined tender process.  
+ADV PHILLIP MOKOENA SC :    Yes now from paragraph 120 you 
+express certain views about the justifications that were contained in the 
+confinement, could you please take us through them?  
+10 
+MR PETER STEPHEN VOLMINK :     Chair I highlight various views 
+which I have of the confinement starting with the entrenching of 
+monopolies. 
+ADV PHILLIP MOKOENA SC :    Yes. 
+MR PETER STEPHEN VOLMINK:     And I say that because in the PPM 
+which is our manual of how these things are to be done it, in fact, 
+cautions that because confinement is a departure from an open tender 
+process it must be dealt with, with great “circumspection” and it warns 
+– just lower down in that paragraph I say that the PPM also warns that 
+the misuse of confinement has the potential to entrench monopolies 
+20 
+and as such is at odds with the imperatives with the new growth path 
+which was one of the flagship government polices at the time.  I make 
+the point, Chair, in paragraph 122 that our procurement procedures 
+required our delegated authorities to be vigilant against the creation of 
+monopolies and at face value any company who has received work by 
+10 MAY 2019 – DAY 92 
+ 
+Page 41 of 82 
+ 
+way of a confined tender process over a two year perio d with eight 
+awards being made totalling 1.6billion, on the face of it, that seemed to 
+create a monopolistic situation.  What I also highlighted is that there 
+was some awareness even on the part of the Group Chief Executive 
+about the dangers of monopolies so when certain of these confinements 
+were brought forward – I deal with this in paragraph 123 there is a 
+submission that served before the Acquisition Council at one point and 
+it contained the following paragraph, which you will find in italics 
+towards the end of paragraph 123 and it says,  
+ 
+“during post-tender negotiations the GCE raised a concern that 
+10 
+Transnet had been awarding business excessively to McKinsey and 
+Company and as a result this will expose Transnet to insurmountable 
+risks should any unsavoury circumstances occur”, 
+ 
+And at that point a decision was made to award part of the 
+business to Deloitte’s, but even that ended up in being cancelled and 
+the award was made to McKinsey.  So I think, in essence, despite the 
+earlier concerns and awareness that we could be dealing with a 
+monopolistic situation the award proceeded, nevertheless on all of 
+these things. 
+ADV PHILLIP MOKOENA SC:   Yes take us through the grounds of 
+20 
+confinement as you discuss in paragraph 1.5.  
+MR PETER STEPHEN VOLMINK :     Chair in 1. – sorry in 125, I just 
+again quote what the – our internal grounds are and I say that these 
+confinements relied on two grounds, urgency firstly, I mention that as 
+ground A) in paragraph 126 and ground D) which is that services are 
+10 MAY 2019 – DAY 92 
+ 
+Page 42 of 82 
+ 
+highly specialised and largely identical to work previously performed 
+and I just want to engage for a few moments on both of those grounds, 
+whether they were justified in the context of the McKinsey transactions.  
+Under urgency Chair, it is stated that the ground for confineme nts are 
+urgent based on certain revenue related risks.  It was stated that 
+EBITDAR is at risk and there’s a need to deliver on MDS, the Market 
+Demands Strategy which was a flagship programme of Transnet at time 
+and it states that if we don’t get these serv ices we could place the 
+whole MDS at risk. 
+ 
+Now as I testified yesterday, the grounds for urgency is that it 
+10 
+must be a genuine unforeseeable urgency and I say in my statement 
+that the PPM contemplates that the situation that gave rise to the 
+urgency should not be anticipated and should therefore be genuinely 
+unexpected and I question whether the revenue risks that were 
+highlighted were genuinely unexpected.  A revenue risk is not 
+something which Transnet would realise now, one sees declines in 
+volumes and declines in revenue usually over a period of time and I 
+certainly don’t think that, that was unforeseeable.  On the second 
+ground which relates to the fact that the services from Mckinsey are 
+highly specialised and largely identical to work which they previ ously 
+20 
+did.  I say the following in paragraph 130 of my statement Chair, I say 
+that, “all the confinement memos justified the confinements to Mckinsey 
+on the grounds that it would result in wasted time and money.  It was 
+stated that a new service provider w ould have to acquaint itself with 
+Transnet’s pricing strategies, capital programme, overall MDS, whereas 
+10 MAY 2019 – DAY 92 
+ 
+Page 43 of 82 
+ 
+McKinsey already had that knowledge” and ground D) does make 
+allowance for a situation where I can confine to someone on the 
+grounds that it’s a highly  specialised service and I just want a bit more 
+from that person based on what they have done before.  We, in 
+Transnet we refer to it sometimes as the school fees, the school fees 
+clause. We say we have paid the school fees of this consultant he has 
+come to learn all of our shortcomings, our difficulties, our systems and 
+we want him to do an extra bit of work but if we have to go out on 
+tender, I must pay the school fees now of another person whose having 
+to re-learn all of these difficulties. 
+10 
+ 
+So in an appropriate case, I think there is justification for such 
+awards, in fact I think the first few McKinsey transactions – the first 
+two or three, I was – I supported that at the time, I thought there was a 
+justification for it based on this school fees clause b ut what we have 
+here Chair is that it is now said that McKinsey has all of – they’ve got – 
+they’re proprietary iron or demand and supply model and they’ve got 
+proven 
+toolkits 
+for 
+negotiation 
+and 
+the 
+like 
+and 
+the 
+point...(intervention). 
+CHAIRPERSON:   I guess that since we’re looking – we’re talking about 
+quite a high number of contracts that were awarded to McKinsey, I think 
+20 
+your statement says about eight. 
+MR PETER STEPHEN VOLMINK :     Correct. 
+CHAIRPERSON:  I guess that you might not have just paid, you k now, 
+the school fees, you must have taken them to university as well so it 
+had to take long. 
+10 MAY 2019 – DAY 92 
+ 
+Page 44 of 82 
+ 
+MR PETER STEPHEN VOLMINK:     We could have paid for many 
+universities Mr Chair. 
+ADV PHILLIP MOKOENA SC :    On that university note, I see it’s 
+quarter past eleven. 
+CHAIRPERSON:     Okay we’ll take the tea adjournment and resume at 
+half past eleven, we’re adjourned.  
+INQUIRY ADJOURNS  
+INQUIRY RESUMES  
+CHAIRPERSON:  Okay let us proceed. 
+ADV PHILLIP MOKOENA SC :  Thank you Chair. 
+10 
+CHAIRPERSON:  Thank you. 
+ADV PHILLIP MOKOENA SC:  Mr Volmink just before the tea 
+adjournment you were still taking the Chair in relation to paragraph 131 
+of your statement please continue and summarise what you are saying 
+there? 
+MR PETER STEPHEN VOLMINK:  That is correct.  Thank you Chair.  
+The point that I was addressing before tea relates to the second ground 
+for confinement where it was said that the services are highly 
+specialised and only obtainable from Gijima.  What I say in paragraph 
+131 is where the PPM…  
+20 
+CHAIRPERSON:  Did you – did you say from Gijima? 
+ADV PHILLIP MOKOENA SC :  Not Gijima. 
+MR PETER STEPHEN VOLMINK :  Sorry you asked? 
+CHAIRPERSON:  We long past Gijima?  
+ADV PHILLIP MOKOENA SC :  You mentioned Gijima. 
+10 MAY 2019 – DAY 92 
+ 
+Page 45 of 82 
+ 
+MR PETER STEPHEN VOLMINK :  Oh. 
+CHAIRPERSON:  We long past Gijima. 
+MR PETER STEPHEN VOLMINK:  Sorry my – my apologies Chair.  
+What I – what I… 
+CHAIRPERSON:  China South and Mutsui, Mutsui.  
+MR PETER STEPHEN VOLMINK :  Yes I think we had also past…  
+CHAIRPERSON:  That is where we are. 
+MR PETER STEPHEN VOLMINK :  Past there. 
+CHAIRPERSON:  Oh we are past that as well. 
+MR PETER STEPHEN VOLMINK :  I think we are now with McKinsey. 
+10 
+CHAIRPERSON:  Oh ja. 
+MR PETER STEPHEN VOLMINK :  I think I meant to say McKinsey. 
+CHAIRPERSON: Oh we are at McKinsey ja.  Okay.  
+MR PETER STEPHEN VOLMINK:  The point that I wanted to make is 
+that where this ground is dealt with in the PPM it says that when this 
+ground D is relied upon proper consideration must be given to the 
+public interest as well as Transnet’s interest. In other words it conveys 
+the notion that it is n ot sufficient for Transnet officials to consider the 
+fact that the services are highly specialised and can only be obtained 
+from McKinsey.  I make the point that there is an overwhelming public 
+20 
+interest in open, fair, competitive tendering processes and th e 
+avoidance of monopolistic situations.  And had that requirement of the 
+public interest being taken into consideration as well when that ground 
+D was considered I think it would have pointed us away from repetitive 
+confinements to McKinsey when the public  interest in fact required 
+10 MAY 2019 – DAY 92 
+ 
+Page 46 of 82 
+ 
+something else. 
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK :  And there can in my view Chair be no 
+distinction between the public interest and Transnet’s interest as a 
+public body.  Chair I then deal with another concern which I p icked up 
+and that is that in a number of instances payments were made to 
+McKinsey even before the tenders were awarded.  So the tender is still 
+underway and payments are being made.  And I deal with that in 
+paragraph 132. 
+ADV PHILLIP MOKOENA SC :  Yes.  May I then take you to Exhibit 
+10 
+BB2.1D for David? 
+MR PETER STEPHEN VOLMINK:  Yes.  And if you may please go to 
+page 1342.   
+MR PETER STEPHEN VOLMINK :  Yes. 
+ADV PHILLIP MOKOENA SC :  In order to substantiate what you are 
+saying in paragraph 132 you then place re liance on a number of emails 
+starting from page 1342 onwards.  Can you please take us through the 
+emails? 
+MR PETER STEPHEN VOLMINK :  Gladly Chair.   
+ADV PHILLIP MOKOENA SC :  You can follow the chronology that suits 
+20 
+you know the version. 
+MR PETER STEPHEN VOLMINK:  Chair perhaps just for purposes of 
+chronology it may be better to start with the first email which you will 
+find further down in the annexure.  
+CHAIRPERSON:  I am sorry.  I am on BB2.1D, is that the wrong lever 
+10 MAY 2019 – DAY 92 
+ 
+Page 47 of 82 
+ 
+arch file? 
+ADV PHILLIP MOKOENA SC :  That is the right one. 
+CHAIRPERSON:  That is the right one?  
+ADV PHILLIP MOKOENA SC :  Yes.  On page  
+CHAIRPERSON:  Page 1 
+ADV PHILLIP MOKOENA SC :  1342. 
+CHAIRPERSON:  Oh. 
+ADV PHILLIP MOKOENA SC :  1342.   
+CHAIRPERSON:  I think I was on 1242.  Yes. 
+MR PETER STEPHEN VOLMINK:  Chair if we can start on page 1344.   
+10 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK :  It is an email written by the then 
+procurement manager Cindy Felix to Mr Edward Thomas  
+CHAIRPERSON:  The one at the bottom?  
+MR PETER STEPHEN VOLMINK :  That is correct Chair. 
+CHAIRPERSON:  Ja. 
+MR PETER STEPHEN VOLMINK:  Right at the bottom.  And it is dated 
+the 11 July 2014.  And it says: 
+“Dear Edward, I refer to your text message received 
+this morning where you have instructed us to create 
+20 
+purchase orders for payments to be made to 
+McKinsey where no contracts exist.  As the P to P 
+that is Procure to Pay business process owner for 
+TCC she is now describing herself please be advised 
+that I require written permission via email from you 
+10 MAY 2019 – DAY 92 
+ 
+Page 48 of 82 
+ 
+as the acting Group Chief Supply Chain Officer to 
+request my team to create purchase orders as this is 
+a deviation in the P to P process and effectively our 
+supply chain policy and procurement procedures 
+which is based on the regulatory statutes we are 
+bound by as a state owned comp any.  It is my 
+understanding that the payment requests is from 
+Business and it is being approved as duly payable by 
+the Group Chief Financial Officer Anoj Singh as the 
+respective delegated authority for Transnet and 
+10 
+custodian of these transactions.”  
+She continues: 
+“We assume that the applicable risks in making such 
+payments have been considered before release of 
+these respective requisitions.”  
+And she then lists these various transactions where payment is 
+supposed to be made.  She says: 
+“The tenders according to you affected include the 
+following:” 
+She refers to: 
+20 
+“The coal breakthrough of 2 metric tonnes”  
+That is one of the confinements to McKinsey.  And she says – she is 
+now getting a status update – she says: 
+“No evaluation is in progress.  Business is not  
+responding and the business owners wanted – noted 
+10 MAY 2019 – DAY 92 
+ 
+Page 49 of 82 
+ 
+that business does not agree to this request.”  
+In essence she is saying there is no evaluation has happened yet but 
+we must pay the service provider. She mentions the next one relating to 
+the renegotiation of the Kumba iron ore contract also one of the 
+confinements. She again says: 
+“No evaluation in progress Business not responding 
+and Business owner wanted to…”  
+I think she pretty much the same status.  Regarding the third 
+confinement regarding the manganes e execution initiative she again 
+says: 
+10 
+“It is currently in evaluation stage.”  
+The fourth confinement.  NMPPD Risking and Acceleration currently in 
+evaluation stage and Capital Optimisation which is the fifth one she 
+says: 
+“It is only issued on 10 July and we only received 
+supply chain management sign off this week.”  
+And she concludes by saying: 
+“Kindly be advised that we 
+do not and she 
+underlines do not recommend that this be paid.” 
+And she puts it in bold. 
+20 
+“Until such time as these contracts are concluded as 
+the scale of the risk is significant in relation to the 
+payments being made to service providers who 
+knowingly took on the risk of doing work without a 
+proper tender process being completed.”  
+10 MAY 2019 – DAY 92 
+ 
+Page 50 of 82 
+ 
+There are other paragraphs which follow but I think that is …  
+ADV PHILLIP MOKOENA SC :  That captures the essence. 
+MR PETER STEPHEN VOLMINK:  That captures the essence of what 
+she was saying which in my view captures the internal controls 
+absolutely correctly. 
+ADV PHILLIP MOKOENA SC :  And then what happened after she  have 
+now dispatched that email?  
+MR PETER STEPHEN VOLMINK:  Well then Chair we have another 
+email from Mr Edward Thomas now in response to the email from Cindy 
+Felix and the contents you will find on page 1344 and he says:  
+10 
+“Dear Cindy firstly a contractual  obligation has been 
+created once the confinement process was approved.  
+A letter was issued to McKinsey whereby Transnet 
+requested them to commence work while the RFP 
+was issued and they were to respond to the RFP 
+indicating that should Transnet not concl ude the 
+procurement event after the RFP was completed 
+Transnet commits to pay for work delivered until that 
+point.  Thus a contract is in place thus no 
+condonation is required at all for any payment that is 
+20 
+to be made thus there are no risks regarding this  
+payment that can be validly made.  The fact that 
+Transnet will be negotiating price further through the 
+RFP process will be taken into account in future 
+payments to be made.”  
+10 MAY 2019 – DAY 92 
+ 
+Page 51 of 82 
+ 
+And in essence he is saying that as far as he is concerned a contract 
+exists and payments can be made against that contract.  
+ADV PHILLIP MOKOENA SC :  Despite that analysis that really showed 
+that the process was incoherent at that stage and there was no 
+contracts in place at that stage?  
+MR PETER STEPHEN VOLMINK :  That is correct Chair.  With respect I 
+think the contents of this second email – the contents are patently 
+incorrect.  A confinement when one gets approval to confine  
+CHAIRPERSON:  It does not create a contract?  
+MR PETER STEPHEN VOLMINK :  It does not create a contract at all.  
+10 
+CHAIRPERSON:  And everybody should know that.  
+MR PETER STEPHEN VOLMINK :  I would imagine. 
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  And all it does is to say you have 
+permission not to issue this RFP 
+CHAIRPERSON:  For open tenders. 
+MR PETER STEPHEN VOLMINK:  For open tender  
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK :  But you can now issue the RFP to 
+this one or two or three or however many you have confined to and then 
+20 
+what follows  
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  Is a process which mirror s the open 
+tender process. 
+CHAIRPERSON:  Yes but confined to those  
+10 MAY 2019 – DAY 92 
+ 
+Page 52 of 82 
+ 
+MR PETER STEPHEN VOLMINK:  But confined to those two or one or 
+however many. 
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK :  And the contract gets concluded at 
+the end of that process. 
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK :  It is unheard of that one can 
+conclude a contract first and then  
+CHAIRPERSON:  Evaluate. 
+MR PETER STEPHEN VOLMINK :  Evaluate later. 
+10 
+CHAIRPERSON:  The supplier later. 
+MR PETER STEPHEN VOLMINK :  I have never heard of suc h. 
+CHAIRPERSON:  I mean what – what point would – would it serve to 
+evaluate whether the supplier is the right kind of supplier if you have 
+already concluded a contract?  
+MR PETER STEPHEN VOLMINK:  Well precisely Chair because even if 
+it is a confined – a confined tender 
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK :  It must go through a rigorous 
+evaluation process. 
+20 
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK :  If that bidder does not make any of 
+thresholds let us say for functionality or local content that bid der is 
+excluded, the bidder falls away.  But if I already have contract in place 
+I really put the cart before the horse and I think that is exactly what 
+10 MAY 2019 – DAY 92 
+ 
+Page 53 of 82 
+ 
+happened in this instance. 
+ADV PHILLIP MOKOENA SC:  An email that you want us to – that you 
+want to complete with? 
+MR PETER STEPHEN VOLMINK :  It – I think that is then just a follow 
+up email where the staff is told that look Eddie has now informed us 
+that there is no breach or deviation and payment must now be made.  I 
+think that the staff felt that they no w had no alternative. 
+CHAIRPERSON:  Ja they had made their points and.  
+MR PETER STEPHEN VOLMINK :  They have made their point, they 
+have stated their position. 
+10 
+CHAIRPERSON:  And – hm. 
+MR PETER STEPHEN VOLMINK :  But someone higher up in the food 
+chain had instructed that the payment must be made and I think the 
+impression that one gets is under protest the payments then flow.  
+ADV PHILLIP MOKOENA SC :  Can you take us from page 60 paragraph 
+133 onwards? 
+CHAIRPERSON:  That is back to the statement?  
+ADV PHILLIP MOKOENA SC:  Yes back to the statement Mr Chair.  
+MR PETER STEPHEN VOLMINK:  Yes.  Chair I then just I make the 
+point there that there should have been no confusion about this to 
+20 
+begin with because in our procurement rules in the PPM of the 2013 
+version which applied at the time there was a provision which I quote 
+on – in paragraph 134 where it says: 
+“No employee shall anticipate the approval of 
+acceptance of bids.  Therefore no employee may 
+10 MAY 2019 – DAY 92 
+ 
+Page 54 of 82 
+ 
+enter into contracts verbally or in writing or place 
+any 
+orders 
+before 
+the 
+prescribed 
+adjudication 
+process has been performed.  An authority has been 
+duly granted by a manager with appropriate DOA.”  
+So that rule was always there and there is a further provision that says:  
+“Even if you have a confined tender it says those 
+tenders will “close at the relevant acquisition 
+council”. 
+What that simply means as I have explained before is a tender gets 
+issued.  There must still be a closing date.  There must – and all the 
+10 
+normal processes of adjudication then follows.  
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK :  And that is what I deal with on – in 
+paragraph 134 yes. 
+ADV PHILLIP MOKOENA SC :  And 135? 
+MR PETER STEPHEN VOLMINK :  In paragraph 135 I say that on the 9 
+April 2014 well before these RFP’s were issued the Group Chief 
+Financial Officer who was Mr Anoj Singh at the time wrote to both 
+McKinsey and Regiments and requested them to “mobilise a McKinsey 
+led consortium” he says to have initial discussions with our teas.  But 
+20 
+we know now from what we have seen it was not just discussi ons.  They 
+were mobilised to do actual work and – and I think that for me is a 
+fundamental breach of process.  As a result of this Chair we actually 
+felt the need to issue a further directive to Business.  And I deal with 
+that in paragraph 136 the directive itself I think is attached as PV46 
+10 MAY 2019 – DAY 92 
+ 
+Page 55 of 82 
+ 
+which… 
+ADV PHILLIP MOKOENA SC :  Chair it is on page 1353. 
+MR PETER STEPHEN VOLMINK:  And I do not propose to read the 
+entire directive Chair save to say that this directive explained to 
+Business that a confinement – a confined tender process is still a 
+tender process and that no one should jump the gun.  That everyone 
+should wait until the tender process is completed be it a confined 
+tender process or an open tender process.  There should be no 
+engagements with a bidder until that process has been completed and 
+only after the relevant delegated body has made the award only then 
+10 
+can one engage and issue letters of intent and contracts can be 
+concluded etcetera.  And that is in essence the contents of the 
+directive that was  issued. 
+CHAIRPERSON:  Was that directive prompted by knowledge of the 
+response to Ms Cindy Felix. 
+MR PETER STEPHEN VOLMINK :  Ja Felix. 
+CHAIRPERSON:  What was her surname?  
+MR PETER STEPHEN VOLMINK :  Felix. 
+CHAIRPERSON:  Felix, Felix. 
+MR PETER STEPHEN VOLMINK:  Yes. 
+20 
+CHAIRPERSON:  To Ms Felix email. 
+MR PETER STEPHEN VOLMINK :  Yes it was Chair. 
+CHAIRPERSON:  It was prompted by that?  
+MR PETER STEPHEN VOLMINK:  Yes it was she raised not only Cindy 
+but other people in the supply chain community came to Governance  
+10 MAY 2019 – DAY 92 
+ 
+Page 56 of 82 
+ 
+and said you must address this issue because we are being asked to 
+make payments while tender processes are still underway.  And that is 
+when we issued this to the entire organisation.  
+CHAIRPERSON:  And do you know whether Mr Anoj Singh would have 
+seen the directive quite soon after it was circulated or issued or is that 
+something you do not know?  
+MR PETER STEPHEN VOLMINK:  Chair it is addressed firstly to all 
+EXCO and extended EXCO members of which Mr Anoj Singh was a 
+member. 
+CHAIRPERSON:  Was a member.  Yes so… 
+10 
+MR PETER STEPHEN VOLMINK :  But he would have. 
+CHAIRPERSON:  Yes so – so he – it was to be expected that he would 
+see it? 
+MR PETER STEPHEN VOLMINK :  That he would have seen it. 
+CHAIRPERSON:  Ja.  Okay.  But after there was no change of attitude 
+in the – on his part after the issuing of this directive in relation to 
+payments to this entity?  
+MR PETER STEPHEN VOLMINK :  I am not aware that there has been 
+any. 
+CHAIRPERSON:  You are not aware. 
+20 
+MR PETER STEPHEN VOLMINK :  Change. 
+CHAIRPERSON:  Okay, okay.  Alright. 
+ADV PHILLIP MOKOENA SC :  You conclude on that topic Mr Volmink 
+on page 137. 
+MR PETER STEPHEN VOLMINK :  In paragraph 137. 
+10 MAY 2019 – DAY 92 
+ 
+Page 57 of 82 
+ 
+ADV PHILLIP MOKOENA SC :  Paragraph 137 yes. 
+MR PETER STEPHEN VOLMINK :  I simply say Chair that it was most 
+irregular to engage McKinsey to commence work before the tender 
+process and I say that it creates the impression that the confinements 
+to McKinsey amounted to little more than an Ex post facto exercise to 
+justify the award of Business that had already occurred.  Why go 
+through the pretence of a confined tender process when in fact the 
+teams are already on the ground doing the work?  And it just creates 
+the impression in my mind that this was Ex post facto justification for 
+what had already happened. 
+10 
+ADV PHILLIP MOKOENA SC :  And from paragraph 138 you addressing 
+a new topic.  Take us through it?  
+MR PETER STEPHEN VOLMINK :  This is now still on the McKinsey 
+contracts.  I am raising a further concern that I have with the contracts 
+Chair.  And it relates to what we refer to as parce lling of transactions. 
+ADV PHILLIP MOKOENA SC :  What does that – what does that mean? 
+MR PETER STEPHEN VOLMINK :  Well in essence what it means is that 
+you cannot break up a transaction into smaller value components to 
+bring it to a lower level of delegatio n when in fact if you take the 
+cumulative value it should go to a higher level of delegation.  It is even 
+20 
+dealt with I think in our code of ethics where it is stated that it is 
+considered an ethical breach to unbundle a transaction into smaller 
+components in order to avoid higher levels of authority and scrutiny.  
+Now I raise that in the context of the McKinsey contracts because I say 
+that over a period of four days and that is from the 31 March 2014 to 
+10 MAY 2019 – DAY 92 
+ 
+Page 58 of 82 
+ 
+the 3 April 2014 when I reviewed these confinements I noticed that the 
+former GCE Mr Brian Molefe approved four confinements with a 
+combined value of R619 million.  Now Mr Molefe had delegation to 
+approve confinements but only up to R250 million.  Each one of these 
+four falls under 250.  So the first one is 1 30 million.  The second one 
+was 239, the third one was 150 million and the fourth confinement was 
+100 million.  So viewed on their own they would have fell within his 
+delegated authority.  But viewed cumulatively it should have been 
+referred to a higher level which is the board acquisition and disposal 
+committee. 
+10 
+CHAIRPERSON:  Was it the same transaction?  
+MR PETER STEPHEN VOLMINK :  Chair? 
+CHAIRPERSON:  Was it the same transaction these four confinements?  
+Did they relate to the same job?  
+MR PETER STEPHEN VOLMINK:  They relate to the award of different 
+aspects of what is broadly the McKinsey confinement.  
+CHAIRPERSON:  Okay. 
+MR PETER STEPHEN VOLMINK :  So the coal contract.  The coal 
+contract to McKinsey was to appoint McKinsey to help us to improve 
+our efficiencies on the coal.  But the iron ore contract which is the 
+20 
+second one was also geared at enhancing efficiencies, increasing 
+revenue.  The third one which was the manganese contract had the 
+same essential characteristics it was about how we can get McKinsey  
+to help us to improve on our productivity and so on and the NNPP 
+contract.  So they – they in essence relate to the same scope of work.  
+10 MAY 2019 – DAY 92 
+ 
+Page 59 of 82 
+ 
+CHAIRPERSON:  And they were given over  
+MR PETER STEPHEN VOLMINK :  Four days. 
+CHAIRPERSON:  A few days. 
+MR PETER STEPHEN VOLMINK:  A four day period. 
+CHAIRPERSON:  A four day period. 
+MR PETER STEPHEN VOLMINK :  Yes. 
+CHAIRPERSON:  So it is over a very short period and relates to 
+effectively the same project?  
+MR PETER STEPHEN VOLMINK :  Essentially the – exactly. 
+CHAIRPERSON:  Same project. 
+10 
+MR PETER STEPHEN VOLMINK :  And … 
+ADV PHILLIP MOKOENA SC :  And to the same entity. 
+MR PETER STEPHEN VOLMINK :  And to the same entity. 
+CHAIRPERSON:  And to the same entity. 
+MR PETER STEPHEN VOLMINK :  Yes.  And it seemed to me Chair at 
+face value that this amounted to an unbundling of these contracts to 
+fall within the delegated authority of the GCE.  
+CHAIRPERSON:  Well we will see in the end whether the finding will be 
+that that is what happened but on the face of it it does seem that these 
+factors that you have mentioned could support what you are saying.  I 
+20 
+mean the manganese one and the NMPP one were done on the same 
+day. 
+MR PETER STEPHEN VOLMINK :  Ja. 
+CHAIRPERSON:  Is that right? 
+MR PETER STEPHEN VOLMINK :  That is correct. 
+10 MAY 2019 – DAY 92 
+ 
+Page 60 of 82 
+ 
+CHAIRPERSON:  3 April 2014 why were they done separately?  
+MR PETER STEPHEN VOLMINK :  Ja. 
+CHAIRPERSON:  And then the iron ore one had been done two days 
+earlier. 
+MR PETER STEPHEN VOLMINK :  Two days earlier. 
+CHAIRPERSON:  And the coal one had been done one day earlier than 
+the iron ore one. 
+MR PETER STEPHEN VOLMINK :  One day earlier.  That is my concern.  
+CHAIRPERSON:  So those factors may well support what your 
+proposition may be. 
+10 
+MR PETER STEPHEN VOLMINK:  Yes Chair.  Um and I conclude that 
+point over the page where I just say  that the rules around parcelling in 
+Transnet states the following and I am on page 63 of my statement.  
+ADV PHILLIP MOKOENA SC :  Yes. 
+MR PETER STEPHEN VOLMINK :  Paragraph 141. 
+“The rules around parcelling says that when the full 
+scope of work is known at a  point in time 
+requirements may not be deliberately split into parts 
+or items of lesser value in order to keep the 
+transaction within a particular delegation of authority 
+20 
+level or to keep it below a particular threshold or a 
+person with higher levels of de legation.  This is 
+considered parcelling and will be regarded in a 
+serious light as it amounts to non-compliance with 
+procurement procedures.”  
+10 MAY 2019 – DAY 92 
+ 
+Page 61 of 82 
+ 
+So I think the rules around that were clearly stated in the company at 
+the time. 
+ADV PHILLIP MOKOENA SC:  Yes.  And yesterday you did educate us 
+about what you termed the confidential confinements and you had an 
+exchange with the Chair whether – does that conform with the 
+principles of the [indistinct] Section 217 of the Constitution and 
+whether can one justify that within the principles of open competitive 
+transparent tender system?  
+MR PETER STEPHEN VOLMINK :  Yes. 
+ADV PHILLIP MOKOENA SC :  Can you tell us then what did this also 
+10 
+entail in relation to McKinsey?  
+MR PETER STEPHEN VOLMINK :  In relation to McKinsey Chair I  
+indicated yesterday that a number of these confinements were 
+classified as confidential.  And I will come back to that aspect in a 
+moment but first let me say this that because confinements is a process 
+that is – that has great potential for abuse where g rounds are relied 
+upon that are actually – that should never justify confinement. Various 
+safeguards and levels of revue were built into the process and I 
+mention that it has to start with the operating division.  The end user 
+department has to motivate for the confinement.  It then has to go to 
+20 
+the operation division CPO, the acquisition council and the Chief 
+Executive of that operating division and then it comes to Group where it 
+again has to undergo various levels of revue from the Group Chief 
+Supply Chain Officer and there was even a practice although not 
+uniformly observed that Governance had to review these as well.  And I 
+10 MAY 2019 – DAY 92 
+ 
+Page 62 of 82 
+ 
+said yesterday that when a confinement was classified as confidential 
+none of the safeguards applied.  So it sailed past all these reviewing 
+bodies and would have gone straight to the GCE.  And…  
+CHAIRPERSON:  Were all confidential confinements dealt with by one 
+functionary say the GCEO or the BADC or were they dealt with by 
+different bodies? 
+MR PETER STEPHEN VOLMINK :  It would depend on the value. 
+CHAIRPERSON:  Oh okay. 
+MR PETER STEPHEN VOLMINK :  So… 
+CHAIRPERSON:  So that principle still applied?  
+10 
+MR PETER STEPHEN VOLMINK :  That principle still applied. 
+CHAIRPERSON:  Okay. 
+MR PETER STEPHEN VOLMINK:  But it would not go through any of 
+the 
+CHAIRPERSON:  Ja. 
+MR PETER STEPHEN VOLMINK :  Reviewing bodies. 
+CHAIRPERSON:  Yes.  A confidential confinement in effect meant that 
+only one functionary person or body would decide it and there would be 
+no multiple stages of involvement by different peopl e? 
+MR PETER STEPHEN VOLMINK :  That is precisely the case. 
+20 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  So it would come from the author of 
+the document …  
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  And be received by the approving 
+10 MAY 2019 – DAY 92 
+ 
+Page 63 of 82 
+ 
+authority …. 
+CHAIRPERSON:  Authority. 
+MR PETER STEPHEN VOLMINK:  With no intervening …  
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  Levels of scrutiny. 
+CHAIRPERSON:  Ja, okay. 
+MR PETER STEPHEN VOLMINK:  Chair I then state that on paragraph 
+149 I make the point that all of thes e levels of review are bypassed and 
+then in paragraph 150 … 
+ADV PHILLIP MOKOENA SC:  On page 65. 
+10 
+MR PETER STEPHEN VOLMINK:  On page 65 …  
+ADV PHILLIP MOKOENA SC:  Yes. 
+MR PETER STEPHEN VOLMINK:  I say that: 
+“Secondly the confinement memos contain very 
+little 
+if 
+anything 
+that 
+explains 
+why 
+these 
+submissions were classified as confidential.”  
+I mean … 
+CHAIRPERSON:  The – you told me yesterday that the original source 
+of this concept of confidential confinement came from delegated 
+authority from the Board. 
+20 
+MR PETER STEPHEN VOLMINK:  It was in the DOA framework, yes. 
+CHAIRPERSON:  Yes.  That is where came … 
+MR PETER STEPHEN VOLMINK:  Ja. 
+CHAIRPERSON:  It came from originally and – you know – you had to 
+put into a policy …  
+10 MAY 2019 – DAY 92 
+ 
+Page 64 of 82 
+ 
+MR PETER STEPHEN VOLMINK:  (Intervenes). 
+CHAIRPERSON:  And so on.  I do not remember whether I asked this 
+question yesterday but was it provided in that original delegated 
+authority or was it – was there a provision that said under what 
+circumstances a contract or job could be classified or could q ualify as 
+confidential – confinement could be regarded as confidential?  You told 
+us yesterday and today the grounds in terms of policy - the grounds for 
+confinement.  You may confine a tender if one of the following grounds 
+exists. 
+MR PETER STEPHEN VOLMINK:  Ja. 
+10 
+CHAIRPERSON:  Whether – was there a similar thing that was put up 
+by the Board when they came up for the first time with this concept of 
+confine – confidential confinement?  
+MR PETER STEPHEN VOLMINK:  Chair there were no guidelines 
+contained in the DOA framework.  I think there was simply a line that 
+said when the – when it is confidential …  
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  It can be considered by the final 
+approval authority without directing it to the lower levels of authority.  
+So there was in essence to answer your question there were no 
+20 
+guidelines. 
+CHAIRPERSON:  No guidelines or grounds that were given.  
+MR PETER STEPHEN VOLMINK:  No, no. 
+CHAIRPERSON:  And who was given the authority to declare or decide 
+that a particular confinement would be a confidential one?  
+10 MAY 2019 – DAY 92 
+ 
+Page 65 of 82 
+ 
+MR PETER STEPHEN VOLMINK:  The origin – the originator …  
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  Of the document …  
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  Would for various reasons state why 
+he thinks it is confiden tial. 
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  It would be taken to the final 
+approval authority. 
+CHAIRPERSON:  Hm. 
+10 
+MR PETER STEPHEN VOLMINK:  Who then review it and if the 
+approval authority agrees that it was confidential it would be signed off.  
+CHAIRPERSON:  It is quite clear from what you – you explain that it 
+meant it was not to be dealt with by different bodies and Committees 
+and functionaries who otherwise would deal with it if it was not a – a 
+confidential confinement.  So – so in effect would it be correct that it 
+was therefore to be taken as confidential between the originator – the 
+author – and then the …  
+MR PETER STEPHEN VOLMINK:  And the (indistinct). 
+CHAIRPERSON:  Approving body? 
+20 
+MR PETER STEPHEN VOLMINK:  Exactly.  That is how it would be 
+understood. 
+CHAIRPERSON:  It is – it is quite a strange thing in a – in a State 
+Owned Entity.  Somebody says there are certain contracts which will be 
+regarded as confidential but we are not saying which ones – you know 
+10 MAY 2019 – DAY 92 
+ 
+Page 66 of 82 
+ 
+– what are the … 
+MR PETER STEPHEN VOLMINK:  (Indistinct). 
+CHAIRPERSON:  Criteria for confidentiality and if so and so classifies 
+it as confidential it can come to us and then it does not have to go 
+through other people and we will – we will then decide if we approve or 
+not … 
+MR PETER STEPHEN VOLMINK:  Ja. 
+CHAIRPERSON:  And then – and that could entail a lot of taxpayers 
+money. 
+MR PETER STEPHEN VOLMINK:  Well that is exactly the danger here 
+10 
+Chair that … 
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  As we have seen in some of these 
+instances that I am talking about …  
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  This concern is not an abstract …  
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  Academic concern.  It is rooted in the 
+real experiences of the organisation.  
+CHAIRPERSON:  Hm. 
+20 
+MR PETER STEPH EN VOLMINK:  Thankfully the concept of confidential 
+confinements …  
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  Has been removed …  
+CHAIRPERSON:  Hm. 
+10 MAY 2019 – DAY 92 
+ 
+Page 67 of 82 
+ 
+MR PETER STEPHEN VOLMINK:  By the current Board but it created 
+huge risk for the organisation at the time.  
+CHAIRPERSON:  Did you ever get to know who exactly came up with 
+this concept or is there something that you really do not know apart 
+from that it came from the Board?  
+MR PETER STEPHEN VOLMINK:  I honestly cannot – cannot say this 
+individual or that individ ual and (intervenes). 
+CHAIRPERSON:  Ja, okay but it came from the Board, ja. 
+MR PETER STEPHEN VOLMINK:  But we know that it came – it 
+originated from the delegation (intervenes).  
+10 
+CHAIRPERSON:  Originated from the Board, ja but other than - the 
+confinement is what was considered to be confidential but once the 
+tender had been awarded the tender itself was not confidential.  Is that 
+right? 
+MR PETER STEPHEN VOLMINK:  Yes and I think that in itself is an 
+oddity … 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  Because it is confidential up until the 
+confinement is approved …  
+CHAIRPERSON:  Yes. 
+20 
+MR PETER STEPHEN VOLMINK:  But then you must still issue the RFP 
+to that bidder. 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  It must still be received.  It must still 
+… 
+10 MAY 2019 – DAY 92 
+ 
+Page 68 of 82 
+ 
+CHAIRPERSON:  And at that stage it is not – it is not confidential. 
+MR PETER STEPHEN VOLMINK:  And that – that part is not - is not 
+confidential which is – which is a further …  
+CHAIRPERSON:  It is very strange. 
+MR PETER STEPHEN VOLMINK:  It is very strange.  It is very strange, 
+ja. 
+CHAIRPERSON:  So it – I wonder whether it was designed to avoid a 
+situation where lower management and other bodies would say no this 
+is not confidential and it would be difficult for the approving authority to 
+keep on overruling them because they may have wanted to – to treat 
+10 
+those as confidential but management saw nothing suggesting …  
+MR PETER STEPHEN VOLMINK:  Confidential about it. 
+CHAIRPERSON:  Ja. 
+MR PETER STEPHEN VOLMINK:  Well there is a provision that directs 
+the lower level bodies … 
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  As to what they must consider when 
+approving a confinement and it does say there must be a robust review 
+… 
+CHAIRPERSON:  Hm. 
+20 
+MR PETER STEPHEN VOLMINK:  Of the grounds of confinement and 
+the motivation for the confinement … 
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  Before it is taken to …  
+CHAIRPERSON:  Hm. 
+10 MAY 2019 – DAY 92 
+ 
+Page 69 of 82 
+ 
+MR PETER STEPHEN VOLMINK:  The final approval body. 
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  The intention Chair is that poorly 
+justified …  
+CHAIRPERSON:  Motivation. 
+MR PETER STEPHEN VOLMINK:  Or unjustified…  
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  Motivations either for confinement or 
+whatever the case maybe …  
+CHAIRPERSON:  Hm. 
+10 
+MR PETER STEPHEN VOLMINK:  Whatever the ground of confinement 
+may be… 
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  And if it is poorly motivated …  
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  It would be dealt with at that lower 
+level of review. 
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  So that we do not have to  burden the 
+final … 
+20 
+CHAIRPERSON:  Hm, body. 
+MR PETER STEPHEN VOLMINK:  Approval body …  
+CHAIRPERSON:  Ja. 
+MR PETER STEPHEN VOLMINK:  With a poorly motivated …  
+CHAIRPERSON:  Poorly motivated …  
+10 MAY 2019 – DAY 92 
+ 
+Page 70 of 82 
+ 
+MR PETER STEPHEN VOLMINK:  Submission. 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  That was the underlying rationale but 
+if you took those reviewing bodies out of the equation …  
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  Well then it just goes straight 
+through. 
+CHAIRPERSON:  So – so it was a way of ensuring that cer tain 
+confinement requests were no subjected to the normal scrutiny that the 
+policies and procedures of the company required requests for 
+10 
+confinements to be subjected to?  
+MR PETER STEPHEN VOLMINK:  Yes Chair. 
+CHAIRPERSON:  That is what it was about?  
+MR PETER STEPHEN VOLMINK:  That – that - it seemed to me that 
+was the underlying motivation. 
+CHAIRPERSON:  And it was not about keeping secret the amounts 
+relating to the tender because once the confinement had been approved 
+there was nothing secret about the ten der.  The tender would be dealt 
+with as a confined tender but nothing confidential at that stage.  
+MR PETER STEPHEN VOLMINK:  Covering the normal … 
+20 
+CHAIRPERSON:  Normal procedures? 
+MR PETER STEPHEN VOLMINK:  Yes, yes.  That is correct. 
+CHAIRPERSON:  So – so it seems that the idea was to ensure that 
+such requests for – certain requests for confinement of certain tenders 
+were taken out the normal scrutiny of mechanisms and bodies within 
+10 MAY 2019 – DAY 92 
+ 
+Page 71 of 82 
+ 
+the company? 
+MR PETER STEPHEN VOLMINK:  Correct. 
+CHAIRPERSON:  Okay. 
+MR PETER STEPHEN VOLMINK:  Correct. 
+CHAIRPERSON:  Thank you. 
+MR PETER STEPHEN VOLMINK:  And Chair the … 
+CHAIRPERSON:  Mr – Mr Mokoena. 
+ADV PHILLIP MOKOENA SC:  It is a strange concept Chair very 
+complicated and complex. 
+CHAIRPERSON:  Yes. 
+10 
+ADV PHILLIP MOKOENA SC:  Firstly a confinement in its own means 
+that it is not open …  
+CHAIRPERSON:  Hm. 
+ADV PHILLIP MOKOENA SC:  It is not an open competitive tender.  
+Secondly it is confidential. 
+CHAIRPERSON:  Ja, confidential. 
+MR PETER STEPHEN VOLMINK:  I – I – ja, so it is almost a – you 
+know- a deviation within a deviation. 
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  Confinement is a deviation. 
+20 
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  Why still have a … 
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  A confidential confinement and the 
+point that I was making is that apart from this anomaly of the principle 
+10 MAY 2019 – DAY 92 
+ 
+Page 72 of 82 
+ 
+if one looks at the substance of the motivations there is nothing that 
+strikes me as even remotely confidential about what is contained in 
+these memoranda.  For instance it talks – it says that there are 
+declining revenues and declining volumes and (indistinct) and a risk 
+and that McKinsey is ideally placed to help us to implement various 
+projects but why they could not have followed a normal confinement 
+process – I mean that – I think on any reasonable interpretation and 
+reading of these confinement memos it certainly does not appear that 
+there was anything not even an iota of information is contained that 
+would convince a reasonable reader that there was grounds for 
+10 
+confidential – confidentiality. 
+CHAIRPERSON:  They could have simply said certain contracts – 
+certain tenders that require confinement will not go through the normal 
+route before reaching the approving authority.  They will go from the 
+originator straight to th e – to the approving authority.  In effect they 
+could have said that.  Is it not because there was nothing – if there was 
+nothing confidential about these things then all – all they wanted to 
+achieve is simply that from the originator it should come straig ht to the 
+approving authority.  It should not be subjected to …  
+MR PETER STEPHEN VOLMINK:  Yes. 
+20 
+CHAIRPERSON:  Scrutiny by other people. 
+MR PETER STEPHEN VOLMINK:  Chair they could have said that but 
+the difficulty would have been that the same risk still e xists where it 
+goes from the originator to the final approver whether you call it 
+confidential or not without that critical middle layer of review.  
+10 MAY 2019 – DAY 92 
+ 
+Page 73 of 82 
+ 
+CHAIRPERSON:  No, no, I accept that.  We are on the same page.  I 
+am simply saying if one accepts that there  was – there was no basis for 
+classifying them as confidential …  
+MR PETER STEPHEN VOLMINK:  Ja. 
+CHAIRPERSON:  And that the whole point was that these – these 
+requests for confinement should not be subjected to normal scrutiny by 
+various bodies because they  wanted to only certain people or certain 
+bodies to approve them.  Then all they needed to do is to say certain 
+requests for confinement will come straight to us or to the GCEO or to 
+the B … 
+10 
+MR PETER STEPHEN VOLMINK:  BADC. 
+CHAIRPERSON:  BADC. 
+MR PETER STEPHEN VOLMINK:  DC. 
+CHAIRPERSON:  BADC.  Then we would have had the same thing.  
+MR PETER STEPHEN VOLMINK:  Ja. 
+CHAIRPERSON:  Namely there is no scrutiny …  
+MR PETER STEPHEN VOLMINK:  Ja. 
+CHAIRPERSON:  And they decide themselves. 
+MR PETER STEPHEN VOLMINK:  Yes. 
+CHAIRPERSON:  Ja. 
+20 
+ADV PHILLIP MOKOENA SC:  You conclude Mr Volmink on this concern 
+that you are raising how McKinsey was treated throughout.  You do so 
+in paragraphs 151 and 152. 
+MR PETER STEPHEN VOLMINK:  Yes Chair I – I then just conclude 
+that portion by saying that the added difficulty with using confidentiality 
+10 MAY 2019 – DAY 92 
+ 
+Page 74 of 82 
+ 
+is that it was sometimes quoted as a ground for confinement itself 
+whereas our rules on confinement only recognise four grounds – 
+urgency, sole supplier, standardisation and what I refer to ea rlier as the 
+school fees clause where there is highly specialised things and – those 
+are the four grounds of confinement.  Confidentiality can be cited as a 
+reason not to take it through the reviewing process but we see that 
+sometimes confidentiality is even quoted as a further ground for 
+confinement which I – I think was incorrect.  Chair I am …  
+CHAIRPERSON:  I am sorry.  You said that you had to incorporate his 
+new procedure or requirement of confidentiality into the policy?  
+10 
+MR PETER STEPHEN VOLMINK:  Yes. 
+CHAIRPERSON:  After the Board had put it into a delegated – 
+delegation.  When you put it into your policy documents what did you 
+put as the grounds on which it could be initiated.  In other words what 
+did – what do you do?  Did you put in some grounds or  did you just do 
+what the Board had done. 
+MR PETER STEPHEN VOLMINK:  Well Chair we had some debates 
+about - about that and if memory serves me correctly the debate was 
+resolved that on the basis that the grounds as stated in the delegation 
+of authority would be incorporated into the policy.  There was some 
+20 
+concern – if memory services me correctly – about over regulating or 
+over prescribing what may be considered as confidential grounds or no 
+confidential grounds.  So it was – it was left somewhat open even in the 
+past. 
+CHAIRPERSON:  But you said in the delegated authority there were no 
+10 MAY 2019 – DAY 92 
+ 
+Page 75 of 82 
+ 
+grounds. 
+MR PETER STEPHEN VOLMINK:  Yes.  So the only ground…  
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  Is confidential – is that if it is 
+confidential …  
+CHAIRPERSON:  Ja.  No there cannot be a ground. 
+MR PETER STEPHEN VOLMINK:  Ja.  So … 
+CHAIRPERSON:  Ja. 
+MR PETER STEPHEN VOLMINK:  So the ground … 
+CHAIRPERSON:  Ja. 
+10 
+MR PETER STEPHEN VOLMINK:  For bypassing all of these delegated 
+bodies … 
+CHAIRPERSON:  Ja. 
+MR PETER STEPHEN VOLMINK:  Would be if some – if it is classified 
+as a confidential … 
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  Confinement. 
+CHAIRPERSON:  Ja.  So you just took what was (intervenes) authority?  
+MR PETER STEPHEN VOLMINK:  I think in essence it was – it was … 
+CHAIRPERSON:  Ja. 
+20 
+MR PETER STEPHEN VOLMINK:  Completed as such. 
+CHAIRPERSON:  Okay. 
+ADV PHILLIP MOKOENA SC:  And paragraph 152? 
+MR PETER STEPHEN VOLMINK:  I think it is – I (intervenes). 
+ADV PHILLIP MOKOENA SC:  (Intervenes). 
+10 MAY 2019 – DAY 92 
+ 
+Page 76 of 82 
+ 
+MR PETER STEPHEN VOLMINK:  The same point in 152. 
+ADV PHILLIP MOKOENA SC:  You are dealing with a further concern 
+which is the gap analysis.  Can you explain it to the Chair and take us 
+through what you sought to convey in relation to that concern?  
+MR PETER STEPHEN VOLMINK:  Chair I point out in paragraph 153 
+and following under the heading “gap analysis” – I say that a National 
+Treasury issued an instruction which would have been applicable to 
+some of these McKinsey contracts and the instruction I have annexed 
+as Annexure PV48 which you will find on page 1389 and what this 
+instruction says Chair is that a consultant may only be appointed after 
+10 
+a proper business case has been done and a – what is referred to as a 
+gap analysis – has been done to confirm that Transnet does not have 
+the requisite skills or the resources in place to perform this work.  In 
+other words it must be confirmed that in the – there is no one among 
+the 50 000 employees who work for Transnet that there is expertise of 
+this nature and that – and there needs to be a proper motivation for 
+that.  There is a passing reference to that in some of the McKinsey 
+confinements but no proper gap analysis was done to show – and that 
+is a mandatory requirement.  It is not nice to have.  It says that the 
+organ of State must conduct such a gap analysis before it can proceed 
+20 
+to appoint a consultant and I could not find evidence of such gap 
+analysis. 
+ADV PHILLIP MOKOENA SC:  Yes and you conclude your statement 
+with the last concern that is the remuneration model.  
+MR PETER STEPHEN VOLMINK:  That is correct Chair.  The last 
+10 MAY 2019 – DAY 92 
+ 
+Page 77 of 82 
+ 
+aspect which I deal with in my statement relates to the remuneration 
+model that McKinsey sought to implement and the McKinsey contracts 
+made provision for two kinds of fees Chair.  The first is the so called 
+fixed fee component.  So they would say to do preparatory work or to 
+do whatever there is - our fixed fee is that and then they would have 
+what is referred to as a contingent fee component.  This was usually 
+related to McKinsey sharing a percentage of any increase in  revenue 
+which would come about as a result of their efforts.  So if I take – let us 
+say – the coal or the manganese contract if it could be established that 
+as a result of their interventions that revenue had increased by a 
+10 
+certain amount there would be a predetermined percentage that would 
+be allocated to them over and above the fixed fee that they had signed 
+up for. 
+CHAIRPERSON:  So it was like a performance bonus?  If they – if they 
+had done such a good job that there was an increase in revenue then 
+they would get extra …  
+MR PETER STEPHEN VOLMINK:  Extra. 
+CHAIRPERSON:  Extra payment? 
+MR PETER STEPHEN VOLMINK:  Ja.  I suppose one could regard it as 
+a performance bonus of – of sorts. 
+20 
+CHAIRPERSON:  Okay. 
+ADV PHILLIP MOKOENA SC:  And they were paid those con tingency 
+fees? 
+MR PETER STEPHEN VOLMINK:  Yes.  Now – now on the face of it 
+Chair I was concerned that this contingent fee arrangement was not 
+10 MAY 2019 – DAY 92 
+ 
+Page 78 of 82 
+ 
+aligned to National Treasury’s instruction on cost containment which in 
+fact there is an instruction that directs  that fees for consultants will be 
+subject to certain prescripts.  You cannot – a consultant cannot charge 
+you whatever and I think I may even have attached a copy of that - of 
+that instruction. 
+ADV PHILLIP MOKOENA SC:  It is page 1398 Chair.  Would that b e the 
+one Mr Volmink? 
+MR PETER STEPHEN VOLMINK:  1398 if you just bear with me.  I think 
+it is a little bit earlier.  Chair if you turn to page 1389 you will find a 
+copy of the cost containment instruction …  
+10 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  And if you turn the page to page 
+1390 … 
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  And if you look at paragraph 4.2. 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  It states the following: 
+“Consultants may only be remunerated at the rates 
+…” 
+And then it lists three categories. 
+20 
+“A, determined in the guideline for fees issued by 
+SICA.” 
+Which is a South African Institute of Chartered Accountants.  
+“B, set out in the guide on hourly fee rates for 
+consultants by the Department of Public Services 
+10 MAY 2019 – DAY 92 
+ 
+Page 79 of 82 
+ 
+and Administration…” 
+These are called DPSA rates. 
+“…or 
+prescribed 
+by 
+the 
+body 
+regulating 
+the 
+profession of the consultant.”  
+So these are regulated rates and a concern which we had at the time is 
+that the – the contingent fee model did not align well with what seemed 
+to be regulated rates. 
+CHAIRPERSON:  Hm. 
+MR PETER STEPHEN VOLMINK:  Chair the difficulty then – well let me 
+say that we then engaged with National Treasury on whether the use of 
+10 
+contingency fees could be a basis for remunerating consultants and the 
+Accountant 
+General 
+responded 
+in 
+a 
+letter 
+to 
+Transnet 
+dated 
+25 June 2014 and perhaps I should turn to it Chair.  It is Annexure 
+PV49 which is the last annexure in the – in my bundle and …  
+ADV PHILLIP MOKOENA SC:  Page 1398? 
+MR PETER STEPHEN VOLMINK:  1398. 
+CHAIRPERSON:  Yes. 
+MR PETER STEPHEN VOLMINK:  And he responds to various questions 
+that we had posed to him and under the – in paragraph 7 under the 
+heading “Use of Consultants” the Accountant General quotes that 
+20 
+paragraph 4.2 of the instruction which I have just read w hich says what 
+the prescriptions are for remuneration and then Chair he says the – he 
+said the following.  
+“The above mentioned documents merely provide 
+the tariffs that PFMA compliant institutions may pay 
+10 MAY 2019 – DAY 92 
+ 
+Page 80 of 82 
+ 
+consultants and these tariffs are not related to 
+additional revenue or earnings – if any – that 
+entities 
+may 
+realise 
+or 
+benefit 
+from 
+their 
+appointment.” 
+And it seemed to open the door to the possibility of a contingency fee 
+arrangement and I think on – on the basis of this letter Transnet 
+proceeded to implement the contingency fee arrangement.  
+ADV PHILLIP MOKOENA SC:  Yes.  Now finally Mr  Volmink you have 
+dealt with a number of transactions.  The Neotel Network Services, 
+confinement of the CCTV, the award of the IT Data Service Contract to 
+10 
+T-Systems, the 100 locomotives transaction to China South Rail and the 
+McKinsey consulting the confinement that you have taken us so 
+eloquently through.  What do you make about these contracts?  What 
+do you make about the conduct giving rise to the issues that you have 
+raised to – before the Chairperson?  Could you ascribe this as sheer 
+incompetence or lack of understanding of the applicable prescripts?  
+MR PETER STEPHEN VOLMINK:  Chair I have sought to give a candid 
+view on the compliance with prescripts that – that was followed and if 
+the – if the rule that was no followed if it was an obscure highly 
+complicated difficult to understand provision then I – I would be more 
+20 
+inclined to think that there could be just innocent bungling but Chair if 
+we look at the rules around how confinements are supposed to be done 
+the principle that you cannot pay someone before you award a tender to 
+them - all the other breaches that I have dealt with over the last two 
+days Chair it is not deeply complex principles that were no followed and 
+10 MAY 2019 – DAY 92 
+ 
+Page 81 of 82 
+ 
+it – it suggests in my view an – an element of either gross negligence 
+or wilfulness in – in not following the transactions.  
+ADV PHILLIP MOKOENA SC:  Chair that is – that concludes the 
+questions for Mr Volmink. 
+CHAIRPERSON:   No, thank you.  Thank you very m uch Mr Volmink for 
+coming forward to clarify the experiences that you found at Transnet 
+with regard to these particular transactions and your understanding of 
+the procurement prescripts applicable to Transnet during the times of 
+these transactions and if a  need arises you will be asked to come back, 
+thank you very much you are release.  
+10 
+MR PETER STEPHEN VOLMINK :   Thank you Chair. 
+CHAIRPERSON:    Thank you. 
+ADV PHILLIP MOKOENA SC:    Thank you Chair, Mr Pretorius will 
+address you. 
+ADV PAUL JOSEPH PRETORIUS SC:   Chair the next witness for 
+Transnet is Mr Mohomedy he won’t give evidence today because we are 
+adjourning early today. 
+CHAIRPERSON:    Ja. 
+ADV PAUL JOSEPH PRETORIUS SC:   And I understand that Monday as 
+well as Tuesday the Chair and others are otherwi se engaged and that 
+20 
+unless you decide otherwise Chair we will begin on Wednesday once more 
+at 10am with Mr Mohammed, his evidence for Transnet.  
+CHAIRPERSON:    Yes we will not sit on Monday and Tuesday we will 
+resume on Wednesday.  I was thinking that we should try, next week to 
+start earlier than normal to try and – if we can recoup some of the time 
+10 MAY 2019 – DAY 92 
+ 
+Page 82 of 82 
+ 
+that we will have lost.  We might not be able to recoup all of it, do you – 
+are you able to indicate whether there will be any difficulties from the 
+legal team if we start early on Wednesday? 
+ADV PAUL JOSEPH PRETORIUS SC:   Well there’s two issues the 
+availability of the witness and the evidence leader that can always be 
+arranged. 
+CHAIRPERSON:    Yes. 
+ADV PAUL JOSEPH PRETORIUS SC:   The other, however, is that the 
+legal team are involved in other tasks so it reduces that time but if the 
+programme permits, then certainly our preference would be for the normal 
+10 
+hours but if your concern is to make up time, then we shall just have to 
+start at 9. 
+CHAIRPERSON:    Do we have an idea how long the next witness is likely 
+to be on next week? 
+ADV PAUL JOSEPH PRETORIUS SC:   Two days and I’m informed by Mr 
+Mokoena that if we start at 10 on Wednesday and Thursday we will finish 
+Mr Mohomady in two days. 
+CHAIRPERSON:    In two days, okay maybe let’s start at 10 o’clock on 
+Wednesday if we need to change we’ll announce.  So on Wednesday we’ll 
+start at 10. 
+20 
+ADV PAUL JOSEPH PRETORIUS SC:   Thank you Chair. 
+CHAIRPERSON:    Yes, we’ll then adjourn for today, we adjourn. 
+INQUIRY ADJOURNS TO 15 MAY 2019 

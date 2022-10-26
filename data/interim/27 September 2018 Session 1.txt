@@ -1,0 +1,3588 @@
+ 
+ 
+ 
+ 
+COMMISSION OF INQUIRY INTO STATE CAPTURE 
+HELD AT 
+PARKTOWN, JOHANNESBURG 
+ 
+ 
+ 
+ 
+27 SEPTEMBER 2018 
+ 
+ 
+ 
+DAY 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DAY 16,  27 SEPTEMBER  2018 
+ 
+ADDRESS 
+ 
+Page 1 of 101 
+ 
+PROCEEDINGS HELD ON 27 SEPTEMBER 2018  
+CHAIRPERSON:  Good morning Mr Pretorius and good morning to everybody; 
+ADV PAUL PRETORIUS SC:  Morning DCJ.. 
+CHAIRPERSON:   I get the impression that things are not ready, Are they ready?  
+ADV PAUL PRETORIUS SC:  We are ready DCJ to proceed. 
+CHAIRPERSON:   Okay. All right. Thank you.     
+ADV PAUL PRETORIUS SC:   Firstly, things will happen today and if necessary 
+tomorrow. .The first is that I will make the application that is before you and describe 
+the contents of the application to you and motivate the application to you Chair. Then 
+Mr Brian Currin will give evidence in relation to the application and  the third thing that 
+10 
+will  happen is that Ms Kate Hofmeyr will present argument in relation to the legal 
+aspects and some factual aspects of the application. So, it is those three things that will 
+happen today and if  necessary tomorrow. 
+CHAIRPERSON:   Thank you  That is in order. 
+ADV PAUL PRETORIUS SC:   Chair the Notice of Motion and Affidavit forming the 
+application is before you  may it  be  marked J1?  
+CHAIRPERSON:   Do we need to mark it? It is not an exhibit, is it? 
+ADV PAUL PRETORIUS SC:  Well it will be a sequence of other applications that have 
+been made before you and in relation to the full record of all the proceedings that are 
+before you it may be easier to catalogue as if it is given an exhibit number.  It is not an 
+20 
+exhibit - that  is understandable but… [intervenes] 
+CHAIRPERSON:   Should we not - Should we the arrangement not be that there will be 
+a lever arch file or a set of lever arch files which will contain all applications that are 
+dealt with. So now they are separate from exhibits and so on. Would that not – that will 
+DAY 16,  27 SEPTEMBER  2018 
+ 
+ADDRESS 
+ 
+Page 2 of 101 
+ 
+not confuse me in terms of then I know which ones, which documents are exhibits, 
+which ones are not exhibits but have come before the commission. 
+ADV PAUL PRETORIUS SC:  Well just subject to two qualifications, Chair that the 
+Nombembe Affidavit is in fact evidence and the second qualification is there have been 
+a number of applications in relation to cross-examination, applications for cross-
+examination and rulings that will also go in the comprehensive record that have been 
+given exhibit numbers.  So… 
+CHAIRPERSON:   So we might not have …[intervenes] 
+ADV PAUL PRETORIUS SC:   Perhaps we could do both as a compromise Chair. We 
+will give it an exhibits number so that in the comprehensive record of proceedings it is 
+10 
+in sequence and also a separate application file where it will appear separately. 
+CHAIRPERSON:   Of course if it was just Mr Nombembe’s Affidavit it would be easy to 
+then make it an exhibit number. 
+ADV PAUL PRETORIUS SC:   Well that is also possible to  give the affidavit the… 
+[intervenes] 
+CHAIRPERSON:   The exhibit… 
+ADV PAUL PRETORIUS SC:  K1. 
+CHAIRPERSON:   Ja. Okay, I think the… let us mark Mr Nombembe’s Affidavit as 
+EXHIBIT J1. 
+ADV PAUL PRETORIUS SC:  That will be done. 
+20 
+CHAIRPERSON:   Ja. 
+ADV PAUL PRETORIUS SC:   Check. 
+CHAIRPERSON:    And I do not know whether we mark anything on the Notice of 
+Motion. It is a little confusing. 
+ADV PAUL PRETORIUS SC:   Chair… 
+DAY 16,  27 SEPTEMBER  2018 
+ 
+ADDRESS 
+ 
+Page 3 of 101 
+ 
+CHAIRPERSON:    Notice of Motion to EXHIBIT J1. 
+ADV PAUL PRETORIUS SC:   Well the alternatives are not to mark the Notice of 
+Motion. 
+CHAIRPERSON:    Yes. 
+ADV PAUL PRETORIUS SC:  And the Affidavit at all. 
+CHAIRPERSON:   Yes. 
+ADV PAUL PRETORIUS SC:  The second alternative is to mark the whole 
+application J1. 
+CHAIRPERSON:   Ja. 
+ADV PAUL PRETORIUS SC:  In the numbering sequence that it already has. 
+10 
+CHAIRPERSON:   Ja. 
+ADV PAUL PRETORIUS SC:  And the third is to split them, but perhaps Chair, may I 
+suggest that we mark the Application J1, because it has a sequence number from the 
+Notice of Motion and we will create a separate Application file. 
+CHAIRPERSON:   Or maybe we mark the Notice of Motion J1, without saying exhibit 
+and then on Mr Nombembe’s Affidavit EXHIBIT J1. 
+ADV PAUL PRETORIUS SC:   Sure. 
+CHAIRPERSON:   Will that or will that be confusing? 
+ADV PAUL PRETORIUS SC:  That is appropriate. 
+CHAIRPERSON:   Then nobody, nobody thinks we do not know what exhibits are. 
+20 
+Okay. So the Notice of Motion is marked J1 and then Mr Nombembe’s Affidavit is 
+marked EXHIBIT J1. Thank you. 
+ADV PAUL PRETORIUS SC:   Thank you Chair. 
+CHAIRPERSON:   Actually should we keep to relieve the Notice of Motion as just J1 or 
+Annexure J1? 
+DAY 16,  27 SEPTEMBER  2018 
+ 
+ADDRESS 
+ 
+Page 4 of 101 
+ 
+ADV PAUL PRETORIUS SC:  J1. 
+CHAIRPERSON:   J1. Okay. Thank you.   
+ADV PAUL PRETORIUS SC:  Chair this is an Application for the Admission of Certain 
+Electronic Evidence, it is computer generated data.  The Notice of Motion, before you, 
+that is page 1 of J1, refers to an Application to Admit Data and that data exists on three 
+hard drives and we will explain to you in due course how that works and where those 
+forensic images HDDH, HDDH1 and HDDH2 come from.  The application is made by 
+Mr Terence Nombembe who acts on behalf of the Commission as the Lead Investigator. 
+You will recall Chair that on 28 May 2017 the Sunday Times first published selections of 
+what became known as the Gupta Leaks or the Gupta Emails.  In due course 
+10 
+journalists employed by amaBhungane, amongst others, caused to be published 
+excerpts and analysis of this data over a period of time. All this data, Chair was 
+originally contained in a component of a computer, a hard drive. The Commission now 
+has that hard drive in safe keeping – that is what will be referred to as the  Original hard 
+drive. How the Commission came to be in possession of that hard drive will be 
+described to you in due course, either on the affidavit of Mr Nombembe or in the 
+affidavit of Mr Currin who is due to testify,   
+The Commission also has a forensic image of that hard drive made an expert in Europe 
+and his affidavit is available, but it will be handed  up to you in camera by your leave, 
+because that person does not wish his identity to be known for reasons which can be 
+20 
+explained in camera. Almost all of the data on the Original hard drive that is the hard 
+drive that is now in safekeeping under the control of the Commission has been 
+recovered and transferred onto the first forensic image HDDH and I will deal with that 
+process in detail in due course. 
+DAY 16,  27 SEPTEMBER  2018 
+ 
+ADDRESS 
+ 
+Page 5 of 101 
+ 
+There are two further hard drives replicating that first hard forensic image that have 
+now been made. All three of these hard drives are in possession of the Commission, as 
+we speak. One is in safekeeping and two, if the application is successful, will be 
+analysed and investigated by the investigators of the Commission.  
+The Original hard drive, Chair has been damaged and cannot therefore be used by the 
+investigators of the Commission. The danger is that as soon as a non-expert deals with, 
+in any manner, this hard drive there is a risk of permanent and irretrievable damage. 
+The Original hard drive therefore can only be dealt with by experts as indeed occurred 
+in Europe recently where the complete forensic image was made.  
+That is why this application, Chair seeks to admit as evidence the data on the three 
+10 
+hard drives. Those are the three forensic images of the Original hard drive. These hard 
+drives contain electronic data or evidence which we will describe in more detail in due 
+course which is relevant to the work of this Commission. 
+Finally, by way of introduction, Chair this application is brought is  ex parte. However 
+notice will be given to the presumed original owner of the Original hard drive that is  
+Sahara Computers (Pty) Ltd to show cause at a later date, if  it is  so …[indistinct] as 
+why its data should not be used by the Commission. Again I will deal with that aspect in 
+more detail in due course. 
+It is necessary first however to deal with the legal aspect by way of introduction and 
+support of the application relevant to how this Commission – it will be submitted by 
+20 
+myself and in more detail by Adv Hofmeyr evidence of the nature that we have placed 
+before you at present.  
+The first point that we make is that this is not a trial. It is not a trial where personal 
+rights or liberty maybe directly determined. The findings and recommendations of this 
+Commission may  in due course of course lead to criminal prosecution or civil 
+DAY 16,  27 SEPTEMBER  2018 
+ 
+ADDRESS 
+ 
+Page 6 of 101 
+ 
+proceedings. If evidence is to be lead in those proceedings then that evidence will be 
+subject to the rules of evidence governing those particular proceedings, either criminal 
+or civil. Accordingly any rights or interests of persons that may be implicated by this 
+data are preserved. That is the first point. 
+The second point is that it is trite to say, but it is not always fully understood that this is 
+an investigation or inquiry  and on this basis or submission is that the Commission is 
+entitled and in fact it is obliged to  examine all available information and evidence and 
+to evaluate that in order to make its findings in doing so it is not bound by the rules of 
+evidence. That this is so is accordance with International Law, International President, 
+Practice  and is the same in South Africa. It is also consistent with the instruments 
+10 
+governing the Commission which expressly empower this Commission to control its 
+own procedures and finally Rule 6.1 is clear… [intervenes] 
+CHAIRPERSON:   I am sorry Mr Pretorius. Is it accurate to say is not bound by the 
+Rules of Evidence or is it more accurate to say it is the application of rules of evidence 
+is 
+relaxed or is the outcome of those two questions the same?  
+ADV PAUL PRETORIUS SC:   Well… 
+CHAIRPERSON:   Is it correct to say the Rules of Evidence it is not bound by the Rules 
+of Evidence at all or is it moer accurate to say the application of  rules, of the Rules of 
+Evidence is relaxed or do you think that the answer to te same – to the two question is 
+20 
+the same, whichever  way you approach. I am not sure on the face of it it does appear 
+to be… [intervenes] 
+ADV PAUL PRETORIUS SC:   If you   
+CHAIRPERSON:   Maybe a difference between the two. 
+DAY 16,  27 SEPTEMBER  2018 
+ 
+ADDRESS 
+ 
+Page 7 of 101 
+ 
+ADV PAUL PRETORIUS SC:  Yes, I agree with that observation Chair, because if you 
+are not  - if you are permitted to relax the Rules of  Evidence it follows logically that you 
+are not bound by them. It may be that… [intervenes] 
+CHAIRPERSON:   Well the difference between the two is, I think  if you say not bound 
+by the Rules of Evidence it means you are just at large to do as you please, it seems to 
+me. Whereas if you say the application of those rules is relaxed it means you do not 
+apply them as strictly as they would be applied in a court of law. So, there is some room 
+to admit evidence that otherwise would not be admissible in a court of law. 
+ADV PAUL PRETORIUS SC:   Yes. 
+CHAIRPERSON:   But you are completely at large to admit what you want and not 
+10 
+admit what  you  do not want. 
+ADV PAUL PRETORIUS SC:  Chair this has the danger of becoming a semantic 
+argument perhaps from a practical point of view the strict Rules of Evidence are not in 
+themselves binding to their fullest extent on this Commission. But in receiving evidence 
+and evaluating evidence the Chair will obviously be guided by principles and rules 
+normally applicable  when evidence is dealt with… 
+CHAIRPERSON:   Thank you. 
+ADV PAUL PRETORIUS SC:  And that question is actually relevant because it is one 
+thing to admit the data on the hard drives for investigation and  analysis and ultimate 
+presentation to this Commission it is another thing to analyse particular, for example 
+20 
+email that  emerges and at that stage one may obviously take a more particular 
+approach as to the general approach which you are asked to do now. 
+CHAIRPERSON:    Thank you. 
+ADV PAUL PRETORIUS SC:  And so perhaps the wording in the ruled compose by the 
+Commission, Rule 6.1 is apposite. That rule reads:   
+DAY 16,  27 SEPTEMBER  2018 
+ 
+ADDRESS 
+ 
+Page 8 of 101 
+ 
+“The Commission may receive any evidence that is 
+relevant to its  mandate including evidence that might 
+otherwise be inadmissible in a court of law. The Rules of 
+Evidence applicable in a court law need not be strictly 
+applied to the determination of the admissibility of 
+evidence before the Commission.”  
+and perhaps the formulation in the second sentence there answers the question 
+CHAIRPERSON:   Yes. Thank you. 
+ADV PAUL PRETORIUS SC:   Of course as stated in this discussion, Chair, there are 
+other stages of the Commission’s proceedings where the interest of persons implicated 
+10 
+by relevant information or evidence may be safeguarded. So for example, when a 
+particular email is presented before  you. If a person is implicated by the contents of the 
+email then it follows that that person may be able to counter it, may confirm its 
+existence, may deny its existence and then that evidence and counter evidence will be 
+weighed up by yourself and a finding be made and then any interest that Sahara 
+Computers may have in the preservation of the confidentiality of the information or 
+evidence – which interest we do not concede Chair is also protected by the procedure 
+adopted in this application. So that in accordance with the Notice of Motion on a return 
+date to be determined by  yourself, Chair Sahara Computers may deal with the 
+admission of the evidence in whatever way it chooses, but of course it perhaps note – 
+20 
+notable to say at this stage that Sahara Computers will face a dilemma. It may persist 
+in what appears to be an allegation already published in the media that the emails are 
+contrived and fake. If it does so of course then it logically cannot claim any right to the 
+information, because it will not be its information on that version. On the other hand if it 
+contests the admission or use of the evidence on grounds of the right to confidentiality 
+DAY 16,  27 SEPTEMBER  2018 
+ 
+ADDRESS 
+ 
+Page 9 of 101 
+ 
+it must logically admit the authenticity of that evidence and information. So, perhaps we 
+should wait and see what approach Sahara Computers and it officials choose to take in 
+due course. But the essential point we make is this, Chair, that in any investigation 
+properly conducted all relevant material should be placed before the Commission.. It 
+can then be analysed it can be evaluated, both on its own and in the light of other 
+evidence that may be presented. A decision may then be made in regard to the weight if 
+any to be accorded to that evidence. The danger is that if the Commission does not 
+adopt this approach it runs the risk of hampering its own investigation or inquiry unduly 
+and in our submission the inquiry  will not adopt that approach, simply it must meet its 
+mandate to the fullest extent. 
+10 
+One may then ask, Chair why this application is brought at all.  The legal ream 
+maintains and we do not wish to detract from the point that the data on the forensic 
+images could without more and on general principles available to Commission of 
+Inquiry be entered into evidence without more investigated, analysed, evaluated and 
+reported upon. But the reason for the cautious approach – approach that we adopt are 
+several, Chair.  
+The first is that the approach contemplated by the evidence leaders and in the affidavit 
+of Mr Nombembe will allow this Commission to place greater weight on the evidence 
+referred to in this application. So, to the extent that one goes beyond the basic 
+requirements to that extent greater weight it may be submitted in due course, maybe 
+20 
+placed on the evidence. 
+Secondly and very importantly, Chair the steps taken by the Commission that is both 
+the evidence leaders and the investigators as reflected in this application will assist in 
+preserving the integrity of the evidence for further use  in resultant criminal or civil 
+proceedings.  This Commission is now in  a position to take steps because of the 
+DAY 16,  27 SEPTEMBER  2018 
+ 
+ADDRESS 
+ 
+Page 10 of 101 
+ 
+position that it has been placed in by being given the Original hard drive to ensure that 
+the manner in which it is dealt both in this forum and later forums will enable later  
+criminal prosecutions – should that be the outcome at all or later civil proceedings. 
+Thirdly in our submission the evidence that is before you is in all the circumstances the 
+best evidence. The Original hard drive cannot be used in evidence because it may be 
+destroyed. That original evidence is in the hands of the Commissions. The copies we 
+know from Internationally recognised experts and you will have that evidence on 
+affidavit, Chair are exact replicas of that original. So what we ask to admit is we will 
+submit both authentic, in the sense that it is a copy, genuine copy of the best evidence 
+available, but reliable as well.  
+10 
+Further Chair this is not the only time, with respect that you will be approached in 
+relation to this evidence. There is, as you are aware, a chain of evidence simply put 
+that is the pass that the hard drive followed from the original place where it emanated 
+from right through to the safekeeping where it now resides in the hands of the 
+Commission. Some of that chain of evidence is dealt with in the present application, in 
+the evidence of Mr Nombembe. Some of that chain of evidence will be dealt with in the 
+oral evidence of Mr Currin, but there is some evidence, important evidence, that lies 
+within the knowledge of two whistle blowers. Their identity is being protected in this 
+application and we have taken extreme steps to ensure that their identity is not 
+revealed even indirectly, in this application. However they are unwilling to testify at this 
+20 
+stage – we understand at least to an extent for reasons of personal safety.  They have 
+however indicated a willingness to testify in or around July next year 2019. The 
+relevance of that particular date I am afraid we cannot place before you, partly because 
+we are not fully aware of that but in due course it will be placed before you Chair and 
+dealt with accordingly. But we stress once again and this will be stressed in argument 
+DAY 16,  27 SEPTEMBER  2018 
+ 
+ADDRESS 
+ 
+Page 11 of 101 
+ 
+that the full chain of evidence maybe relevant for criminal proceedings, may to an 
+extent be relevant for civil proceedings, but is not an essential component of this 
+application before you and an essential requirement of the relief that we seek. 
+So, in summary  Chair the purpose of the evidence to be lead in future will be two fold. 
+Firstly to lend further weight to  the evidence now to be admitted, to enhance its 
+authenticity and reliability to a greater extent than can be done now and 
+Secondly to lend the systems to the preservation of evidence in any future civil law 
+criminal proceedings.  
+So once I have taken you, Chair through the affidavit and application and once Mr 
+Currin has completed his evidence the legal aspects of this application will be tied up 
+10 
+by Ms Hofmeyr. 
+CHAIRPERSON:   Yes. 
+ADV PAUL PRETORIUS SC:  If I may then go to the facts, Chair and I will refer in due 
+course to the contents of the affidavit. If I may refer to the Notice of Motion. The Notice 
+of Motion seeks to admit data – that is information contained on a device which we 
+have referred to here as a hard drive.  HDDH is the first forensic copy made by the 
+expert of the Original hard drive. There are two further copies HDDH1 and HDDH2 and 
+I must stop myself in my discussions with the experts who advised Mr Nombembe I was 
+told in very firm terms I am not allowed to use the word “copy” it is a technical term with 
+a technical meaning. So, I will be scolded by them now but if I may use the forensic 
+20 
+image, in other words a copy made on specialist machinery according to specialised 
+process that is a forensically valid authentic image of the original. So there are two 
+further forensic images those are HDDH1 and HDDH2. What the Commission has 
+elected to do is to keep the first forensic image HDDH in safekeeping. HDDH1 and 
+HDDH2 will, if this application is successful be investigated and analysed in other 
+DAY 16,  27 SEPTEMBER  2018 
+ 
+ADDRESS 
+ 
+Page 12 of 101 
+ 
+worked on. But in this manner the original evidence will be preserved the original data 
+will be preserved both on the original and on the first forensic image. Then in paragraph 
+3 of the Notice of Motion we asked that the rulings that you make operate on an interim 
+basis pending the return day on which Sahara Computers may wish to place their views 
+before you, Chair. 
+The first part of the Affidavit introduces the factual history of the matter, Chair. There is 
+the original hard drive which appears to come and on our submissions does come from 
+Sahara Computers. This original hard drive is referred to, in the Founding Affidavit, as 
+HDDA the forensic image of that original hard drive  I have dealt with.  It is not a copy it 
+is a forensic image a copy is something else and I will explain that in due course. The 
+10 
+two further forensic images I have dealt with they are referred to in the Notice of 
+Motion. 
+There  are sadly some technical terms that we have to deal with in order for the import 
+of 
+the application and its content to be fully understood and if I may take you to page 6 of 
+the Founding Affidavit. Chair I might say that in consulting with the experts who 
+instructed the deponent to the affidavit Mr Nombembe I attempted to take detailed 
+notes so that I could be in a position to explain the technicalities to you chair. I 
+eventually discarded those entirely and made up my own, but I trust that they are 
+accurate and more understandable   
+20 
+The first technical term,  because you will hear of this in due course is the “clone” – the 
+clone of the hard disc drive.  That is a replica of the data on the original hard disc drive, 
+but we call it a “clone” because it is not a forensic image, a forensic image is something 
+more. A forensic image is an exact replica of the data on the original  hard drive, made 
+by means of a forensic imaging process. That is a highly and specialised and extremely 
+DAY 16,  27 SEPTEMBER  2018 
+ 
+ADDRESS 
+ 
+Page 13 of 101 
+ 
+reliable forensic imaging process and it uses recognised and specialised forensic 
+software. So not only is the method forensically defensible but also the equipment is 
+forensically  defensible and it can be examined at a later stage. So, the forensic 
+imaging process is a process that is recorded on the software and is capable of being 
+checked and examined and then there is a further term that we will come across in the 
+affidavit it is called  “checksum” and I am afraid here we will have to trust the experts 
+here. The checksum is a method used by specialists and expert to assess the 
+authenticity of a data set, in other words a collection of information which in 
+electronically recorded.  
+So, in relation to the  chain of custody as it exist, at present, that is dealt with in 
+10 
+paragraphs 23 and following of the Founding Affidavit.  The data on the original hard 
+drive has been copied. What that means is that files on the original have just been 
+transferred, on a computer, to another device.  They have been cloned, in other words 
+their whole content has been imaged and recorded on another device and forensically 
+imaged numerous times the forensic imaging being the more specialised and reliable 
+procedure.  The only copies – up again I catch myself Chair. The only forensic images 
+that are relevant for the purposes of this application are the first one made in  Europe 
+by the technical expert and the two later ones made in South Africa of that copy. So, 
+there are three and those are the ones referred to in the Notice of Motion and they are 
+forensic images.   
+20 
+The international expert has deposed …[intervenes] 
+CHAIRPERSON:  I am sorry I thought there were two HDDH1 and HDDH2 …. 
+ADV PAUL PRETORIUS SC:  I am going back to the Notice of Motion Chair. 
+CHAIRPERSON:   Plus the original hard drive.  
+DAY 16,  27 SEPTEMBER  2018 
+ 
+ADDRESS 
+ 
+Page 14 of 101 
+ 
+ADV PAUL PRETORIUS SC:   Yes. Well perhaps the numbering could have been more 
+accessible to non-experts like myself. 
+CHAIRPERSON:    And myself. 
+ADV PAUL PRETORIUS SC:  But paragraph 1 refers to admission of the data on 
+HDDH. 
+CHAIRPERSON:   Ja. 
+ADV PAUL PRETORIUS SC:  That is the first one made overseas the forensic image 
+made overseas by the technical expert.  
+CHAIRPERSON:   Ja. 
+ADV PAUL PRETORIUS SC:  The two further forensic images are HDDH1 and 
+10 
+HDDH2. 
+CHAIRPERSON:   O, yes. 
+ADV PAUL PRETORIUS SC:  So, those three and just for – to clarify once again  
+HDDH is in safekeeping. 
+CHAIRPERSON:  Ja.    
+ADV PAUL PRETORIUS SC:  It will not be worked on but it is always there as 
+evidence. 
+CHAIRPERSON:   Ja. 
+ADV PAUL PRETORIUS SC:  HDDH1 and HDDH2 will be, if the application is 
+successful, worked on by the investigators.  
+20 
+CHAIRPERSON:   Yes. 
+ADV PAUL PRETORIUS SC:  And analysed accordingly. 
+CHAIRPERSON:   And HDD …[intervenes] 
+ADV PAUL PRETORIUS SC:   A. 
+CHAIRPERSON:   Right A is the original hard drive. 
+DAY 16,  27 SEPTEMBER  2018 
+ 
+ADDRESS 
+ 
+Page 15 of 101 
+ 
+ADV PAUL PRETORIUS SC:   Is the original hard drive if that is accesses in an 
+investigation process the chances of it being entirely  damaged, irrevocably damaged, 
+are too high to allow that to happen. So, that is in safekeeping under the control of the 
+Commission.  But that is the original. 
+CHAIRPERSON:   It can only be worked on or touched, as it were, by a relevant expert. 
+ADV PAUL PRETORIUS SC:  Correct. 
+CHAIRPERSON:   If it is not to be damaged. 
+ADV PAUL PRETORIUS SC:  Correct. 
+CHAIRPERSON:   Okay.  
+ADV PAUL PRETORIUS SC:   But the expert will have told you that HDDH is an 
+10 
+accurate and virtually complete and when we say virtually complete the figure I will 
+refer ou to in a moment is 99.99999% so that is not bad.  
+CHAIRPERSON:   Shame. 
+ADV PAUL PRETORIUS SC:  Chair if I may then go back to… [intervenes] 
+CHAIRPERSON:   So the and this might be for much later and not now.  So, the only 
+reason why anybody would want the original hard drive would be to see whether the 
+forensic imaging was done correctly. 
+ADV PAUL PRETORIUS SC:   Correct. 
+CHAIRPERSON:   Okay. 
+ADV PAUL PRETORIUS SC:   In that regard you have what we submit is the most 
+20 
+reliable evidence, on affidavit, at present but if necessary if it comes to that we can 
+bring the person here to give evidence, Chair, that a  highly sophisticated reliable 
+forensic imaging process was applied in respect of the copying – of the imaging of the 
+data on the original hard drive and its transfer to the firs forensic image. 
+DAY 16,  27 SEPTEMBER  2018 
+ 
+ADDRESS 
+ 
+Page 16 of 101 
+ 
+CHAIRPERSON:   I guess that at a certain stage irrespective of what Sahara 
+Computers decides to do it might be – a ploy would be necessary to have that 
+evidence... 
+ADV PAUL PRETORIUS SC:   Yes. 
+CHAIRPERSON:   Placed before the Commission so that if the Commission were 
+ultimately to rely on that evidence it would do so in the knowledge that the forensic 
+imaging was done correctly. 
+ADV PAUL PRETORIUS SC:   Yes. Chair you have that – we will have that evidence 
+handed to you  in camera in affidavit form and in our submission we can give you the 
+assurance that that process was the result of much international research. The 
+10 
+selection of the entity that performed the operation was not a random quick decision it 
+was in the view of the experts the best operation by the best technical experts and we 
+can – I am quite happy to give you, Chair, that assurance. 
+CHAIRPERSON:   Thank you very much. 
+ADV PAUL PRETORIUS SC:  Chair what has also been prepared or is being prepared 
+is another document. That has not been presented to you at this stage for reasons that 
+we submit are justifiable at present and that is to protect the identity of people who 
+genuinely fear for their personal safety.  But their full chain of custody documents will, 
+at some stage, be presented to the Commission or be available for law enforcement 
+agencies and civil authorities, in due course. That chain of custody record will be 
+20 
+complete or as complete as is possible and in our submission as complete as is 
+necessary. 
+Then if I may take you Chair, to paragraph 31 which is paginated page 11 where the 
+narrative is set out. The first whistle blower who obtained possession of the original 
+hard drive we refer to as Stan – that is a name by which he was known in a pre-
+DAY 16,  27 SEPTEMBER  2018 
+ 
+ADDRESS 
+ 
+Page 17 of 101 
+ 
+recorded interview that was published by amaBhungane on 15 August 2018. The 
+transcript of that interview is annexed, is the first annexure it is on page 29 it is 
+Annexure TN1, Chair.  If one read Annexure TN1 one will see that there is nothing in  
+that interview that gives any clue as to the occupation or identity of Stan and of the 
+other person who accompanied him who is known as John. .But those are the first two 
+whistle blowers. That is where the narrative for present purposes starts.  
+When Stan and John  had taken possession of the original hard drive HDDA and I am 
+at paragraph 35, Chair.  They examined it and noticed that its contents related to the 
+Gupta family and their associates and those emails contained on the original hard drive 
+appeared to corroborate what the media had at the time being reporting about issues 
+10 
+as State Capture – issues directly relevant to the work of this Commission. They also 
+appeared to emanate from Mr Ashu Chawla who was then the Chief Executive Officer 
+of Sahara Computers and in an organisational matrix related to the Gupta family. Stan 
+did not know what to do with this information. He therefore approached a friend, a Mr 
+Brian Currin for advice and you will be introduced to Mr Brian Currin shortly, Chair. That 
+friend, whose identity is not disclosed, did not feel that he had the experience or 
+expertise or network of contact to assist Stan in relation to any potential disclosure of 
+the information that he believed, the friend believe Stan needed.  The friend therefore 
+approached Mr Currin, because of the nature of the work that Mr Currin had done for 
+Sunde Caves and work will be described by Mr  Currin  in his evidence. Mr Currin had 
+20 
+dealt with prominent whistle blowers before in this example Captain Dirk Coetzee who 
+blew the whistle on Vlakplaas. Activities in the 90’s or the 80’s.   
+Chair the friend and Mr Currin then met with Stan in February 2017. Stan who had been 
+in possession of the original hard drive, for many months was undecided about what he 
+should do with it. Although he had not read all of the emails, some 200 000, Chair 
+DAY 16,  27 SEPTEMBER  2018 
+ 
+ADDRESS 
+ 
+Page 18 of 101 
+ 
+contained in the original hard drive. He had read enough of the emails to be very well 
+informed about what appeared to be corrupt relationships involving the Gupta brothers,  
+Mr Duduzane Zuma, certain Cabinet Ministers and  some of the CEOs and officials of 
+major state owned entities in South Africa. At some stage, at  least in principle a 
+decision was made by Stan to release this information. That decision was made in 
+principle because of the public interest in the disclosure of the information, but he was 
+very concerned about his safety and John’s safety both at the  time the information 
+would disclosed and after. So, what Mr Currin took it upon himself to do at the request 
+of Stan and John was to obtain protection.  Mr Currin also facilitated the safekeeping 
+HDDA, the original. So, it was handed from the whistle blowers to Mr Currin and that 
+10 
+included making arrangements for its safekeeping at the attorneys Norton Rose 
+Fulbright, taking it to Kenya in March 2018 and later, at a later stage handing it over to 
+officials of the Commission. 
+So, late in March 2018 Mr Currin contacted the Commission in order to disclose the 
+existence of the original hard drive and in order to facilitate the Commission’s eventual 
+use of the data on the hard drive.  Then on 10 April 2018, Chair, members of the 
+Commission’s legal team and an investigator appointed to the Commission travelled to 
+Nairobi Kenya to meet with Stan and John who were, understandably, reluctant to come 
+to South Africa. Mr Currin, an attorney and three individuals who represented certain 
+authorities from the United States.  After this meeting Mr Currin and his attorney 
+20 
+returned to South Africa with the original hard drive. That hard drive was then handed 
+over to Mr Nombembe at a  secure venue and arrangements were made for the high 
+security safekeeping and protection of the original hard drive. 
+Then during 20 – during July 2018 the Commission’s representatives made further 
+contact with Stan and agreed with Stan that the Commission would arrange for an 
+DAY 16,  27 SEPTEMBER  2018 
+ 
+ADDRESS 
+ 
+Page 19 of 101 
+ 
+international data recovery expert to form data recovery  on HDDA the original which, 
+by that stage incidentally Stan had thought that the original hard drive had collapsed 
+completely and in fact  part of the thinking of the Commission’s representative at that  
+stage was that there was not a great chance of being able to recover more data from 
+the original hard drive than had already been done in the past, if at all, because it was 
+recognised that that hard drive was damaged and extremely fragile and vulnerable and 
+it was agreed with Stan  that the data on the original hard drive forensically imaged 
+onto other hard drives would be used to further the work of the Commission in 
+accordance with its terms of reference and has been explained to, Chair a carefully 
+selected international expert in the field of data recovery was approached in Europe 
+10 
+and the international expert referred to  did the work necessary  to recover. 
+On 9 August 218 Mr Nombembe retrieved the hard drive from its place of safekeeping. 
+Handed it over to an investigating attorney who then flew out of the country to hand it 
+over to the international expert. The investigator and the attorney handed over the hard 
+drive and certain other clones of the hard  drive to the international expert. The 
+international expert, over the course of a period of 10 days, attended to data recovery 
+and forensic imaging and it remained in his possession throughout this period. As 
+pointed out in paragraph 50 the international expert was able to recover 99.9998269% 
+of the HDDA data from HDDA, the original hard drive. A forensic image was made of 
+this recovered data, on a new hard disc drive, and it has a model number which is 
+20 
+apparent there and  serial number  and that is the model number and the serial number 
+which appears in the Notice  of Motion, that is the first forensic image. HDDA the 
+original hard drive is now apparently in safekeeping once more. 
+The investigator and the attorney then returned to South Africa with that first forensic 
+image HDDH and on their return, one of the Commission’s data expert investigators 
+DAY 16,  27 SEPTEMBER  2018 
+ 
+ADDRESS 
+ 
+Page 20 of 101 
+ 
+made two further forensic images of HDDH and they are called HDDH1 and HDDH2. 
+The investigator then took HDDH that is the first forensic image to a place of 
+safekeeping where it now is  and the Commission’s investigators have retained the 
+other two forensic images and another suspending your ruling, Chair.  
+Mr Nombembe has also been informed that two further witnesses will give evidence in 
+public in July 2019. It is possible that alternative arrangements maybe made but I am in 
+no position at this stage to say what they are, what likelihood of success these 
+arrangement may produce.  Throughout these events, in relation to the chain of 
+custody, precautions that would be required by chain of custody evidence requirements 
+in criminal jurisdiction have been followed various chain of custody forms have been 
+10 
+completed, non-disclosure documents have been completed, tamper proof evidence, 
+bags have been used whilst the hard drives and the forensic images have transported 
+around South Africa and outside the border of South Africa. We have not burdened this 
+affidavit with these details because simply, Chair, it is not necessary at this stage, but 
+that evidence is there for the preservation of the integrity of the information or data and 
+will come before you later as well, Chair when the full chain of evidence can be 
+presented to you in evidence.  
+So, in summary Chair, the original came into the possession of Stan. That original was 
+taken out of the country for data  recover to  be performed by the international expert. 
+The international expert managed to recover of the data on the original hard drive 
+20 
+99.9998269%. That has been forensically imaged on the first forensic image HDDH, 
+HDDA is now in secure – in a secure location under protection and then the two further 
+forensic images recorded in the Notice of Motion are also the subject of this application. 
+Chair it is necessary - we have thought, at this stage, to place before you on this 
+affidavit some evidence as to relevance and reliability. So that in our submission  you 
+DAY 16,  27 SEPTEMBER  2018 
+ 
+ADDRESS 
+ 
+Page 21 of 101 
+ 
+can be confident that it is appropriate to grant the relief sought even though our prime 
+submission is that relevance and reliability can be developed and produced in due 
+course by further evidence. 
+The first point goes to relevance. The information on the hard drive comprises 
+communications and other information relating to the affairs of the Gupta family and 
+their association with government officials and state owned enterprises. The 
+Commission’s terms of reference, as we are all aware, refer repeatedly to the Gupta 
+family and the references appear expressly  in the terms of reference referred to in 
+paragraph 55.2, but we know that the other terms of reference to although Gupta family 
+may not be mentioned by  name, the other terms of reference mandate this 
+10 
+Commission to  investigate their conduct in relation to them. 
+Secondly  after the president had established this Commission on 9 January  2018. Ms 
+Thuli Madonsela, the former Public Protector, is reported as having stated, in public, 
+that this Commission of Inquiry would have to authenticate these emails and would 
+have to go to the original systems to check the veracity or authenticity of the emails. 
+Fortunately we have the original system, the original hard drive under our control as a 
+Commission. That article is attached marked TN2 and as the former Public Protector 
+has identified in this article it is important that the Commission’s investigators be given 
+an opportunity to work on the forensic  images themselves to use their  expertise, to 
+analise and synthesise  the data and as I will deal with in the next section under 
+20 
+reliability, Chair, once the data on the forensic images is available to investigators there 
+are various means that can be adopted through analysis and investigation to secure the 
+authenticity of the emails in a manner that we submit would satisfy both criminal and 
+civil jurisdictions – let alone the lower test which you may seek to apply, but Ms 
+DAY 16,  27 SEPTEMBER  2018 
+ 
+ADDRESS 
+ 
+Page 22 of 101 
+ 
+Hofmeyr will deal with the tests in more details in due course.  That is as far as 
+relevance is concerned.  Chair there can be no doubt that the information is relevant. 
+The second issue dealt with on page 17, of the paginated papers, is dealt with in 
+paragraphs 59 and following. In relation to reliability I have already addressed you 
+relation to the technical reliability of the data as being a true copy, true forensic image 
+of the original. That those allegations are made Mr Nombembe in paragraph 59 to 61 
+on pages 17 and 18 of the papers and Mr Nombembe is instructed as he foreshadows 
+in the introductory part of his affidavit by experts in amongst his investigators that they 
+appear to be of the view that the data is authentic. In other words that that data is what 
+it appears to be on the face of it, created by actual persons whose names or identities 
+10 
+appear on the emails, in real time rather than being manufactured later as fakes by 
+someone wishing to make those emails look genuine when in fact they were not and 
+were fake and Mr Nombembe importantly makes the allegation that he has personal 
+knowledge of the work that the Commission’s investigators have done, not in relation to 
+the data sought to be admitted but matters in the public domain already, because as 
+you know Chair, the data is already in the public domain having taken another route 
+through media. That route will be described in detail by Mr Currin in his evidence. For 
+present purposes I have  a – we are  dealing in this application with the original, the 
+forensic image made in Europe and two copies and of course what is note worthy, 
+Chair is the reference to the data in paragraph 62 as being data in the public domain is 
+20 
+some of the data – a far greater percentage of data in the Gupta emails is now in 
+possession of the Commission. It is significantly  broader in its ambit than what was 
+available to the media through the other route which Mr Currin will describe.  
+Then what are the indicators of authenticity that maybe used by the investigators to 
+show that these emails, in particular, and this data in general is not fake or could not 
+DAY 16,  27 SEPTEMBER  2018 
+ 
+ADDRESS 
+ 
+Page 23 of 101 
+ 
+reasonably be faked.  Now here Chair, from paragraph 63 and following are terms that 
+are entirely technical and quite frankly until I read this and interrogates or asked for 
+explanations, form the experts who contributed to the formulation of this affidavit 
+through Mr Nombembe. I did not understand them. I attempted to make notes. I 
+discarded those notes and I will give you my best application of this which I hope you 
+will understand.  
+Chair the first point to be made is that the number of email communications and other 
+information comprise of transactions in the numbers of the hundreds of a hundreds of 
+thousands that on its own is an indication that the probability of someone faking the 
+totality is extremely low. It does not mean to say that individual emails may not have 
+10 
+been sneaked into  the overall data set and have been tampered with, but generally 
+one can accept that it is highly improbable that someone would sit down and fake 
+hundreds of thousands of emails. But there are other more secure  indicators of 
+authenticity.. Emails do not exist in a vacuum. They – it is not as if it is equivalent to 
+writing on a piece of paper. On a computer when an email is sent or received data is 
+recorded on the email in relation to what happened to that email, but it is also recorded 
+in the background of the computer and there are technical terms for that but I am not 
+going to use those technical terms.    
+That background information which would exist on the original hard drive and exist on 
+the forensic images – that data is not visible to the ordinary user it is accessible to 
+20 
+persons other that a lay user like myself – it is there but it is not ordinarily visible.  So, 
+when someone seeks to fake an email they also have to create all that other hidden 
+data or relatively hidden data which would exist on the hard drive. Now that data exist 
+on the hard drive; So someone has to come and say these are fake. They would have 
+to explain that hidden data on the computer and that, If I may for want of a better word 
+DAY 16,  27 SEPTEMBER  2018 
+ 
+ADDRESS 
+ 
+Page 24 of 101 
+ 
+and I am sure I will be scolded in due course by the experts, that hidden data on the 
+hard drive can be analysed and our submission is that it is entirely  improbable that a 
+fake set of date of that nature would go undetected. 
+Then the third point is that email communications live in a dynamic data environment – 
+they do not – it does not exist  only as an email or only in the environment of the 
+particular hard drive with its hidden and visible data.  That data may be kept on 
+company servers. There are backup or storage devices which may exist outside of the 
+particular hard drive where the authenticity can be verified or checked. There are 
+service providers, emails are made operable through the services of particular  service 
+providers who keep their records which is another source of authentication and 
+10 
+verification. Now here especially Chair, if the point was not already obvious it would be 
+impossible for someone seeking to manipulate or create fake emails in this data set to 
+reach out to all the other devices, electronic devices in the environment wherever these 
+my exist and there manipulate too. In addition emails on a device do not exist only as 
+emails they exist within a proprietary  platform such a Microsoft Outlook and that email 
+is then linked to other information on that proprietary platform, such as contacts, 
+addresses, messages, calendar and other items, anyone seeking to fake would have to 
+ensure that  any fake email was as consistent with all that other information in that 
+software program as the other emails purport to be and that data too resides on the 
+hard drive and can be examined and investigated and once again it is extremely 
+20 
+improbable that al that data could be consistently and thoroughly faked to the extent 
+required to avoid detection.   
+If one goes to paragraph 63.6.4, Chair and that is on page 21. There are  circumstantial 
+pieces of evidence which may also  contribute to the authenticity  of emails, through 
+investigation and  through analysis. The author’s known email address, electronic 
+DAY 16,  27 SEPTEMBER  2018 
+ 
+ADDRESS 
+ 
+Page 25 of 101 
+ 
+signatures names nicknames maybe apparent. There may be a writing style similar that 
+experts may be able to investigate. There may be reference to facts that can be verified 
+through objective evidence, meetings for example, or other events related to the 
+content of the email. The obvious one is where an email is received and admitted to 
+have been received and that evidence is already  to some extent in the public domain 
+where a person’s implicated the emails, have admitted their receipt. Of course third 
+party devices, in other words addresses in relation to emails their devices may be 
+examined to ensure authenticity. The point we make in summary that given all this – 
+given the electronic environment of a particular email or a series of emails or a whole 
+data set as contained in the forensic images. It is well nigh impossible to fake that 
+10 
+whole environment, certainly in a manner which would avoid detection through proper 
+investigation and analysis and so in essence what we are asking you to do Chair, is to 
+admit the hard drives initially for that purpose and for presentation of evidence, subject 
+to the further protections that we will deal with as an evidence team in due course.  Of 
+course once that investigation and analysis has taken place that may be placed before 
+you.  
+MALE SPEAKER:   What is the time? 
+ADV PAUL PRETORIUS SC:   Okay I am going to move on to another topic. It is one 
+minute  away from 11:15 may take the short adjournment? 
+CHAIRPERSON: We will  take the short adjournment until half past eleven.  
+20 
+COURT CLERK;  All rise.   
+HEARING ADJOURNS  
+ 
+ 
+ 
+DAY 17, 27 September 2018 
+ 
+ADDRESS 
+mb 
+Page 26 of 101 
+ 
+HEARING RESUMES  
+CHAIRPERSON:  Yes, Mr Pretorius? 
+ADV PAUL PRETORIUS SC:  Thank you Chair.  Chair, we have reached page 23 of 
+the paginated papers of the application, paragraph 67.  Our submission to you is that 
+…[intervenes] 
+CHAIRPERSON:  I must just say that my ones are not paginated, but I have been 
+following this simply on the page numbers of the affidavit.  If you tell me paragraphs 
+that helps.  I am sorry, there are – there is a paginated file, but they were put here – I 
+did not know whether it is just some of the files that are normally put here, and I was 
+looking at the affidavit that was sent this morning with annexures, which is not 
+10 
+paginated. 
+ADV PAUL PRETORIUS SC:  Yes. 
+CHAIRPERSON:  But I see that there is actually a file here that is paginated, but I 
+did not know that, that is the one. 
+ADV PAUL PRETORIUS SC:  I am sorry, Chair, we will find someone to account for 
+that. 
+CHAIRPERSON:  Yes, thank you.  Yes? 
+ADV PAUL PRETORIUS SC:  Chair, if I may then refer to paragraph 67 on page 23, 
+but perhaps we can follow the paragraph numbers.  There is obviously and clearly, 
+Chair, another reason which perhaps trumps the reliability and the authenticity points 
+20 
+and that is the overwhelming public interest that is involved here, and that is relevant 
+particularly in relation to any potential claim that any party might have in relation to 
+confidentiality. 
+ 
+Chair, this will be dealt with in detail in argument after the evidence of Mr 
+Carin, but for present purposes we highlight in paragraph 68 that any privilege based 
+DAY 17, 27 September 2018 
+ 
+ADDRESS 
+mb 
+Page 27 of 101 
+ 
+on confidentiality is in principle limited.  The first is that the principle of confidentiality 
+only applies to information to the extent that it remains confidential and so once 
+information has entered the public domain, then as a general rule the principle of 
+confidentiality can have no application to it. 
+ 
+Now of course here one must qualify the application of that principle, 
+because the extent to which the commission now has in its possession data that was 
+not previously in the public domain or was not – or has not been in the public domain 
+has not yet been fully established. 
+ 
+So there is data which has not yet entered the public domain, but that 
+detail can only be produced on analysis.  The second is, as you are aware, no doubt, 
+10 
+Chair, the law protects confidence only to the extent that there is no overriding public 
+interest in the publication of the material concerned, and our submission here is that 
+there is an overwhelming public interest concern overriding any competing concern. 
+ 
+You will be referred to authorities in this regard, but I may just refer to just 
+one case referred to in paragraph 69.2 where a file that had actually been stolen 
+from the records of the former Minister of Health Ms Chabalala Msimang was held to 
+be disclosable in the public interest despite the theft of that documentation. 
+ 
+There are other cases to which you will be referred in due course.  The 
+two other considerations, Chair, the one is the duty that the President in particular, 
+but the country in general has placed upon this commission to investigate matters 
+20 
+thoroughly and fully, and in our submission this cannot said to be done without the 
+granting of this application and the work that will follow on it as a matter of 
+consequence. 
+ 
+But we draw your attention to knowledge at present in the public domain 
+and that is the extent of our knowledge as it exists at present of course the position 
+DAY 17, 27 September 2018 
+ 
+ADDRESS 
+mb 
+Page 28 of 101 
+ 
+may change and further knowledge may come to light, but in paragraph 71 we refer 
+to a statement that purports to have  been made by or on behalf of Mr Adwil Gupta 
+where he is reported as having said on 3 August 2017: 
+"Emails.  What emails?  Adwil Gupta denies everything, 
+despite how improbable it is that someone could have made 
+up 100 000 emails the richest Gupta brother would like us to 
+believe they are all fake." 
+ 
+That is part of the article and not part of any purported quote.  We refer in 
+paragraph 72 to the extent of public – extensive public reporting of the content of the 
+devices.  Again that will be dealt with by Ms Hoffmeyer.  So we say that any 
+10 
+confidentiality claim is firstly limited by what is already in the public domain and 
+secondly limited by competing claim of public interest, which in this particular case 
+we say is overwhelming. 
+ 
+We make the allegation in paragraph 70 that the duty to investigate 
+matters of state capture visited upon this commission corruption and fraud in the 
+public sector, including …[indistinct] enterprises is integral to the well-being of all 
+South Africans and in particular its poor people. 
+ 
+And our submission to you is, Chair, that the privacy concerns, such as 
+they may be, of Sahara Computers cannot be allowed to outweigh the consideration 
+of these factors.  Perhaps that is to state the obvious, but it needs to be stated, 
+20 
+nevertheless, Chair. 
+ 
+Then finally we deal in paragraph 79 with the position of Sahara 
+Computers.  In our submission, Chair, the order should be granted now and not at 
+some later stage.  In order for the necessary work to be undertaken, in order to 
+DAY 17, 27 September 2018 
+ 
+ADDRESS 
+mb 
+Page 29 of 101 
+ 
+obviate any risk that may attach to either persons or property, the devices concerned 
+in the interim. 
+ 
+There are a number of reasons set out in paragraph 73 to 76 of the 
+affidavit of Mr Nombembe, which contains submissions as to why it is necessary, 
+Chair, for this order to be made now.  Firstly to protect persons, secondly to protect 
+the property involved, the devices involved and thirdly to allow the commission in 
+particular its investigation and legal teams to begin the vast amount of work that 
+requires to be done. 
+ 
+In relation to the position of Sahara Computers, Chair, any interests that 
+they might have or they might seek to vindicate before you can be done in due 
+10 
+course.  Provision is made for that in the notice of motion and once this application is 
+concluded and to the extent necessary and permissible and appropriate and in terms 
+of any order that you might make, notice will be served on them. 
+ 
+There is one more matter to deal with as far as the application is 
+concerned.  We have in our possession a declaration under oath attested to.  I am 
+informed that the technical word is appostilised by the international expert.  It does 
+reveal information that for reasons for personal security and reasons that will be 
+explained to Chair in camera, if you allow us to do so, require it to be kept 
+confidential and we would ask leave during the long adjournment to hand it to you in 
+camera, together with an explanation as to why it is necessary to do so, but that is 
+20 
+the evidence of the international expert which records the process that took place in 
+creating the first forensic image referred to in the notice of motion. 
+CHAIRPERSON:  That is in order.  I know that I am still going to hear the evidence 
+of Mr Brian Carin. 
+ADV PAUL PRETORIUS SC:  Yes. 
+DAY 17, 27 September 2018 
+ 
+ADDRESS 
+mb 
+Page 30 of 101 
+ 
+CHAIRPERSON:  And legal argument I think from Ms Hoffmeyer, but already I want 
+to find out from you and you can tell me if it is Ms Hoffmeyer who will deal with this, 
+whether making the order that you have asked for as it stands, would not have the 
+implication that all of that becomes public, whether they should not – whether the 
+public access to this information would not follow, unless there is an order restricting 
+access to it? 
+ADV PAUL PRETORIUS SC:  I understand that point, because …[intervenes] 
+CHAIRPERSON:  In other words should there not be another order that will ensure 
+that nobody thinks they have access, a right of access, because it was admitted in 
+this hearing? 
+10 
+ADV PAUL PRETORIUS SC:  Yes, they would have to deal with that concern, Chair.  
+There will have to be a further order qualifying the previous order stating that the 
+data will only be accessible to public as and when evidence is presented in open 
+sittings of the commission. 
+CHAIRPERSON:  Yes, no, that is alright. 
+ADV PAUL PRETORIUS SC:  By your leave we can add that to it, because, Chair, 
+the point you make is with respect a good one, because the order does talk about 
+evidence before the commission. 
+CHAIRPERSON:  Yes. 
+ADV PAUL PRETORIUS SC:  And it might be interpreted to have that consequence. 
+20 
+CHAIRPERSON:  Yes. 
+ADV PAUL PRETORIUS SC:  And so we will add a rider to the notice of motion to 
+deal with that issue. 
+CHAIRPERSON:  Okay, no, that is fine. 
+DAY 17, 27 September 2018 
+ 
+B. CURRIN 
+mb 
+Page 31 of 101 
+ 
+ADV PAUL PRETORIUS SC:  Thank you for that, Chair. 
+CHAIRPERSON:  Thank you. 
+ADV PAUL PRETORIUS SC:  Chair, then if it is appropriate may we call Mr Brian 
+Carin. 
+CHAIRPERSON:  Thank you.  Registrar you can administer the oath or affirmation 
+as the case may be. 
+BRIAN CURRIN (duly sworn, states) 
+CHAIRPERSON:  Thank you very much. 
+EXAMINATION BY ADV PAUL PRETORIUS SC:  Thank you, Chair.  Mr Carin you 
+are a lawyer by profession?  ---  That is correct. 
+10 
+ 
+For how long have you worked in that profession?  ---  15 years 
+…[intervenes] 
+CHAIRPERSON:  I am sorry, press the microphone there, yes, thank 
+you.  ---  …definition of you are a lawyer or when you are not, but I spent the first 18 
+years of my professional career working as a Human Rights Lawyer, Human Rights 
+Activist and that was until 1995. 
+ADV PAUL PRETORIUS SC:  Since 1995?  ---  Well since 1995 I have been 
+involved in International Peace Processes, the conflict resolution in many parts of 
+the world which really emanated from the work that I did here in South Africa.  I have 
+worked in numerous African countries.  I spent five years working in Madagascar and 
+20 
+then many years in Northern Island and the Basque Country and I have worked in 
+the Middle East and most recently I worked in Columbia whilst the Farque was in 
+negotiations in Havanna Cuba. 
+ 
+And in particular over the last five years how have you occupied 
+yourself?  ---  Well in the last five years my focus has been still in conflict resolution, 
+DAY 17, 27 September 2018 
+ 
+B. CURRIN 
+mb 
+Page 32 of 101 
+ 
+but adding to that trust building between the private sector and the public sector, civil 
+society and communities, predominantly in the South African Region. 
+ 
+Where are you based currently Mr Carin?  ---  At the moment, at the 
+moment I am in Berlin Germany.  I am there, I am …[indistinct] fellow and the Robert 
+Bosch Academy and that is a nine month presence and I am researching the 
+international trends in private sector, public sector relationships, and how the quality 
+of those relationships often reflect either political order or political decay, and if 
+political decay what remedies may be used to reverse that trend to build trust and 
+mutually beneficial relationships between public sector and private sector. 
+ 
+You have been present during the address in relation to the application 
+10 
+today, Mr Carin, and you no doubt heard of the two whistleblowers mentioned.  Do 
+you know those persons?  ---  I do.  I have engaged with them for many months. 
+ 
+Do you know how in their capacity as whistleblowers from your 
+interactions with them, how they feel about their personal protection and 
+integrity?  ---  Yes, before I answer that question, I would just like to say that I mean 
+these two people, I believe the country owes a huge debt to the state and the nation, 
+because frankly I think if it had not been for them I wonder whether this commission 
+would be sitting today, so I just want to put that on record.  In terms of their own 
+fears, certainly right from the outset when I first began to engage with them they 
+were very fearful.  I understood that completely.  There was a particular dynamic in 
+20 
+the country, which I think we all are fully aware of and that is really during the course 
+of most of last year, and that fear which they have continues to exist. 
+ 
+Right.  Do you know from your own knowledge whether that position might 
+change in the future?  ---  My knowledge is that it will change, it should change and I 
+think it will change from discussions that I have had, but that will really only be 
+DAY 17, 27 September 2018 
+ 
+B. CURRIN 
+mb 
+Page 33 of 101 
+ 
+during the course of next year, towards the middle of the year, and as you indicated 
+in your address there are reasons for that which maybe one would not want to go 
+into, but certainly I think it is a question of certain existing circumstances changing. 
+ 
+Let us then move, Mr Carin then – or let us just summarise first your 
+evidence in this regard, if we may, do you know how through interactions with the 
+two whistleblowers they regard their personal integrity and personal safety?  ---  Just 
+repeat that? 
+ 
+Are they – what do they think in relation to their own personal integrity and 
+personal safety at this time?  ---  Well they are fearful of their personal safety and 
+that is really the reason as I have indicated why they are not willing to testify at this 
+10 
+stage. 
+ 
+Okay, let us then move onto the narrative.  It begins as I understand it 
+early in 2017, February 2017 to be precise, what happened then?  ---  Well as you 
+indicated in your address to the Chair, I was approached by a friend, long standing 
+friend and colleague that I have known for many years, and he mentioned to me that 
+someone with whom he had been acquainted for a relatively short period of time had 
+spoken to him very confidentially about a hard drive in his possession.  I cannot 
+recall precisely what his description was, but I was certainly left with the impression 
+that the content of the hard drive dealt with the affairs of the Gupta family and their 
+corrupt relationship with senior politicians and state owned enterprises. 
+20 
+ 
+Thank you, Mr Carin – Mr Chair if I may just interject at this stage, Mr 
+Carin will clearly as he has done repeat some of the evidence contained in the 
+affidavit of Mr Nombembe. 
+CHAIRPERSON:  Yes. 
+DAY 17, 27 September 2018 
+ 
+B. CURRIN 
+mb 
+Page 34 of 101 
+ 
+ADV PAUL PRETORIUS SC:  What is important about this evidence coming from 
+the mouth of Mr Carin is that it is direct and personal evidence. 
+CHAIRPERSON:  Yes, that is right. 
+ADV PAUL PRETORIUS SC:  If you would bear with us in that regard. 
+CHAIRPERSON:  Yes, no, thank you. 
+ADV PAUL PRETORIUS SC:  So do you know then the name that we have attached 
+or that has been attached to this person that approached your friend?  ---  Yes, it is 
+Stan. 
+ 
+And your friend?  ---  I referred to him in my statement as my friend, 
+because he too, does not wish to be identified. 
+10 
+ 
+Do you know why your friend then approached you?  ---  Well, my friend 
+was approached, because from what I gather the Stan, my friend was the only 
+person that Stan knew that worked in the sort of socio political space and he felt that 
+maybe this person might be able to advise him on what he should do with this 
+information that he had.  My friend then, who has known me for many years, felt that 
+he was not capable, that he did not have necessarily the expertise, the experience, 
+the networks, the know how, how to deal with this type of situation and he felt 
+somehow that maybe I would be better qualified to provide advise and assistance to 
+Stan. 
+ 
+Do you have any experience, direct experience in dealing with a situation 
+20 
+in 
+which 
+whistleblowers 
+required 
+to 
+reveal 
+information 
+and 
+secure 
+safety?  ---  Certainly, you know just in broad terms when I was Head of Lawyer 
+Human Rights we actually even ran a witness protection program which I do not 
+mention in my written statement, but that is something that I subsequently recall, but 
+besides that you mentioned Captain Dirk Coetzee who we know blew the whistle on 
+DAY 17, 27 September 2018 
+ 
+B. CURRIN 
+mb 
+Page 35 of 101 
+ 
+Vlak Plaas, their activities during the 1980's under the command of Colonel Eugene 
+de Kock who was then head of that secret task force C2, known as C10, also 
+referred to as Third Force and Death Squads and just to mention that Captain Dirk 
+Coetzee approached me as early as 1985, well before he came to the public 
+knowledge when he came out with information which he required to be kept 
+confidential for the first number of years. 
+ 
+Did you then come to meet with Stan and your friend?  ---  My friend and I 
+met with him a few days after I had been approached by my friend.  It was certainly 
+during the course of February. 
+ 
+Very briefly would you relate to the Chair what happened at that 
+10 
+meeting?  ---  Yes, I was introduced by my friend who was there as someone who 
+could be able to advise and assist him.  It was clear that Stan had a need to offload, 
+which was not surprising since he has been in possession of the hard drive, which 
+he was referring to, for many, many months, undecided as to what to do with it, and 
+at last he had this opportunity I think to speak to somebody that might be able to 
+assist.  And should I go on? 
+ 
+Yes please?  ---  Although Stan could not read all 300 000 emails which 
+he indicated there seemed to be, he had read enough of them to be well informed 
+about what appeared to him to be a corrupt relationship involving the Gupta 
+brothers, Duduzani Zuma he mentioned by name, certain cabinet ministers that he 
+20 
+also mentioned by name and some of the CEO's of mayor state owned enterprises.  
+He also indicated that the information on the hard drive appeared to comprise emails 
+from one Mr Ashew Chaula who was, he understood then to be the CEO of Sahara 
+Computers. 
+DAY 17, 27 September 2018 
+ 
+B. CURRIN 
+mb 
+Page 36 of 101 
+ 
+ 
+From your own observation what was Stan's condition?  ---  Well at that 
+stage he was visibly nervous.  He was in a state of shock, one could just see that the 
+man was feeling uncomfortable, he was feeling uncomfortable talking to me, he 
+never met me before and it was a difficult meeting, but I think he got some level of 
+reassurance from that meeting, because then I continued.  He continued to be willing 
+to meet with me. 
+CHAIRPERSON:  And that was February 2017?  ---  That was in February 2017, 
+Chair. 
+ADV PAUL PRETORIUS SC:  Did you learn how Stan came or had come into 
+possession of the original hard drive?  ---  Yes. 
+10 
+ 
+At that meeting?  ---  I did.  He explained in detail how he came into 
+possession and you know at this stage I cannot reveal that, because if I were to do 
+so it would be possible, it would certainly facilitate or enable identification. 
+ 
+Yes, I think we have accepted that it is necessary at this stage to protect 
+the identity of Stan.  The point, however, is that, that information and evidence is 
+available and may be placed before the commission in due course.  Hopefully 
+sooner rather than later?  ---  Yes, yes. 
+ 
+Did you inquire where the original hard drive was at that stage?  ---  I 
+certainly did, because obviously that was the key piece of evidence and I was told 
+that it was in safekeeping with a trusted friend of his together with its clone.  So he 
+20 
+gave me that information. 
+ 
+Alright.  ---  He did inform me, I should add, that in due course if all went 
+according to plan he would share with me the detail of the safekeeping of the original 
+hard drive and its clone as well as share with me the passwords and codes which 
+will allow access to the content, that is to the content of the original hard drive and 
+DAY 17, 27 September 2018 
+ 
+B. CURRIN 
+mb 
+Page 37 of 101 
+ 
+its clone.  And maybe I should just refer briefly to the plan.  At that stage also clearly 
+he on the one hand he is providing this evidence, Chair, but on the other hand as I 
+have indicated he is afraid and justifiably so, and I say one must reflect back to the 
+political environment at that stage.  The part of the plan was he was saying to me, 
+can you help me to get out of the country with my family?  I need protection.  And all 
+of that was certainly part of the plan, and I could understand that he would not be 
+willing to share the information about the hard drive so one could get access, which 
+could then be linked to the media and him sitting in South Africa exposed and in 
+great danger. 
+ 
+Alright, if I may just take you back a step, one does not want to get to 
+10 
+technical at this stage, but when you refer to a clone.  ---  Yes. 
+ 
+Are you referring to it as we have referred to it already, in other words 
+something just one grade less than a forensic data image?  ---  I am, but I will be 
+honest with you, I – hopefully I am always being honest when I am sitting here, 
+Chair, but I will be honest with you that I did not know the difference until very 
+recently between a clone and the imaging. 
+ 
+We will certainly share that Mr Carin.  ---  Thank you. 
+ 
+So what would be necessary then for you to be able to work together with 
+Stan to further the appropriate handling of this data, its release and the provision of 
+safety and security for the whistleblowers?  ---  Well the one hand there was the plan 
+20 
+which needed to raise funds to enable him and I learned subsequently a second 
+whistleblower to leave the country, but another aspect, which certainly I understood 
+and it was implicit in the way in which we engaged is that we would need to build 
+mutual trust.  I clearly needed to trust him.  I needed to believe in him and I needed 
+to believe in the authenticity in what he was telling me, but he also needed to trust 
+DAY 17, 27 September 2018 
+ 
+B. CURRIN 
+mb 
+Page 38 of 101 
+ 
+me that I would do the right thing.  So that was certainly a critical aspect of what 
+needed to be done. 
+Session 5 
+Did Stan reveal to you any further information at that meeting?  ---  Yes, 
+he did. 
+ 
+What was it?  ---  He revealed to me that besides having placed the 
+original and a clone with his close friend, he kept in his possession two data hard 
+drive devices or HD's with content identical to the clone of the original hard drive.  So 
+he still had those in his possession, which was obviously important information for 
+me, because somehow I needed to be able to get access to the content.  He also 
+10 
+made available, which was at a subsequent meeting two CD's which contained a few 
+hundred emails, no, sorry, I just want to check on this, if my memory, can I just refer 
+to my written statement here, because some of these things are important 
+…[intervenes] 
+CHAIRPERSON:  Yes, you may.  ---  That the sequence is correct. 
+ 
+Yes.  ---  At that meeting he did not share the CD's with me, but he 
+indicated that he had indeed downloaded some of the information onto two CD's 
+which he would share with me at a later stage. 
+ADV PAUL PRETORIUS SC:  Yes, and our expert tell us and I am sure they have 
+told you too that in relation to the copying of files onto CD, we may use the word 
+20 
+copy without offending him.  ---  Yes, absolutely yes. 
+ 
+And in relation to the data that he did have in his possession and in 
+whatever form, did he say how he considered it appropriate to make public?  ---  Yes. 
+ 
+That information?  ---  Having had this information in his head for a long 
+time, for many months and bearing in mind he is not a political person, and not 
+DAY 17, 27 September 2018 
+ 
+B. CURRIN 
+mb 
+Page 39 of 101 
+ 
+knowing what to do with it and feeling in his own mind very insecure about sharing it 
+with security or law enforcement agencies in the country, what he had in mind was 
+that it would be necessary to get the information into the public domain in order to 
+enable or to grow a public swell of a pressure from civil society so that a structure 
+which obviously at that stage we could not really think about, would be established, 
+so that those politicians and others who seemed from what he had read were 
+corrupt, could be held accountable by other politicians in the country who indeed 
+were people of integrity. 
+ 
+That was his frame of mind?  ---  That was his frame of mind. 
+ 
+Mr Carin you have mentioned his name, but at that meeting you said that 
+10 
+Stan informed you that there was a second person whom he knew, referred to as 
+John?  ---  That is correct. 
+ 
+Is he the second whistleblower you were referring to?  ---  He was the 
+second whistleblower and who played a very, very significant role also. 
+ 
+Alright, you have heard or you have told the Chair what you had heard 
+from Stan.  What was your state of mind or view at that stage?  ---  Well we had 
+heard the story and my friend and I came back from it and I can remember sitting in 
+his office and both of us felt well how can this be true?  Of course neither of us knew, 
+I did not know Stan at all and my friend had only known him for a relatively short 
+period, but certainly we wanted to peruse these CD's to at least get some sense of 
+20 
+what might be on them, and for that reason we asked Stan if he would make the 
+CD's available to us, which he did.  He presented them within a – I think if I 
+remember correctly the very next day. 
+ 
+Did you take the opportunity to study the information on these 
+CD's?  ---  Yes, at this stage my friend was still involved, because he was in a way 
+DAY 17, 27 September 2018 
+ 
+B. CURRIN 
+mb 
+Page 40 of 101 
+ 
+the access to Stan and it was not time for him to withdraw, so he perused them first, 
+because I was not available.  I had a day job at the time, which I still got.  He 
+perused them and then he gave them to me and I looked at them over the weekend 
+and we met on the Monday and we certainly agreed, Chair, that the emails that we 
+read certainly provided good reason for further investigation into the authenticity of 
+the emails. 
+ 
+Did you meet again with Stan?  ---  We met with him again, sometime 
+later. 
+ 
+What happened at that meeting?  ---  Well we shared with him our 
+conclusion, that to us, as laypersons, the emails appeared to be general, and I 
+10 
+emphasise as laypersons, because how does one do that, unless you have that sort 
+of expertise, which I think you have been referring to, but certainly we felt that we 
+were willing to and I was willing to take this and see how one could take it further.  
+We discussed the feasibility of surrendering the evidence to the country's law 
+enforcement agencies and political leadership in government.  That was the very first 
+thing we did.  I mean here we are sitting with what appears to be evidence of serious 
+corruption.  So we discussed that, but given the situation in the country at the time 
+we decided that, that was not a route that we would follow.  We agreed that we could 
+not trust either the law enforcement agencies or the political leadership.  But in 
+saying that, Chair, I do want to emphasise that I know well, and I think we all know 
+20 
+that even at that time, in those agencies and within government there were and still 
+are and maybe more so today, but certainly even then there were very credible 
+people, people that I could trust.  But overall we just, I could not place my trust in 
+those institutions. 
+DAY 17, 27 September 2018 
+ 
+B. CURRIN 
+mb 
+Page 41 of 101 
+ 
+ 
+Was any decision made about releasing the information to the public, in 
+principle at least?  ---  In principle we agreed that Stan's suggestion of getting public 
+support which would require publication was a strategy that needed to be followed, 
+because one needed to put pressure on sort of high political places for these things 
+to be done, and I mean one also could foresee that it could create some sort of 
+divisions between people who would either want to – or would not want to go or 
+move forward in creating structures that would hold accountable those who may be 
+involved in corruption. 
+ 
+Yes, these decisions and their motivation was based on your personal 
+opinion at the time.  ---  Yes. 
+10 
+ 
+Largely inference.  ---  Yes, and no.  I think, I think, well I do not only think, 
+I would say that I had more faith in certain individuals in those structures.  Some 
+within the political sector and within law enforcement agencies, that I personally 
+know, that I trust.  But, you know overall not.  But from Stan's perspective he just felt 
+that he could not trust anybody, which I think probably many people in civil society 
+who are not engaged in that sort of political space would take – would have taken 
+that opinion. 
+ 
+Okay.  Did Stan say anything at that meeting about his attitude and the 
+attitude of John to their personal safety?  ---  Absolutely.  Again it was emphasised, it 
+was something, it was always emphasised and maybe I should mention that, I mean 
+20 
+these meetings that we had were always arranged in sort of absolute secrecy.  We 
+never ever had cell phones which were on or could be listened to or actually were 
+near us.  So it was all sort of cloak and dagger stuff, meeting discretely and 
+obviously for the reason that they had great fear for their safety.  And certainly to 
+take that point further Stan stressed that both whistleblowers and their wives would 
+DAY 17, 27 September 2018 
+ 
+B. CURRIN 
+mb 
+Page 42 of 101 
+ 
+want to leave the country before any publication of information concerning the emails 
+were to be published.  They would want to get out of the country before that would 
+happen. 
+ 
+And did he say what they would need in order to achieve that 
+aim?  ---  Well what they would need would be funds, which would enable both of 
+them to live in exile if we can us that term, but also since, certainly in both of their 
+minds there was a good chance that they would never return to South Africa, 
+because I should mention also that in both of their minds they were not confident 
+necessarily that the outcome would be the political change that would establish a 
+commission of this nature.  So certainly in their minds they envisaged that they may 
+10 
+never return to South Africa, and what they both needed was sufficient enablement, 
+funds which would, so that they could begin to build new careers outside of South 
+Africa and build new lives for themselves outside of South Africa. 
+ 
+Was there any understanding reached between yourself and Stan and 
+John at that meeting in regard to the detail of any financial support to enable them to 
+live outside the country?  ---  The understanding was that we agreed that a period of 
+two years would give them an opportunity to re-establish themselves, but also we felt 
+that a period of two years would be sufficient to see which way the wind blows in 
+South Africa, and whether that which appeared to be happening and I think was 
+happening, and we know was happening could be reversed and we could achieve a 
+20 
+different political context and environment in South Africa within that two year period.  
+And that agreement was something which really was from the date that they left, the 
+time that they left South Africa. 
+ 
+Do you know when they left South Africa?  ---  It was June/July last year. 
+ 
+So when would that period of two years expire?  ---  June/July next year. 
+DAY 17, 27 September 2018 
+ 
+B. CURRIN 
+mb 
+Page 43 of 101 
+ 
+ 
+June/July 2019?  ---  2019. 
+ 
+Did you make any undertaking at the conclusion of the meeting or during 
+the meeting in regard to funding?  ---  I did.  I understood their situation completely 
+and I said that I would speak to people that I know, contacts that I have to try and 
+find South Africans with whom one would have to explain what this was all about to 
+get donations.  So that one could in fact, indeed enable them to leave for two years. 
+ 
+What else was discussed then at that meeting?  ---  What was also 
+discussed at that stage, in our own minds we were not sure how – what would be the 
+best strategy and the best approach in building this public pressure to which would 
+then enable civil society to speak out and to demand that there be public 
+10 
+accountability.  And there were various options that were discussed and we literally 
+considered everything.  Should one take it overseas and get pressure, international 
+pressure.  Should it be done within the country?  Should one give it to all the media 
+overnight?  Should one rather embark on a process which is the one that we 
+eventually decided upon to, you know to get experts to study and to prepare well 
+thought through articles which in turn would be published and slowly build this sort of 
+pressure.  And this would require very, very responsible journalism. 
+ 
+Were you concerned about the safety of the devices concerned?  The 
+original hard drive and the clone that you learned about?  ---  Absolutely.  We 
+obviously were concerned that either Stan or whoever is in possession of these hard 
+20 
+drives may well be identified and that they could be confiscated, so that was a deep 
+concern. 
+ 
+Did you meet with Stan again on 1 March 2017?  ---  I did, yes. 
+ 
+What happened at that meeting?  ---  Let me just get to that meeting.  
+Thank you.  There were so many meetings.  Well one has to just go back a step and 
+DAY 17, 27 September 2018 
+ 
+B. CURRIN 
+mb 
+Page 44 of 101 
+ 
+that is to say that clearly I knew that I would need more than CD's and that I would in 
+fact need something more, hard drives with more information on them.  So on that 
+meeting on 1 March, having made the request earlier on I was handed two hard 
+drives. 
+ 
+Just to clarify, because it can become confusing and will become a little 
+more complex as we go through your evidence.  The  CD's had copies of some of 
+the files on the original data set?  ---  That is correct. 
+ 
+On the hard drives?  ---  Yes. 
+ 
+The hard drives themselves, however, which you talk about now were 
+more comprehensive in their content?  ---  Yes.  They had copies of the recovered 
+10 
+files on the original hard drive that was being held in safekeeping. 
+ 
+Alright.  ---  So they had much more information on them.  I should 
+mention also that both of those were password protected and I was at that stage not 
+given the password. 
+ 
+Right.  Now these two hard drives that you are referring to, was it agreed 
+between you and Stan how they would be dealt with?  ---  Yes.  So now we are 
+meeting on a regular basis and as I said taking all sorts of safety precautions, but 
+have no idea whether we are being observed or listened to and what we agreed was 
+that neither he nor I should have possession of either of those which contained 
+evidence which clearly was very relevant to the emails.  Very relevant to the 
+20 
+allegations of state capture.  So what we agreed was that I would take one abroad, 
+at least get something out of South Africa's jurisdiction, so that if indeed there was a 
+swoop and they were seized, extensively for justifiable reasons by authorities who 
+had another agenda, at least there would be one copy abroad and the second copy I 
+did not want to retain possession of, and that copy I gave to a friend who I have also 
+DAY 17, 27 September 2018 
+ 
+B. CURRIN 
+mb 
+Page 45 of 101 
+ 
+known for many years, Mark Haywood, as we now well known social activist and I 
+arranged to meet him very discreetly and handed over the second hard drive. 
+ 
+Did you make any request to Mr Haywood?  ---  Yes, we all associate 
+Mark Haywood also with the safe South Africa campaign, I assumed through that he 
+would have access to potential funders.  I was still looking for the money that was 
+required and I asked him if he would speak to his contacts to see whether he could 
+help also with fundraising. 
+ 
+In regard to the probable or possible authenticity of the emails or 
+otherwise, did you consider that position, and if so take any steps?  ---  Yes, at this 
+stage all we have really got is what I have seen content of the CD's.  Obviously what 
+10 
+we needed, Chair, was for people with expertise, particularly, and we are talking 
+about expertise in Gupta affairs to view a much more sort of, many, many more 
+emails and for them to assess as far as they could the authenticity of the emails.  
+And at that stage I did not know that both Daley Maverick and Amobongani were 
+leaders in investigative journalism and I also knew that Stefans Brummer was 
+probably the expert in Gupta affairs.  He had been writing about the Gupta's for 
+about three or four or maybe five years at that stage.  So I also needed access to 
+them and I asked Mark Haywood if he knew either or both of them and he was able 
+to very quickly – enable me to make contact or through him to make contact with 
+Bronco Brkic who was the editor in chief of Daily Maverick. 
+20 
+ 
+Brkic is spelt Brkic[spelt]?  ---  That is correct. 
+ 
+Did you meet with Mr Brkic?  ---  I certainly did very soon after I met with – 
+well not very, but certainly some time after I met with Haywood and we maybe, 
+before I talk about that meeting I wanted to inform Brkic about the hard drive and 
+also discuss with him their ability to analyse the emails and to give a prima facie 
+DAY 17, 27 September 2018 
+ 
+B. CURRIN 
+mb 
+Page 46 of 101 
+ 
+view.  But I need to go back a step.  At that stage we were still not looking at making 
+available the actual hard drives.  We were still only going to be making available the 
+CD's, because the availability of hard drives would come at a later stage. 
+ 
+Okay.  You say you did meet with Mr Brkic?  ---  Yes.  I met with him on 
+two occasions.  It was quickly after one another.  The first one was really to be 
+introduced to him and for me to tell him what we believed we had and to ask whether 
+he felt that they would be able to do an analysis and at that stage it was to be of the 
+CD's.  Understandably at that first meeting he wanted, he asked if he could see the 
+CD's which I did not take with me, and we met again shortly thereafter and at that 
+second meeting I handed him the CD. 
+10 
+ 
+Do you know what he did with that CD?  ---  He shared the content of that 
+CD with Brummer who is the cofounder of Amobongani, Amobongani investigative 
+journalism, so they then perused those two CD's and within a few days, Chair, they 
+averted to me advising that the emails fitted very well with the Gupta investigations 
+and articles that they had been written over a number of years, where for example 
+they have written articles and certain stuff was not there and they speculated, and 
+now suddenly they would read an email which will fill in a gap, in respect of which 
+they just did not possess previously. 
+ 
+Alright, did they or was an opinion about the authenticity of the emails 
+expressed to you, and before you answer that question, we do not necessarily ask 
+20 
+you to rely on that opinion, so it might be given as part of the evidential narrative. 
+CHAIRPERSON:  Yes.  ---  In their view the authenticity of the emails was highly 
+probable.  That was their prima facie view, just purely on looking at the CD's. 
+ADV PAUL PRETORIUS SC:  And at that meeting did anything occur in relation to 
+the well being of the whistleblowers?  ---  Yes, and here we are talking about the 
+DAY 17, 27 September 2018 
+ 
+B. CURRIN 
+mb 
+Page 47 of 101 
+ 
+second meeting with Brkic.  I raised with Brkic the question of the need for funds and 
+he certainly understood, motivated why and he understood clearly and he too said 
+that he would speak to some of his contacts. 
+ 
+Did meetings take place between yourself and Stan during the course of 
+March 2017?  ---  At that stage we were meeting fairly regularly or regularly.  
+Essentially, because partly we were building this mutually trustful relationship, but 
+also he knew that some information was out there, taken off the CD's.  He was also 
+feeling insecure, because he at that stage did not have security funding and also we 
+met regularly to talk about what we were doing, what I was doing, people that I had 
+approached to request for funds. 
+10 
+ 
+And were those efforts successful or relatively successful?  ---  The 
+fundraising efforts? 
+ 
+Yes?  ---  In time they were.  Certainly in time for the whistleblowers to 
+leave the country.  There were ups and downs.  There were promises that did not 
+materialise, but there were others that certainly did and I need to emphasise 
+obviously that until such time that there was security in that sense, Stan had made it 
+quite clear that he would not provide me with the password in relation to those two 
+hard drives, which I had been handed, one of which was overseas and one of which 
+was being held by Mark Haywood. 
+ 
+During or around March 2017 did Stan and you agree what interaction 
+20 
+there should be with the investigative journalist that you have mentioned?  ---  We 
+did.  The investigative journalists, for two reasons, one they were wanting to see 
+much more, but secondly Bronco Brkic who was attempting to raise funds and 
+obviously those who he was speaking to needed to hear from him more about the 
+DAY 17, 27 September 2018 
+ 
+B. CURRIN 
+mb 
+Page 48 of 101 
+ 
+authenticity of these emails, were putting pressure on me to get access to the 
+password code of those hard drives, or the hard drive that was in the country. 
+ 
+At this stage the communications with the investigative journalists were 
+they aimed at immediate publication or were they aimed at further 
+investigation?  ---  Yes, they were not aimed at publication.  For two reasons, they 
+understood fully that there was no way that anything could be published until the 
+whistleblowers were out of the country and secondly being investigative journalists 
+they both wanted to become as oevey as possible with the content of if possible the 
+entire 300 000 emails, which probably is an impossible task, but certainly with as 
+many as possible that related to the stories that they felt would be hugely hopeful in 
+10 
+taking the whole process forward.  So the plan then was that if they got the email, 
+the password and code that would purely be for the purposes of further 
+investigations, but not of publication. 
+ 
+Did you attempt to pursued Stan then to reveal the password and 
+code?  ---  I did, and some success at that stage was achieved in raising some 
+funds.  So funds began to come in and he then also understood that in order for 
+those who had been approached to raise the bulk of the funds they would need to be 
+convinced that these emails are not just copies on CD's, but much more, were 
+indeed authentic and for that reason he agreed.  For those reasons he agreed to 
+provide the password in order for Brkic to gain access and Amobongani to gain 
+20 
+access to the hard drive. 
+ 
+Right, and did that happen?  ---  Yes. 
+ 
+Was access granted to Mr Brkic?  ---  That indeed happened and I 
+retrieved the hard drive in South Africa from Mark Haywood and subsequently I 
+made the content of that hard drive available to Brkic and shortly thereafter  
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+CE 
+ 
+ 
+Page 49 of 101 
+ 
+I provided them with password and code so that they could then access the content. 
+Did they revert to you?  ---  They certainly did within a few days I received a 
+very positive response, Chair, from both, Brkic and Brummer in regard to the content 
+of the hard drive that remained in South Africa. 
+Did they tell you what they intended to do?---  Ja at that stage, in accordance 
+with our thinking and their own thinking, the plan was to put together a significant 
+team of the most experienced investigative journalists in South Africa and for them 
+all to sit day and night, going through this ( [1:06] indistinct) mails and to put an 
+entire story together to identify certain themes, certain, particular events and in fact 
+to locate themselves outside of South Africa.  Because they too work on sand that if 
+10 
+they were sitting with this hard drive that had at that stage been opened and they 
+were doing this work and tomorrow they started publishing one article, that there was 
+a possibility either the law enforcement agencies, or the Hawks, or whosoever, might 
+come in and confiscate.  So their plan was to actually take all of this and do the 
+exercise abroad and then start incrementally publishing from abroad. 
+Do you know what their anticipation was in regard to the date from which 
+publication would start?  ---  They were looking at beginning publications roundabout 
+September. 
+2017?  ---  2017, Which was sort of three, four months after they were given 
+access. 
+20 
+Was there another advantage and delay in publication..(intervenes)  ---  Well 
+the other advantage … 
+…(indistinct) in relation to stand ([02:34] indistinct)  ---  Absolutely ja.  The 
+other advantage was that for both Stan and John, it was easier said than done.  
+Leave South Africa tomorrow.  They had lives that they needed to sort of close off 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+CE 
+ 
+ 
+Page 50 of 101 
+ 
+here, there was much that had to be done, there were wives that, that had lives that 
+also needed to be wind up and bearing in mind that there was a prospect that at that 
+stage they would leave South Africa permanently and you know as much I was put in 
+pressure, you need to leave sooner rather than later, as were all of us I think, 
+certainly, I know the journalists too that we were working with, we just were 
+struggling to get to that point.  So it just gave them more time to close off their lives 
+and kept put everything together in order to leave South Africa.  So that delay really 
+actually helped the, that particular exercise. 
+At this stage, mid 2017, can you give the Chair at least your impression of 
+how many people would have known about what we have referred to as the ‘Gupta 
+10 
+emails’.  ---  Well there were really very few, there were people that I have told as I 
+have already indicated, certain members of my family knew, because I felt that I 
+needed to share that with them.  There were people that were being approached for 
+funding and they knew and of course the Amobongani, Dally Marverick, a number of 
+people within those confines knew.  Very, I would say confines smallish circle, but 
+enough to enable the work to be done and may I just add to that point, the fact that, 
+that much of this has been heard for the first time today, would indicate that, that 
+those who knew, certainly those who knew about my identity, never spoke about it. 
+You have told Mr Chair that publication would commence around September 
+2017, after a thorough investigative process have been taken, or had taken place at 
+20 
+the hands of investigative journalists.  You have also told the Chair that there was 
+some urgency in relation to Stan and John and their families leaving South Africa for 
+safe residence abroad, what happened during this period in relation to your 
+knowledge of the legality of Stan’s possession of the original hard drive and potential 
+challenges to his possession.  Again Mr Chair if I may interject, the witness will tell 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+CE 
+ 
+ 
+Page 51 of 101 
+ 
+us certain opinions received, but we will only ask you to rely on legal submissions 
+made by us. 
+CHAIRPERSON:  Thank you.  ---  I have been adlibbing a lot of this evidence, which 
+paragraph are we on, I just want to make sure that I’m, where I should be. 
+ADV PAUL PRETORIUS SC:  47.  ---  47 Thank you.  
+If you are satisfied that we’ve dealt with the material before that, we can go 
+on, if you’re not please …  ---  Ja, no I think I’m happy with that we I believe 
+…(intervenes)  
+Please tell me.  ---   …that we have ja.  So this is now April and things are 
+moving along and we soon can we have access to the content of this hard drive, 
+10 
+more than just the CD’s.  I needed to take legal advice on the legality of Stan’s 
+possession, which would also have a bearing on my possession and anybody else’s 
+possession, which I did, I took legal advice during the course of April and the advice 
+I got was by the nature of the facts, which I ([07:08] indistinct) but which were 
+presented to senior council, that the Stan’s possession of the hard drive was indeed 
+legal, lawful and in relation to the content of the, of the hard drive, which is a 
+different issue in law as we know, that the publication of the content would be in the 
+public interest, assuming that the content was indeed what it purported to be. 
+We mainly to clarify because the detail may become a matter of controversy 
+in due course.  At this stage towards the middle of 2017, when you say you had 
+20 
+access, or didn’t have access, what was the position with your access to, or 
+possession of firstly the devices, such as hard drives or CD’s and secondly the 
+content of those hard drives and CD’s?  ---  The original hard drive and, and the 
+clone were still in, were not yet in my possession, they were still in the possession of 
+the person to whom Stan had given them. 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+CE 
+ 
+ 
+Page 52 of 101 
+ 
+And we not really the identity of that person …(intervenes).  ---  No, no. 
+I understand in order to protect his safety and Stan and John’s safety.  ---  
+Absolutely ja.  The two hard drives that I had been given, I taken one overseas and 
+I’ve taken another to Mark Hayward.  None of us had access to the content of any of 
+those hard drives, this stage we only had seen the content of the CD’s. 
+On 20 April 2017, did Stan give you information in regard to John?  ---  Yes 
+now I had known about John for some time but John was not willing to meet with me 
+for some time, but I was advised then on the 20th April that indeed John was now 
+willing to meet with me and we met some time after that. 
+What happened on the 28th May 2017?  ---  Well at this stage things are sort 
+10 
+of going along according to plan pretty much, work was been done by Kumbugani 
+and we were doing what was necessary to secure the witnesses and on the 28th April 
+the Sunday Times broke …(intervenes)  
+28th May.  ---  Ag sorry, the 28th May 2017, the Sunday Times broke the 
+Gupta Legs story.  I got a call roundabout midnight on the 27th May, from Brkic who 
+asked if I had any idea where the Sunday Times had got the story, how they got it 
+and whether maybe I or anyone else for that matter, Stan possibly had been working 
+with the Sunday Times and then given them the information. 
+Had you and Stan been working with the Sunday Times?  ---  Absolutely, I 
+was totally shocked and deeply concerned as both Stan and John were still in South 
+20 
+Africa when that happened. 
+CHAIRPERSON:  I see that you, you have the two incidents not in the order, natural 
+order in which they happened, the publication and they called you from Bronco.  The 
+call came first before the publication, is it?  ---  Ja the, well, what happened was 
+there was publication on the, on the social media, internet, so roundabout eleven 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+CE 
+ 
+ 
+Page 53 of 101 
+ 
+o’clock that night, there was an indication of the story. 
+Oh okay so on the 27th in the night there was an indication … ---  Actually on 
+the, strictly speaking on the night of the 26th, before, just before midnight, there was 
+something on the internet, which indicated the story and then the Sunday Times 
+broke it.  But there was a connection, I, I mean I’ve looked and there seem to be a 
+connection between the breaking of the story and the Sunday Times. 
+ADV PAUL PRETORIUS SC: Perhaps we should let the Chair finish his question.  ---  
+Sorry my apologies. 
+CHAIRPERSON:  Yes, ja no I was just interested in the sequence because in terms 
+of your statement …  ---   Ja. 
+10 
+…the publication by the Sunday Times happened on the 28th May, but the 
+call to you from Bronco, was on the 27th …  ---  Ja.  
+…before midnight.  ---  Yes, yes. 
+So I was just saying that in terms of sequence, the call would have come first 
+and then the publication.  ---  Ja he think ja …(intervenes)  
+What you have said is before midnight there was something the social media 
+which may have …  ---  Exactly. 
+…given Bronco the idea.  ---  Exactly. 
+Okay alright.  Thank you.  ---  That is correct. 
+ADV PAUL PRETORIUS SC:  I asked you the question Mr Currin, in regard to 
+20 
+whether you had been working with Stan in co-operation or collusion with the 
+Sunday Times and you answered ‘absolutely’, is that what you intended to contain?  
+---  Absolutely not, absolutely not, we had not been working with the Sunday Times 
+and I have no idea, well I don’t know let me put it that way as a fact, how the Sunday 
+Times, where the Sunday Times accessed the information upon which they then 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+CE 
+ 
+ 
+Page 54 of 101 
+ 
+subsequently wrote reports. 
+Perhaps that may be explained in the fullness of time.  ---  That is correct. 
+This from your point of view at least, unanticipated breaking of the Gupta 
+emails in the public domain, what effect did it have in relation to Stan, John and their 
+families?  ---  Well it caused huge anxiety, we, it was just, very, very problematic, it 
+obviously also impacted on their trust in the process that we were following, their 
+trust in what I was doing and was it possible that this had happened since from our 
+perspective this has all been dealt with and managed very tightly by both the Dally 
+Marverick and Amobongani at that stage.  So, and of course also they felt extremely 
+vulnerable because they were still in the country. 
+10 
+CHAIRPERSON:  Yes. 
+ADV PAUL PRETORIUS SC:  What had to be done?  ---  Well there were two 
+urgent, well first of all they needed to get out of the country sooner rather than later, 
+again which was easier said than done, because by that stage there was plenty that 
+still needed to be done in the country, but there were two outstanding matters, that 
+now needed to be expedited before they left the country.   
+ 
+The first was obviously before they left given the objective of this 
+exercises, project that one may call it that I needed to get the original hard drive at 
+its clone into my possession to be held in safe keeping, in anticipation of hopefully a 
+process which might result in investigations into the emails.  So that was the first 
+20 
+thing that needed to happen and secondly also I needed to obtain affidavits from 
+both Stan and John and so those are the two things that needed to be done very 
+quickly. 
+Do you know what the attitude of Stan and John is towards the release of 
+those affidavits to this commission?  ---  Yes. 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+CE 
+ 
+ 
+Page 55 of 101 
+ 
+In camera or in open session?  ---  Maybe firstly the understanding that we 
+had about the affidavits, both of them understood fully that in order to enhance the 
+evidential value of the original, but let me say it was ([16:23] indistinct) our thinking 
+at that stage it would not be the original because we didn’t think that one would ever 
+be able access off the original, but certainly from the clone that the evidential value 
+of those would require supporting affidavits and although they were certainly 
+reluctant initially, both understood that and I motivated it on the basis that if 
+something were to happen to either or both of them, and all if, for example, they 
+were to leave the country forever and for their own reasons, refuse to come back to 
+South Africa to testify, that in that eventuality those and only in eventuality, those 
+10 
+affidavits would then be used.  But also they both required to have that sort of two 
+year period enable themselves to establish themselves, before any evidence from 
+them be placed before this commission.  Once again speaking to their own sense of 
+safety and security. 
+So we know then that firstly the disclosure of the affidavits at this stage, 
+would reveal their true identity?  ---  That is correct. 
+We know too that they do not wish at all costs for this to occur at this stage.  
+It may be appropriate we know thirdly that this be done in the course of time, 
+hopefully sooner rather than later.  ---  That is correct. 
+Were you told anything then about a second clone of the original hard drive, 
+20 
+or of a clone of a clone?  I am at paragraph 56.  ---  Yes, I was later told that a good 
+friend of Stan was in possession of a second clone, which was the clo… … a clone 
+of the master clone of the clone, which was taken of the original. 
+Right.  ---  Which was in our view, was then the  best evidence. 
+So in relation to both these clones, and I hesitate to use the word ‘cloned 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+CE 
+ 
+ 
+Page 56 of 101 
+ 
+copies’ but in relation to both these clones what was your view, or how were these 
+clones regarded in relation to the existence as best evidence?  ---  Well the clones at 
+that stage in my view were the best evidence and that was based on the advice, 
+expert advice I was given that the, it was highly unlikely that the original would ever 
+be able to be sufficiently well repaired to be able to actually then once again transfer 
+data from. 
+What happened on the 29th May 2017?  ---  On the 29th May, Stan handed 
+over to me the original hard drive and one of the clones.  He had collected them the 
+same day from his close friend that he’d given them to and who held them in safe 
+keeping from the pre… when he had handed them over some time, some months 
+10 
+earlier. 
+What did you do, having received the original hard drive and one clone?  ---  
+I certainly didn’t want to retain possession of them and immediately on the same 
+day, Chair, without them leaving my sight, I took both of those hard drives, the 
+original and the clone, which I received, to the offices of Mr Greg Knot who is a long 
+time friend of mine and who is a partner at Norton Rose Fullbright, for safe keeping 
+in their facility which some of these law firms have and that is where they were 
+taken. 
+What happened then?  ---  Well you know I think in terms they were signed 
+for and necessary steps were taken which I think I dealt with in a subsequent 
+20 
+affidavit, which I am not going to speak to now. 
+You say formal steps were taken to record the receive to safe keeping?  ---  
+The receive and safe keeping and so on ja, that is correct Chair.  Uhmmm 
+…(intervenes)  
+Did you …  ---  Ja? 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+CE 
+ 
+ 
+Page 57 of 101 
+ 
+I’m sorry I interrupted you.  ---  No you’ve, carry on. 
+Did you then proceed to obtain affidavits from Stan and John?  ---  I then 
+certainly proceeded to do precisely that and that was done during the course of June 
+Chair. 
+Are these in safe keeping?  ---  Those affidavits are in safe keeping and I just 
+mention I actually had took two originals, so there are two originals of each affidavit 
+and they are separate.  So I did that in case they were con… they were confiscated 
+then there would be another set somewhere else. 
+Now obviously in order to respect the integrity of the whistle blows, their 
+wishes and your agreement and understanding with them, we ought not to say 
+10 
+anything about the content of those affidavits which might reveal identity.  ---  
+Absolutely. 
+But are you able to say having finalised the affidavits, that the contents are 
+consistent with what you’ve told the chair today?  ---  It is actually consistent with 
+what I’ve told the chair and much more which I have not revealed. 
+Did anything occur in the country at around the stage that allowed you to 
+reach the conclusion that had might be appropriate to release the hard drive and a 
+clone copy?  ---  Yes, so when we, when I received the possession and placed them 
+with Norton Rose Fullbright, the political situation in the country was such that I just 
+felt that one would not, could not make their possession to advice anyone of their 
+20 
+possession besides the very small group of people that had already knew and as I 
+had indicated Chair, the consensus which we had and the whistle blows and me, 
+was that if we, if there was a situation in the country that would arise that might 
+change that, one could then review the possession and obviously we’d hoped that 
+would indeed happen as a consequence of the publication of the content of the 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+CE 
+ 
+ 
+Page 58 of 101 
+ 
+emails.  And as we know during the latter part of 2017, the pressure built because of 
+the publication of the emails and many of the I thought, excellent articles that were 
+written as a consequence of the work been done, the analyses of the content of 
+those emails and then of course the election of President Ramaphosa as president 
+of the African National Congress and the subsequent elevation to the position of 
+president of South Africa and subsequent U Chad Deputy Chief Justice, Zondo as 
+chairperson of this commission of inquiry into State Capture, as well as the naming 
+of the evidence leaders and the finalisation of the commissions in terms of reference 
+which previously had caused me a level of concern, but those having been I think 
+amended and published, will all positive indicators of an inquisitorial ([25:08] 
+10 
+indistinct) process that would indeed be independent and credible.  A process with 
+which I felt I could engage with absolute confidence. 
+That is then the period towards the end of 2017 and the beginning of 2018 
+that you’re referring to?  ---  That is correct. 
+Moving into 2018 would this be appropriate, an appropriate time for the long 
+adjournment? 
+CHAIRPERSON:  Excuse me yes no I think that is in order.  We’ll take the lunch 
+adjournment and we’ll come back at two.  ---  Thank you Chair. 
+ 
+We adjourn. 
+HEARING ADJOURNS  
+20 
+ 
+ 
+ 
+ 
+ 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+CE 
+ 
+ 
+Page 59 of 101 
+ 
+HEARING RESUMES  
+CHAIRPERSON:  Yes Mr Pretorius. 
+EXAMINATION BY ADV PAUL PRETORIUS SC (continues): Thank you Chair.  Mr 
+Currin, we had moved on to 2018, to you meet with Stan on 15th January 2018?  ---  
+That is correct yes. 
+ 
+Where did you meet?  ---  That is correct I did.  I travelled to London and 
+met him there. 
+ 
+And what was the purpose of the meeting?  ---  Well as I had sketched 
+before the break, there was clear evidence that the political situation in the country 
+was changing, it was improving, enabling things to happen, which could not have 
+10 
+happened previously in certainly in my assessment and I needed to go and share 
+that, discuss that with Stan and also to raise with him the idea that this would be the 
+time to make the original hard drive and clone available to the authorities that would 
+need it. 
+ 
+While you were abroad, did you learn of anything that had happened of an 
+untoward nature in South Africa?  ---  While I was in London, I actually got a call from 
+one of my colleagues at my office in Johannesburg, to say that the American 
+authorities had arrived and wanted to meet with me and they obviously didn’t know 
+who that was, but essentially just said well I will deal with it when I get home and I 
+got home a few days later and on my return, I contacted the person who’d left the 
+20 
+number and within a very short period of time I met with that person at the end of 
+January this year. 
+ 
+When you refer to American authorities, you’re referring to United States 
+authorities?  ---  Ja US authorities. 
+ 
+Did you learn what they knew?  ---  Well in the first instance I, I wasn’t 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+CE 
+ 
+ 
+Page 60 of 101 
+ 
+sure about what they wanted to speak to me because I didn’t think that they would 
+know about my role in relation to the hard drive, but I mean not being totally naïve, I 
+thought well maybe they do know and certainly when I met with them they knew my 
+role, they knew my name, they wouldn’t tell me who told, how they ascertained that, 
+they knew about one of the whistle blowers, Stan, they said they did not know his 
+true identity and what they said they want or they advised me that they were doing 
+certain investigations of an international nature and that they would like to meet with 
+Stan and also to have access to the evidence. 
+ 
+Did you contact Stan?  ---  I immediately contacted Stan, he was 
+absolutely adamant, and rightly so, that the evidence would not be made available to 
+10 
+them at least not at any initial meeting, but he was willing to meet with them, so that 
+one could sort of ascertain, well firstly what they wanted, but also what they knew, 
+how much they knew, because obviously that was quite relevant to, or we needed to 
+know what they knew, put it that way. 
+ 
+But happened then on the 19th February 2018?  ---  Well I made all the 
+arrangements with the US authorities here in South Africa to whom I was making 
+these arrangements and we met in a third country on the 19th February.  We all 
+travelled there, the American authorities travelled there, I travelled there and Stan 
+also travelled there. 
+ 
+Was there any arrangement or understanding reached at that meeting?  --
+20 
+-  At that meeting, Stan agreed after fairly long discussion conversation that we 
+would make available to the American authorities on a later date, the first clone of 
+the original, which according to our assessment, was the best and most reliable 
+evidence at the time.  We were absolutely adamant that they would not be given 
+access to the original. As you just mentioned that the second whistle blower, we 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+CE 
+ 
+ 
+Page 61 of 101 
+ 
+were hoping that the second, second whistle blower would also be there, 
+unfortunately he couldn’t get there on time, he arrived the following day.  I already 
+left, but I know that he and Stan did meet and he was then briefed on the outcome of 
+the meeting. 
+ 
+Was there any further arrangement or understanding reached with the 
+American or United States authorities?  ---  Yes.  Now since we had agreed to make 
+available Chair, the best evidence, which from our perspective needed to be 
+available elsewhere, we had South Africa in our minds, we agreed, well the 
+Americans gave us an undertaking that they had excellent equipment which would, if 
+they then used that equipment to make an image of the forensic copy that we have, 
+10 
+that Stan had, that the integrity of that copy would be protected. 
+ 
+That’s the clone is it?  ---  That’s the clone, my apologies.  So we agreed 
+that we would meet then again in another country, where that exercise would be 
+done. 
+ 
+What was this other country?  ---  The other country we agreed to meet 
+was Nairobi, ag sorry, Kenia, in Nairobi and it was chosen essentially because 
+outside of South Africa, it was the most convenient country for everyone where this 
+equipment which the American US authorities could provide, would be available that 
+would protect the integrity of that particular clone.  So maybe I should just add that at 
+that stage even when that discussion was taking place, certainly in my mind was that 
+20 
+there, that that process and that meeting would need to be attended by appropriate 
+representatives from South Africa in the capacity in the context of this particular 
+commission. 
+ 
+Mr Currin did working with the US authorities raise any issues for you and 
+Stan?  ---  Yes and that speaks to the point that I just made about the South African 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+CE 
+ 
+ 
+Page 62 of 101 
+ 
+authorities been present when this exercise takes place.  Stan and John were 
+adamant right from the outset for certainly a principle that they emphasized in which 
+we all bought into namely that this should always be seen to be a South African 
+process, driven by South Africa, driven by South Africans in the interest of South 
+Africa and not a foreign initiative. 
+ 
+At this stage then, was there any understanding reached with Stan and 
+John in relation to the ultimate fate of the original hard drive and the clone?  ---  Ja, 
+so given these discussions that we’re having with the American authorities, given 
+also that it was my intention and there was an agreement that we would be 
+approaching this body on my return, we decided that the information about the 
+10 
+presence of an original hard drive in South Africa was beginning, could begin to 
+spread much more widely than what it had and therefore we agreed that the original 
+and the first clone, in our view then the best evidence, should be removed from 
+South Africa as soon as possible,  before the actual trip to Nairobi. 
+ 
+What did you do in pursuance of this consideration?  ---  What I then did 
+was I arranged to uplift the original and the clone from the safe keeping at Norton 
+Rose Fullbright and that I did on the 16th March this year. 
+ 
+You uplifted the original hard drive and the clone you say, what did you do 
+with it?  ---  I then took the sealed package as I had received it, which was in the 
+same seal and as it had been when I deposited there and …(intervenes)  
+20 
+ 
+Sealed package containing the hard drive and clone?  ---  The packing 
+containing the package the hard drive and the clone, I took them to my home in 
+Pretoria on the same day and kept them in a safe place and the very next day I took 
+these items with me to OR Tambo Airport on route to Nairobi.  We decided that since 
+the next process would happen in Nairobi, it would be wise to get them to Nairobi, 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+CE 
+ 
+ 
+Page 63 of 101 
+ 
+not have to move again, because obviously taking evidence of this nature, this highly 
+sensitive and important evidence through airports and through controls and so on, 
+one never knows what, what could happen, so we therefore decided to take them to 
+Nairobi.  I had arranged to meet the person, my lawyer, Greg Knot at OR Tambo, I 
+felt it was very important to have a lawyer with me, if I am now moving with these 
+very valuable packages outside of South Africa or through the airport and so on.  But 
+before leaving my home, I decided it would be wise to actually separate the clone 
+from the original, so that whoever is carrying them, if apprehended, would not then 
+be found with both.  So I then separated them and met with Mr Knot at the OR 
+Tambo, he being the lawyer and I being my lawyer and a proper lawyer not like me, 
+10 
+being a real lawyer, he would I think it would be far more difficult for authorities to 
+confiscate from him than from me.  So he then carried the original and then carried 
+the copy and we boarded separately. 
+ 
+You then arrived in Nairobi?  ---  Yes we arrived in Nairobi and then we 
+went directly to, we went directly to the hotel and we then put the two together again, 
+sealed them, so that they could be handed over to an attorney that have been pre-
+warned of our arrival and an attorney that had given an undertaking that he would be 
+able to keep them in safe, in safety and safe keeping until we returned to Nairobi at a 
+later date. 
+ 
+Right, you then, I presume, returned to South Africa?  ---  I did and on my 
+20 
+return, in fact according to my notes on the very next day I made contact with this 
+commission and made arrangements to meet with members of the legal team as 
+soon as possible.  Unfortunately people that I contacted we knew one another for a 
+number of years and they literally agreed to meet with me the very next day. 
+ 
+And you met with them?  ---  I met with them. 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+CE 
+ 
+ 
+Page 64 of 101 
+ 
+ 
+Did these meetings give rise to a subsequent trip to Nairobi?  ---  That is 
+correct, so now …(intervenes)  
+ 
+When did that take place?  ---  That took place on the 11th and 12th April. 
+ 
+Who attended these meetings?  ---  In Nairobi now? 
+ 
+Yes.  ---  Okay so we’re back in Nairobi and we attended those meetings.  
+The two whistle blowers plus the Stan’s wife, together with the American US 
+authorities as well as three representatives of this commission.  They all attended 
+and the purpose of the meeting, were from my perspective two-fold Chair, the one 
+was obviously to facilitate, or to be there and to witness and to ensure that the copy, 
+the imaging of the clone would be done strictly in accordance with forensic and 
+10 
+expert methodologies.  But secondly also to introduce the whistle blowers to the 
+commission. 
+ 
+Right, let’s just obtain clarity in this regard, you together with not had on 
+an earlier occasion taken the hard drive and one clone of that hard drive, of the 
+original hard drive to Nairobi?  ---  Absolutely ja. 
+ 
+It was their place in safe keeping with an attorney?  ---  Yes. 
+ 
+Who have made certain undertakings regarding that safe keeping?  ---  
+That is correct. 
+ 
+You then met with members of the legal team of the commission which 
+meeting gave rise to a subsequent trip to Nairobi?  ---  Correct yes. 
+20 
+ 
+Was the hard drive and forensic copy then retrieved from that attorney in 
+Nairobi?  ---  Yes so we, when we arrived not arrived before I did, because I had 
+another aspect of the project to implement, which was to meet these second whistle 
+blower, so we all then met converged in Nairobi and sir Knot then facilitated the 
+retrieval of the original and the clone in Nairobi which was then brought to that very 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+CE 
+ 
+ 
+Page 65 of 101 
+ 
+first meeting. 
+ 
+To the extent ([17:17] indistinct) not going to give evidence in the course 
+…  ---  To the extent he can give evidence. 
+ 
+You spoke about a forensic copy been made by the US authorities and 
+you stated that that would be a copy made of the clone?  ---  Yes. 
+ 
+May I ask during this whole process between 11 and 12 April 2018, was 
+the hard drive ever subjected to any process and I am talking about the original hard 
+drive?  ---  No, the original hard drive wasn’t other than there it is, look at it, it wasn’t 
+touched for any purpose whatsoever and no attempt was made.  Stan would 
+absolutely insist that according to the sort of expert advice we were all given that it 
+10 
+should be touch anyone and certainly the equipment that was there to make a clone 
+of the clone, would not be sufficient to ensure that a clone could be made of the 
+original.  Bearing in mind also that the original we knew had been damaged and it 
+would need to be repaired and that could be a lengthy exercise. 
+ 
+Mr Currin the original hard drive which you say was there, but was not 
+handled or operated on rather in any manner whatsoever, was that appropriately 
+marked and sealed?  ---  It was appropriately marked and sealed. 
+ 
+After the visit to Nairobi, did you, Knot and the commission 
+representatives return to South Africa?  ---  We did, we did return, I think that maybe 
+just to mention there had been a discussion around what would happen to the 
+20 
+original, where the original would go.  There was a bit of a tussle there in the sense 
+that the American authorities also wanted the original, but that did not happen and 
+we certainly insisted that the original be returned to South Africa. 
+ 
+Right. ---  As well as obviously the clone, the original clone but I just 
+mention also that at that Nairobi meeting, clones of the clone were made, one for the 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+CE 
+ 
+ 
+Page 66 of 101 
+ 
+American authorities and one also for the commission. 
+ 
+Now what happened to the original hard drive, either in Nairobi or in South 
+Africa in relation to its hand over to the commission?  ---  Before we left Nairobi, 
+knowing full well that we’re returning to South Africa, with the original and the clone, 
+the two most valuable pieces of evidence, there was concern even in the minds of 
+the commission representatives about bringing it into South Africa and particular 
+arrangements were made from Nairobi to ensure that when we travel back to South 
+Africa and let me just also say, that because the commission had no jurisdiction in 
+Nairobi, they would not accept delivery of the hard drive and the clone in Nairobi, 
+which disappointed me hugely, I was hoping to get rid of them.  So we then had to 
+10 
+travel back to South Africa, but we did so together with our colleagues from the 
+commission and when we arrived at OR Tambo there were special measures had 
+been taken to, to meet us by the commission, in fact by Mr Ncobende, …(intervenes)  
+ 
+Nombembe.  ---  Nombembe who was at the commis… who was at the 
+airport to receive us. 
+ 
+Who physical carried the original hard drive and clone to South Africa?  ---  
+It was Mr Knot, if I remember correctly. 
+ 
+And were you present?  ---  I was present yes. 
+ 
+And were you present when Mr Knot met with Mr Nombembe?  ---  We 
+were all together and then we handed it to him. 
+20 
+ 
+Did you observe that hand over …(intervenes) ---  I observed the hand 
+over to Mr Nombembe. 
+ 
+Did you then and I don’t think this is controversial accompanied Mr 
+Nombembe and Mr Knot to a place of safe keeping?  ---  We all travelled together in 
+a blue light ([22:22] inaudible) to the, to this venue in, in Pretoria and took many 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+CE 
+ 
+ 
+Page 67 of 101 
+ 
+hours I can tell you to eventually go through the whole process of receiving and 
+registering and locking up in a very, very safe place, the original and the forensic 
+copy that …(intervenes)  
+ 
+By this time then as I understand from his affidavit and his application, Mr 
+Nombembe was in charge?  ---  By that stage Mr Nombembe was in charge and he 
+was now the possessor and the commission was now the possessor. 
+ 
+At the meeting in Nairobi, was there any agreement or arrangement or 
+understanding in regard to the fate of the original hard drive and clone and in regard 
+to its further use?  ---  Yes.  Because we were all so acutely aware of the damage to 
+the hard drive, the original, however I think it was hoped that somehow one might be 
+10 
+able if the right experts were used and the right equipment, that the commission 
+might be able to actually make an image clone of that original.  It was agreed that 
+those efforts would be made, but they would be made in consultation with the, with 
+Stan.  Very important that in my view because essentially he was the original 
+custodian of this piece of evidence and felt it was absolutely essential that he should 
+be really included in the decision as to where it should go and so on, so that yes 
+subsequent to returning to South Africa, that that original would then be subjected to 
+a process which would possibly repair it and then if so make a clone which the 
+commission could make themselves, which of course would make a big difference 
+and cut out a lot of the evidence, otherwise it would have to submitted in relation to 
+20 
+the clones and what happen to them and so on and so forth.  That was the one 
+aspect. 
+ 
+Was there any arrangement or understanding or agreement, in relation to 
+who would be responsible for the safe keeping of the hard drive and the clone?  ---  
+The commission would be responsible for the safe keeping of the hard drive and the 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+CE 
+ 
+ 
+Page 68 of 101 
+ 
+clone. 
+ 
+And what would be the ultimate purpose of that safe keeping?  ---  As I 
+indicated to keep it until such time as the commission has been able to identify the 
+top experts in the world, we were talking about who would be able to do this exercise 
+in a seamless fashion without the original collapsing which the chances were great 
+that it would, but at least the best effort would be made to ensure that it was a 
+successful exercise.  Alternatively then to, to use the original clone and I just need to 
+make one point about that particular clone.  The commitment which we had given to 
+this commission, was that we would take to Nairobi the master clone, which is then 
+the clone that was made of the original and that that clone which was the best 
+10 
+evidence probably, disregarding for a moment the original, that that best evidence 
+would then be cloned for both the commission and the American authorities.  When 
+we opened and started working with that clone, it transpired that it was probably not 
+the clone of the original, but rather the clone of the clone, because two clones were 
+made at the first instance.  One of the original and then a clone of the clone was 
+made and it then transpired that actually what had we taken to Nairobi, was the 
+clone of the clone. 
+ 
+I’m not sure that there for present purposes at least there is any forensic 
+distinction of note between the various clones, they will all be forensically dealt with 
+in evidence in due course, but apart from the distinction between the various clones, 
+20 
+what was the understanding, because you haven’t been express about this.   ---  Ja. 
+ 
+About the ultimate use of the data on these devices, what was envisaged 
+by the whistle blowers and by yourself?  ---  The ultimate use was precisely what we 
+are doing at the moment.  The ultimate use of the, of this evidence was to be able to 
+make it available to a credible commission of inquiry in South Africa, that would be 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+CE 
+ 
+ 
+Page 69 of 101 
+ 
+able to use it in order to ascertain the, the veracity of the emails and all the other bits 
+of evidence to assist this commission with its work enable to make appropriate 
+recommendations so that the scourge of corruption in this country in both the public 
+sector and the private sector, could be addressed.  That was the ultimate objective. 
+ 
+Right, now if you would look at paragraph 87, the last paragraph of your 
+statement, you will see there in the second line, that you use the words ‘after 
+consultation with Stan’.  ---  Yes. 
+ 
+You say  
+                   “it was furthermore agreed by everyone present at the meeting 
+and this is the Nairobi meeting that the commission would at a 
+10 
+later stage, after consultation with Stan attempt to undertake a 
+successful recovery and forensic imaging of the original hard 
+drive”.   
+---  Yes. 
+ 
+In evidence now, you’ve used the words in consultation with, are you 
+aware of the rather formal approach that our courts have taken to the words ‘in 
+consultation’ with’ and  ‘after consultation with’ and the formal distinction between 
+them?  ---  Yes I am aware and it was after consultation. 
+ 
+So let me, if I may because in terms the rules I must ask, before I may ask 
+a leading question Chair, did you understand that there was any understanding that 
+20 
+Stan would have an ultimate ([29:54] indistinct) on the fate of this hard drive?  ---  
+None. 
+ 
+The original hard drive.  ---  He would not. 
+ 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 70 of 101 
+ 
+ADV PAUL PRETORIUS SC:  Before I may ask a leading question Chair, did you 
+understand that there was any understanding that Stan would have an ultimate veto 
+on the fate of this hard drive?   -----    No. 
+ 
+:  On the hard drive.  ----  No, he would not.  There would be a need to 
+consult, but certainly there was no question of having a veto. 
+Mr Currin the statement that you have in front of you, or had in front of you was 
+amended in your writing.    ------  Yes. 
+ 
+  Would you look at this document, do you have copy?   ------  I have a 
+copy, yes. 
+Does your signature… well, whose signature appears on page 20 of that statement?  
+10 
+-----  It’s my signature on page 20, the handwriting, the amendments is her 
+colleagues sitting right next to you and I was with her when those corrections were 
+made and they made after some discussions I had last night with people with whom I 
+work.   
+ 
+This process has been going on this… my engagement has been going 
+on for a long time, very often I did not take notes because I didn’t want to record in a 
+diary what I was doing, so I had to rely on memory and my memory is not as good as 
+it should be, so I, I think needed to make a few little corrections, which has been 
+recorded on the document.   
+ 
+  The contents of this signed statement EXHIBIT J2, together with its 
+20 
+handwritten corrections are they true and correct?   ----  They are true and correct. 
+ADV PAUL PRETORIUS SC:  May I have leave to hand up the duly amended 
+statement? 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 71 of 101 
+ 
+CHAIRPERSON:  Thank you.  
+MR CURRIN:  Mr Pretorius there is one point that has not been covered, I don’t 
+know whether you’ve done… whether you’ve done it, but this is one point that I want 
+to mention. 
+ADV PAUL PRETORIUS SC:  Please feel free.   -----  I made the… I mentioned Mr 
+Chairman, that there was confusion about the clone which went to Nairobi and that 
+my commitment and our commitment had been to ensure that this commission got 
+the best evidence, which would have been clone of the original and we have 
+ascertained that in fact, what had was not, probably not the clone of the original.   
+ 
+In the meantime previously the original, well a clone, another clone, a 
+10 
+second clone which we thought was the clone of the clone was delivered, was given 
+to me in Johannesburg, at some stage before I travelled to Nairobi on that second 
+occasion.  When the clone in Nairobi appeared not to be the clone of the original, I 
+made a commitment to… when I got back to South Africa, opened the packaged that 
+I got to check whether that clone was not actually the clone of the, of the original 
+hard drive. 
+ 
+And when I opened it, the marking indicated very clearly to me that that 
+was indeed the original clone; a clone of the original and for that reason I 
+immediately contacted this Commission and handed it over to this Commission. 
+ADV PAUL PRETORIUS SC:  Also appropriately packaged and marked?  -----  Also 
+20 
+appropriately packed and marked so that that commitment of delivering the best 
+evidence, clone of the original was actually carried out. 
+ 
+  Yes.  That is interesting Mr Currin and perhaps when the full story is 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 72 of 101 
+ 
+told, will need to be told, but fortunately we know that despite the expectations, the 
+original hard drive was capable of being forensically imaged…  -----   Yes. 
+ADV PAUL PRETORIUS SC:  …onto a further hard drive which is the hard drive in 
+respect of which relief is sought in this application.  -----   Absolutely. 
+ 
+  Is there anything further you wish to add?  -----    I have nothing further 
+to add other than to thank this Commission for the way in which they have worked 
+with me.  Thank you.  
+ADV PAUL PRETORIUS SC:  The Statement is EXHIBIT J2, ‘J’ I am reminded.  
+Chair, Mr Currin, the Chair may wish to ask you questions. 
+FEMALE SPEAKER:  Are you on? 
+10 
+CHAIRPERSON:  Oh I am sorry.  Mr Brian Currin’s statement will be marked EXHIBIT J2.   
+ADV PAUL PRETORIUS SC:  Thank you Chair. 
+CHAIRPERSON:  Thank you Mr Pretorius.  
+ADV PAUL PRETORIUS SC:  That is the evidence. 
+CHAIRPERSON:  Thank you.  Just one question: just one question to Mr Currin.  
+When you discovered that a certain clone was actually the clone of the original hard 
+drive, at that time was the Commission already in possession of another clone that 
+you had, up to that point, believed was a clone of the original hard drive? 
+MR CURRIN:  Yes. 
+CHAIRPERSON:  Yes, so you then took the clone that you discovered was the clone 
+20 
+of the original hard drive and handed it over to the Commission as well. 
+MR CURRIN:  That is correct. 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 73 of 101 
+ 
+CHAIRPERSON:  With the result that that the Commission is now in possession of 
+both. 
+MR CURRIN:  Correct. 
+CHAIRPERSON:  Is that right?  Okay thank you, I wanted to have it clarified. 
+MR CURRIN:  Thank you Sir. 
+ADV PAUL PRETORIUS SC:  Thank you Chair.  Just to forewarn the Chair there are 
+two more tasks that must be completed apart from argument from Ms Hofmeyr.  The 
+first is that the amended Notice of Motion must be handed up in accordance with the 
+discussion that took place earlier.  The second is that we would beg leave to hand 
+over a sworn declaration in chambers, after the conclusion of the today’s 
+10 
+proceedings. 
+CHAIRPERSON:  Yes, no that’s fine.  Mr Currin I just want to take this opportunity… 
+of course I have known you for a long time from the 80’s when you were National 
+Director of Lawyers Human Rights.  I just want to take this opportunity to say, thank 
+you very much for the role that you have played in making sure that the Commission 
+is able today, to have access to this evidence that you have told us about.   
+ 
+We appreciate it very much.  The Commission will obviously still hear 
+evidence in months to come and will also hear from what you have told us, evidence 
+from Stan and John at the right time, and probably I will get an opportunity in the 
+final report to say something about the role of people that played the kind of role that 
+20 
+you have played in the end.  
+ 
+But between now and then, there may be other evidence and I don’t 
+know if there will be a challenge to your evidence or not, but we will hear what 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 74 of 101 
+ 
+happens.  But I just thought that is important that I should let you know, that this 
+Commission deeply appreciates the role that you have played, to make sure that it 
+has access to the evidence that it has been able to have access to.  Thank you very 
+much. 
+MR CURRIN:  Thank you Sir. 
+CHAIRPERSON:  You are excused. 
+MR CURRIN:  Thank you. 
+MS HOFMEYR:  Thank you Chair. 
+CHAIRPERSON:  Ms Hofmeyr. 
+MS HOFMEYR:  Chair the good news is that there is very little for me to do, because 
+10 
+my learned leader, Mr Pretorius has dealt very extensively with the basis of the 
+application, both at a factual and to some extent, a legal level.  There are however, a 
+few aspects of the legal approach to the application that is before you today, that I 
+would like to address, with your leave. 
+ 
+And I propose to do so in two parts: the first aspect will be to address 
+the appropriate test… (intervenes) 
+CHAIRPERSON:  Maybe before you go there, maybe let’s start at the tail end in 
+terms of the… prayer 1 and prayer 2.  The prayer 1 and… prayers 1 and 2 require 
+me to admit the data referred in the way it is described there.  Is it the data that is 
+sought to be admitted or is it whatever it is, where the data is contained?  I don’t 
+20 
+know if you understand what I mean but, you know you could have something, an 
+object that contains certain information and you might be admitting the object, that 
+object, but inside that object there is certain information.  So is it the information, the 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 75 of 101 
+ 
+data, or is it the object that has been admitted at this stage, that you want to be 
+admitted that contains the information, so that the actual admission of the 
+information of the data would have much later when certain things have happened? 
+MS HOFMEYR:  Okay let me address that squarely.  What the… what Mr 
+Nombembe as the Applicant in this application seeks from the Chair today, is an 
+admission principally of the data and the data is the information contained on the 
+three hard drives, that are described in the Notice of Motion.  And Chair the reason 
+for that is because of the manner in which that type of information is dealt with in our 
+law, and the reference point for that is the Electronic Communications and 
+Transactions Act.   
+10 
+ 
+It is Statute 25 of 2002 and it is the Act to which reference is made in the 
+application itself.  What that Statute makes clear, is that there is something called 
+‘data’ which is defined by the Statute to mean electronic representations of 
+information in any form and then in particular a ‘data message’ which is data 
+generated, sent, received or stored by electronic means and includes voice, where 
+voice is used in an automated transaction and storing. 
+CHAIRPERSON:  Sorry, you didn’t make me a copy of the relevant Statute. 
+MS HOFMEYR:  Indeed Chair we do have a bundle of authorities which I will refer to 
+in a moment… 
+CHAIRPERSON:  Can I have it now? 
+20 
+MS HOFMEYR:  Indeed I am not… (intervenes)  
+CHAIRPERSON:  Because I want to have a look at the definitions.  I’ve seen Section 
+15 of that Act… 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 76 of 101 
+ 
+MS HOFMEYR:  Yes. 
+CHAIRPERSON:  …which is quoted in, in Schwikkard van der Merwe; The 
+Principles of Evidence, but I would like to have a look at that as you speak. 
+MS HOFMEYR:  Indeed Chair… (intervenes) 
+CHAIRPERSON:  If there is a copy available.  I would have appreciated receiving it 
+yesterday. 
+MS HOFMEYR:  Indeed Chair we do apologise for that. 
+CHAIRPERSON:  Can I just please take... 
+MS HOFMEYR:  The Act is not contained in bundle of authorities.  The bundle of 
+authorities that was prepared has the relevant case law… (intervenes) 
+10 
+CHAIRPERSON:  Just… there is something that is ready for me.  Oh, is there not. 
+MS HOFMEYR:  There is, let me be clear. 
+CHAIRPERSON:  Am I intruding… 
+MS HOFMEYR:  Not at all Chair, not at all.  What the bundle of authorities contains 
+is the case law to which reference will be made in the course of my argument.  It 
+does not have a copy of the text of the Act, we will endeavour to ensure that you 
+have that as quickly as possible. 
+CHAIRPERSON:  Oh okay.  Well the case law I can look later, I thought you might 
+have the Act at hand. 
+MS HOFMEYR:  I have been informed by our attorney, that efforts are being made to 
+20 
+copy for you immediately.  So as soon as it’s available I will beg leave to hand that 
+up. 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 77 of 101 
+ 
+CHAIRPERSON:  Yes, thank you. 
+MS HOFMEYR:  Chair if I may then just return to the question, because we are 
+dealing with a series of technical aspects in today’s application.  The one is the data, 
+as Chair I understand that for local terms, we refer to it as the information that sits on 
+the drives and the manner of framing the Notice of Motion, is to make it clear that it’s 
+that information, which leave is sought to have admitted as evidence before this 
+Commission.   
+ 
+And that is in keeping with the way in which electronic evidence is dealt 
+with in the Act, to which I will reference in due course.  But Chair while we are on the 
+Notice of Motion and I know we said we would start at the end, might it be an 
+10 
+appropriate time to beg leave to hand up the amended Notice of Motion, simply so 
+that we can address that aspect…  
+CHAIRPERSON:  Yes, thank you. 
+MS HOFMEYR:  …as you addressed with Mr Pretorius. 
+CHAIRPERSON:  Yes. 
+MS HOFMEYR:  Thank you.  Chair what we have done since you received the 
+original application and Notice of Motion, is inserted on the second page, a fourth 
+paragraph, which seeks to address the issue you raised with Mr Pretorius about 
+public access, given the way in which prayers 1 and 2 and the ruling sought there is 
+framed.  So what has been introduced in paragraph 4, is a ruling that says as 
+20 
+following: notwithstanding the rulings in paragraphs 1 and 2 those are ones in terms 
+of which the defined data is admitted as evidence.  It goes on to say: 
+ 
+ 
+ ‘The public shall have access to that data, defined as 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 78 of 101 
+ 
+the HDDH data, HDDH1 data and HDDH2 data, only 
+as and when it is presented by the legal team of the 
+Commission 
+at 
+the 
+public 
+hearings 
+of 
+the 
+Commission.’ 
+CHAIRPERSON:  Can we amend that a little bit. 
+MS HOFMEYR:  Certainly Chair. 
+CHAIRPERSON:  Let us say: 
+ 
+‘The public shall not have access to that data until…’ 
+MS HOFMEYR:  Yes certainly. 
+CHAIRPERSON:  So I am going to delete only as and when and simply say ‘until’, 
+10 
+replace that with ‘until it is s presented by the legal team of the Commission at the 
+public hearings of the Commission.’  Ja. 
+MS HOFMEYR:  Indeed. 
+CHAIRPERSON:  Okay thank you. 
+MS HOFMEYR:  Thank you Chair and that actually also takes care of another aspect 
+of the query that you posed to me Chair, which is… well isn’t there a later stage at 
+which this information is actually presented to the Commission.  And that precisely 
+what paragraph 4, now as amended Chair, seeks to signify.  And that is an aspect 
+which was also traversed in the Founding Affidavit of Mr Nombembe. 
+ 
+ 
+The point that was made there is that it is critical for the work of 
+20 
+the Commission that the data, the information on these 3 hard drives, be admitted in 
+evidence, for amongst other reasons, so that the Commission’s investigators can 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 79 of 101 
+ 
+analyse, synthesize and pursue further investigations based on that information. 
+ 
+It is then anticipated that pursuant to those investigations and possibly 
+further authentication exercises, that the investigators take on; those parts of the 
+information, for example, relevant emails that are pertinent to the work of the 
+Commission, will be presented by the legal team through witnesses or two witnesses 
+in the course of the future public hearings of this Commission. 
+ 
+And so that is precisely the scheme that is envisaged by this application. 
+CHAIRPERSON:  It wasn’t clear to me when I wrote the Affidavit why any analysis 
+and investigation by the investigators needed the data to be admitted, first, or why 
+do they need that? 
+10 
+MS HOFMEYR:  Chair it is an aspect that we have probed in some detail with them, I 
+can, I can tell you. There is a bigger story that happens around this data and I must 
+deal with it now.  This data plays a role no doubt, and is critical to the work of this 
+Commission, but this data may well also, play a role in future possible criminal and 
+civil proceedings.   
+ 
+And it is with a view to its further use in those proceedings, that the 
+investigators of this Commission are very careful to ensure that any work that they 
+do, on forensic images of the original data, is secured in its integrity by a moment in 
+time which is this application before you today, to recognise the steps that have been 
+taken until this point, to secure the recovery of the original and to make that data 
+20 
+available to the Commission 
+ 
+And it therefore seeks the comfort of knowing that if at this moment in 
+the Commission’s proceedings, this ruling is made, it will then comfortably off the 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 80 of 101 
+ 
+back of that full chain of custody, having been presented before this Commission, be 
+able to work with that data.  To analyse to re-arrange it to strip it out, to reconfigure 
+it… (intervenes) 
+ 
+CHAIRPERSON:  But why do they need an audit meeting in data to do that? 
+MS HOFMEYR:  Chair, Chair it is an aspect of why it is being sought today.  Your 
+crisp question is why do the investigators want this admission in order to be able to 
+deal with the data?  And the explanation is contained at paragraph 64 of the 
+application.  If I may just direct you to it? 
+ 
+You will see at paragraph 64, the point is made that until this point, the 
+Commission’s investigators have been careful to analyse only the HDDA data.  Now 
+10 
+let me just be clear about what that is.  That’s the data that was originally… 
+CHAIRPERSON:  That’s the original hard drive. 
+MS HOFMEYR:  Hard… and the data from it that found its way into the Gupta leaks, 
+right.  And it is off the basis of the analyses that they have done of that data, that 
+they have been able in this Affidavit to make some initial claims about the 
+authenticity of the data.  But it is essential for the purposes of this Commission and 
+for future work, that might require this information to be relevant, that the actual 
+recovered, and what we understand to be fuller set of data, is analysed for 
+authenticity. 
+ 
+ 
+The Commission’s investigators have not done that yet.  
+20 
+CHAIRPERSON:  Let me understand… what I don’t understand is the, the hard drive 
+and the clones are in the possession of the Commission.  The investigators are part 
+of the Commission, they carry out investigative work for the Commission.  I don’t 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 81 of 101 
+ 
+understand why, without an order admitting the data, in these proceedings, they 
+can’t do what they need to do to pursue the work of the Commission in terms of 
+investigation. 
+MS HOFMEYR:  Chair we would not put as high as they can’t, certainly not.   
+CHAIRPERSON:  Or if, if it’s not a matter of they can’t, or what the reason is why do 
+they need that order? 
+MS HOFMEYR:  Indeed Chair and that requires me to go to the further reasons for 
+why this application is brought now.  Because as your question highlights Chair, and 
+we should not be heard to say they can’t deal with the data without this order, that is 
+certainly not the case.  It is appropriate rather, that this ruling be given now and that 
+10 
+requires further considerations to be taken into account.   
+ 
+So to recap: the one is that the investigators who are concerned with the 
+integrity of the chain of custody process, would like to be dealing with HDDH1 data 
+and HDDH2 data with the confirmation from this Commission, that it is admitted in 
+evidence.  But I don’t put it higher than, but that is request of theirs, it is not 
+prerequisite for them dealing with it.   
+ 
+The second important point is where we are in these proceedings and 
+the availability of Mr Currin who has come to give evidence today and the 
+appropriate point at which this disclosure could be made, albeit on its limited terms 
+because of the safety issues of those concerned.   
+20 
+ 
+And secondly Chair, thirdly indeed Chair, an important aspect that is 
+traversed in the application is that parallel with this application before you, which is 
+taking place in public, there is a full chain of custody set of documents that is being 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 82 of 101 
+ 
+compiled by the Commission, which has detailed confirmations of every step that 
+was taken to ensure the integrity of the drives, to ensure that parcels were tamper 
+proof, to keep records of every register of evidence being received and being take to 
+its next location. 
+ 
+It was in the view of the Commission, it’s legal team and investigators 
+that it was critically important to freeze this moment in time, when all of that evidence 
+could be put together, albeit not yet publically disclosed, so that if anything were to 
+happen to individuals involved in that process, there would nonetheless be a credible 
+source of that information which may become later relevant in criminal or civil 
+proceedings. 
+10 
+ 
+So it’s a conference of those three factors Chair that brings this 
+application to you today. 
+CHAIRPERSON:  Well the point does it amount to this that for among others, 
+reasons of the preservation of the evidence as it exists at the moment, where it is 
+kept, it was important that it be publicly known…  
+MS HOFMEYR:  Indeed Chair. 
+CHAIRPERSON:  …that the Commission has this kind of evidence which has been 
+obtained in the manner in which we have been told, albeit, not in full for certain 
+reasons so that going forward if anything should happen, at least it should be known 
+what evidence the Commission had, as at a certain date. 
+20 
+MS HOFMEYR:  Indeed Chair that is precisely the third consideration and it is 
+flagged just for your reference at paragraph 76, which is on page 27 of the 
+application.  It says there, and I read from Mr Nombembe’s Affidavit: 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 83 of 101 
+ 
+ 
+‘It is also in the public interest that the integrity of the 
+process that has been followed thus far by the 
+Commission’s investigators and legal team be 
+recorded.  If anything were to happen it is important 
+that the Commission has a record of the chain custody 
+in order this to provide a basis for the admission, 
+possible admission of the data in future.’ 
+ 
+And Chair if I may say the further point as I understand your question to 
+me that is added, is it’s about preserving that which is now in the possession of the 
+Commission and with knowledge, publically that the Commission is in possession of 
+10 
+that important evidence for the conduct of its further enquiries.  Thank you Chair. 
+CHAIRPERSON:  Yes, okay thank you. 
+MS HOFMEYR:  Chair so we were on the aspects of the, apologies, amended Notice 
+of Motion that were addressed and I’ve usefully been just handed a copy of the 
+Electronic Communications and Transactions Act, if I may beg leave to hand that up. 
+CHAIRPERSON:  Oh thank you, yes.  Thank you. 
+MS HOFMEYR:  Chair it might be an appropriate point just to summarise the points 
+that I was making in relation to that Act now that you have a copy available to you.  
+Chair I was dealing first… you would have seen reference as you mentioned in the 
+evidence text books about particularly Section 15… 
+20 
+CHAIRPERSON:  Yes. 
+MS HOFMEYR:  …because Section 15 deals with admissibility and evidential weight 
+of data messages.  Where I began with the definitions of those terms in the Act, and 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 84 of 101 
+ 
+data message is of course a derivation of data and so we start with data, which is 
+the language used in the Notice of Motion. 
+ 
+Data means electronic representations of information in any form and 
+then the data message becomes more specific, it means data generated, sent, 
+received or stored by electronic means and includes voice, where voice is used in an 
+automated transaction, or a stored record.  We really in the context of it being stored 
+record, for the majority of the information that we are talking about here. 
+ 
+And then what Section 15 does is it talks about the requirements for 
+admissibility but I must emphasise in legal proceedings for the receipt of data 
+messages, which generally in the literature, is referred to as electronic evidence.  
+10 
+But Chair before we get into the detail of Section 15, it is important that I frame the 
+test appropriately, which is the one that this Commission, we submit, will adopt when 
+determining whether to grant this application. 
+Chair and that requires me to emphasis again as my learned leader, Mr Pretorius 
+did, that a commission of enquiry is a species different to a court of law.  Chair this is 
+recognised around the world and it has been well expressed with respect, by a 
+number of the highest courts in various jurisdictions.   
+ 
+And Chair it is, with your leave, that I would like then to make reference 
+to the bundle of authorities which you have been provided with, I understand.  
+Because Chair the first two cases in that bundle of authorities are cases first from 
+20 
+New Zealand and secondly, from Australia, but the second case from Australia has 
+received the approval of the Privy Council. 
+ 
+And the aspects of those cases that I would like to refer to in particular 
+Chair, is first of all in relation to the first case which dealt with the Royal Commission 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 85 of 101 
+ 
+of Enquiry into state services in New Zealand.  Cleary J in that matter, at page 115 
+which Chair you will find at paginated page 11… 
+CHAIRPERSON:  Yes. 
+MS HOFMEYR:  …had the following to say.  Right at the bottom… well it begins at 
+10 Chair if you go back over a page, the bottom of page 115 of the Law Report, 
+Cleary had the following say about the function of a  commission of enquiry.  Let me 
+be clear why I go there in the argument.  The nature and function and of a 
+commission of enquiry we submit, must inform its approach to the receipt of 
+evidence.  Cleary says the following: 
+ 
+‘The function of a commission of enquiry on the other 
+10 
+hand…’ 
+….he is contrasting it to court proceedings… 
+ 
+‘…is inquisitorial in nature.  It does not wait for issues 
+to be submitted but itself, originates enquiry into 
+matters which it is charged to investigate.  These are 
+indeed, no issues as in a suit between parties; 'no 
+party' has the conduct of proceedings, and 'no parties' 
+between them can confine the subject matter of the 
+inquiry or place any limit on the extent of the evidence 
+or information which the Commission may wish to 
+20 
+obtain.’  
+ 
+Chair we submit that that is an accurate description of the role of 
+enquiries and the principle pursuit of those enquiries, which is to gather all 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 86 of 101 
+ 
+information relevant to its mandate.  And Chair the second reference is the reference 
+to Australian case of Ross v Costigan which appears beginning paginated page 13 of 
+the bundle of authorities, that has been handed to you Chair.  And the relevant part 
+of that judgment appears on the law report page 334 which is at paginated page 21.  
+ 
+Chair there Ellicot J of the Federal Court of Australia said the following in 
+relation to the relevant evidence that the commission made… (intervenes) 
+ 
+CHAIRPERSON:  Where about in relation to those marginal paragraph numbers… 
+(intervenes)  
+MS HOFMEYR:  We are on the left hand side of the page, so the reported page 334 
+and adjacent 35, in the lines Chair.  
+10 
+CHAIRPERSON:  Okay thank you. 
+MS HOFMEYR:  If I may read there. 
+ 
+‘In determining what is relevant to a Royal 
+Commission of enquiry, regard must be had to its 
+investigatory character.  Where broad terms of 
+reference are given to it…’  
+as in this case 
+ 
+‘…the commission is not determining issues between 
+parties but conducting a thorough investigation into 
+the subject matter.  It may have to follow leads, it is 
+20 
+not bound by rules of evidence.  There is not set order 
+in which the evidence must be adduced before it. 
+ 
+So Chair that is by way of introduction; Chair and it goes on in that 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 87 of 101 
+ 
+paragraph, if I may just continue to read there. 
+ 
+ 
+‘The links in a chain of evidence will usually be dealt 
+with separately.  Expecting to prove all the links in a 
+suspected chain of events, the commission or counsel 
+assisting, may nevertheless fail to do so.  But if the 
+commission bona fide seeks to establish a relevant 
+connection between certain facts and the subject 
+matter of the inquiry, it should not be regarded as 
+outside its terms of reference in doing so.  This follows 
+from the very nature of the inquiry being undertaken.’ 
+10 
+ 
+And so that second part signifies that there is a level of flexibility in the 
+approach that a commission of inquiry will take to the evidence before it, and the 
+information that it takes into account.  And so Chair we draw those references with 
+respect, to your attention, because it is our submission that they frame the 
+appropriate approach that this commission should take to receiving and admitting in 
+evidence, the information on these hard drives. 
+ 
+The important points Chair in summary are these:  This is not a court of 
+law, it is an inquiry which is not bound by the rules of evidence, that is in reference to 
+your previous debate with my learned leader, Mr Pretorius, he referenced and as 
+would I, the rules of this Commission, particularly 6.1 which make the point, and this 
+20 
+is for our purposes the most important point. 
+ 
+The Commission may receive any evidence that is relevant to its 
+mandate and so we submit there is single test before you today Chair.  Is this 
+information which we call data because of its particular technical usage, in the 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 88 of 101 
+ 
+relevant Statutes, relevant to the mandate of this Commission?   
+ 
+And we submit that that must be unquestionably so.  Mr Pretorius has 
+already dealt Chair, with the links to the terms of reference which were traversed in 
+the application itself.  There are on my count, at least six terms of reference that 
+speaks specifically to the engagements with the public sphere in our country and the 
+Gupta family. 
+ 
+You would have heard from the evidence of Mr Currin, and it is also 
+referenced in Mr Nombembe’s Affidavit, that what this data appears to show, is 
+communications between members of the Gupta family and associates with 
+individuals such as Mr Duduzane Zuma, various cabinet ministers, officials and chief 
+10 
+executive officers of state owned enterprises. 
+ 
+We submit that there can be no doubt, that it is relevant to the terms of 
+reference of this Commission that this information be further investigated.  Chair 
+there is a further point to relevance.  And we submit that admitting this data now, is 
+consistent with the truth seeking pursuit of this inquiry and the reason for that is the 
+following: 
+ 
+You heard earlier this morning that the recovery exercise that was 
+managed with the employment of a leading international expert on recovery, is such 
+that the version of the data which is currently held by the Commission, is likely to be 
+greater than the data that found its way into the Gupta leaks.   
+20 
+ 
+Those are the initial indications that we received both from what Mr 
+Currin told us about how that original data entered the public domain, and what you 
+now of the process that was following by the Commission, in securing this expert to 
+do a 99.99 something, something, something percent recovery, and to confirm that 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 89 of 101 
+ 
+he is satisfied that that recovery was indeed effective and that we have for all intents 
+and purposes, a virtual replica of the original data. 
+ 
+Chair there is overwhelming public interest, we submit in the 
+Commission’s investigators being in a position to analyse that further data and where 
+appropriate, for it to be presented to this Commission in its public hearings.  If only 
+part of the story that can be gleamed from that data has be told thus far, the whole 
+story must be told through the proceedings of this Commission. 
+ 
+And it is for that reason that we submit it is critically important for the 
+Commission and its expert investigators, to begin work on that data so that it can be 
+presented in due course.  Chair the second aspect of my submissions ventures 
+10 
+beyond what we say, is really the simply question before this Commission.  Is the 
+data relevant, and if so, it should be admitted and the process of its analysis and 
+presentation should then be followed. 
+ 
+But the application does go further than that Chair.  It goes further to 
+deal with the aspects of reliability that is already apparent in this data, and it 
+addresses questions of confidentiality that could be raised in due course, and the 
+steps that have been taken to protect any possible interests on the part of Sahara 
+Computers that may be raised in due course.  And so Chair with your leave, I would 
+like to deal very briefly with those two aspects. 
+CHAIRPERSON:  Ja. 
+20 
+MS HOFMEYR:  Chair the reliability aspect has been addressed for a range reasons 
+in the application.  The first is with a view down the line to the use it might be made 
+of this data in criminal and civil proceedings.  I’ve already addressed to Chair the 
+careful steps that have been taken, by the investigators and the legal team of this 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 90 of 101 
+ 
+Commission to ensure the integrity, and preserve the integrity of the drives on which 
+this data sits and on the authenticity processing of that data, so that its credibility 
+and its integrity can be presented in due course. 
+ 
+This has been done not only with a view to those future proceedings, but 
+also because of the only public statement that we are aware of that has yet been 
+made by those persons, who appears to be implicated by the information on the 
+drive.  And that is the reference that my learned leader, Mr Pretorius made to the 
+public statement of Mr Gupta that these emails were fakes.  Well, it’s as against that 
+charge, that some initial work has been done to assess the reliability of this data and 
+that is set out in detail in the application. 
+10 
+ 
+The essence of the point is that it is in all probability highly unlikely, 
+necessarily incredible that this massive amount of data with its both visible and 
+hidden traces, within the drives, could’ve been manufactured, or manufactured in 
+manner that makes it work as such a cohesive hull on the drive itself.  So that is the 
+first aspect of reliability.   
+ 
+The second aspect of reliability is the emphasis that will be placed on 
+the declaration of the international expert who has worked on this drive and done its 
+recovery.  That will be presented to you in camera, but the essence of that evidence 
+is the expert’s both qualification as an expert, and confirmation that he achieved 
+99.999826 percent recovery.  And so that itself should give the Commission great 
+20 
+comfort. 
+ 
+On the question of what it will be presented with is a replica of that which 
+sat on the original drive.  It’s a separate question whether that which sat on the 
+original drive was manufactured, but I have already addressed you on all the 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 91 of 101 
+ 
+hallmarks of authenticity that appear to lay already in that data. 
+ 
+Chair the second point is confidentiality. There is sometimes a tussle in 
+our law between the disclosure of information that my implicate the privacy interests 
+of a party, as compared with the need for the public to know the content of the 
+information and Chair the application traverses the relevant case law in that respect.  
+I would highlight for present purposes only a few.   
+ 
+Our courts have already determined that the public interest may 
+outweigh, and it’s an example, but national security interests where those were 
+claimed for top secret and classified material in the Independent Newspapers matter 
+that came before the Constitutional Court. 
+10 
+ 
+Our courts have also determined as Mr Pretorius highlighted earlier, that 
+the private medical records of a former Minister of Health, could be disclosed in the 
+public, notwithstanding the fact that they were unlawfully obtained.  And our courts 
+have also determined that even a privileged legal opinion of South African Airways 
+could be disclosed publicly, because of the manifest public interest in understanding 
+and learning what was going on within that institution at the relevant point in time. 
+ 
+And so Chair we submit to you today, that if in due course, any attempt 
+is made to raise the spectre of confidentiality as a basis for this Commission not to 
+deal with this information, we submit that contention should be rejected, and it 
+should rejected because of the overwhelming public interest, in a proper 
+20 
+investigation of these matters, because of the terms of reference with which this 
+Commission has been charged. 
+ 
+Chair the final aspect is to facilitate any representations that Sahara 
+Computers may wish to make in due course and the Notice of Motion seeks as its 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 92 of 101 
+ 
+third prayer, a ruling that will facilitate notice being given and an opportunity if it is 
+taken up, to make representations to you Chair about the admission of this data.   
+ 
+Chair those are our submissions in support of the application unless 
+there are further questions. 
+CHAIRPERSON:  One has got to always remember that one is not in a court of law. 
+MS HOFMEYR:  Indeed. 
+CHAIRPERSON:  And therefore from time to time try and not act in a manner that a 
+court would necessarily act or decide.  But of course it doesn’t mean that one must 
+discard everything that courts of law do.  Normally when a document or real 
+evidence is being admitted in proceedings, that are placed before that court, we are 
+10 
+now talking about a court of law… that is handed up and so on.   
+ 
+This is not happening here, but one advantage of a document for 
+example being handed up is that I could have a look at it, at the contents and maybe 
+get an idea that it could be relevant.  But if it’s not put up, I may have to rely on 
+somebody to tell me if it’s relevant, and maybe that might not be the final word as 
+whether it’s relevant or not.   
+ 
+Now to the extent that the order admitting the data is in order, admitting 
+as the Act says in terms of defining what data is, I think representations it says: 
+ 
+‘Data means electronic representations of information 
+in any form.’ 
+20 
+As I understand the position and remember I’ve got to decide things based on… not 
+on what I might be reading in the media, on what I have here;  based on that, based 
+on what I’ve read in Mr Nombembe’s Affidavit, there are hundreds of thousands of 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 93 of 101 
+ 
+emails.  The Affidavit from what I read in the Affidavit, it would seem that somebody 
+or people must still go though those…. 
+MS HOFMEYR:  …you being asked to admit to the terms of reference of this 
+Commission and we submit, you can be overwhelming confident about its relevance, 
+because the A data which is a component of the H data, has already found its way 
+into the public domain and has shown, that it deals with the affairs of the Gupta 
+family, their association with government officials and state owned enterprises. 
+ 
+Chair the application even gives you some examples, and let me just 
+take you to them, because some of them are critical for this question that you have 
+raised.  And they are attached in various annexures, various articles that arose with 
+10 
+the Gupta leaks.  Let me just find the reference if I may.   
+ 
+If you go paginated page 26, you will see that some of the information 
+that has made its way into the public domain, because HDDA data was provided to 
+the journalists at Ama Bongani(?) and Daily Maverick is the following.  They show 
+that the Bell Pottinger proposed press release, during March 2016, that would have 
+implicated Deputy Finance Minister, Mcebisi Jonas in receiving bribes from a South 
+African businessman. 
+ 
+They show how two months, before the former president Mr Jacob Zuma 
+appointed Mr Mosebenzi Zwane as Mineral Resources Minister, his Curriculum Vitae 
+was sent to the Gupta family for their attention.  It shows how Minister Faith 
+20 
+Muthambi exchanged proposed drafts of a presidential proclamation with associates 
+of the Gupta family before the proclamation was promulgated. 
+ 
+Those are illustrative examples for the purposes of this application to 
+answer squarely the question of relevance.  
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 94 of 101 
+ 
+CHAIRPERSON:  Those would fall under the component that has been analysed. 
+MS HOFMEYR:  Indeed.   
+CHAIRPERSON:  Yes. 
+MS HOFMEYR:  Indeed Chair and it is a portion of the greater recovered data that 
+was the product of the international expert’s efforts in August.  So what we are able 
+to say to you today Chair, is that a component of the H data, which has been in the 
+public domain, shows that this full data set is clearly relevant to the terms of 
+reference of this commission.  Because it is in the main, email communications 
+between associates of the Gupta family, the Gupta family, cabinet ministers, heads 
+of SOE’s and their dealings. 
+10 
+ 
+And there may be more that is relevant, but that which we already have 
+and have been able to analyse we know is relevant. 
+CHAIRPERSON:  You see what, what, what there can be no doubt about is that, that 
+part that has been not analysed, it’s important that it be analysed. 
+MS HOFMEYR:  Indeed. 
+CHAIRPERSON:  There can be no doubt about that. 
+MS HOFMEYR:  Yes. 
+CHAIRPERSON:  No the investigators would do that okay.  But again I think i come 
+back to the question why… lets separate the two, that part that has been analysed.  
+That is relevant let’s assume is established there maybe it can be admitted.  The 
+20 
+part that has not been analysed, because it hasn’t been analysed we can’t know can 
+we for sure, whether it is relevant.   
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 95 of 101 
+ 
+ 
+But once it is examined and analysed its relevance or otherwise, will be 
+established.  Now why to the extent that we should be… I shouldn’t make any order 
+of admission, why shouldn’t I admit what has been analysed because its relevance 
+might be established, but in regard to what has not been analysed, I make no order.   
+ 
+That doesn’t prevent the investigators from analysing it and at the 
+relevant time that can be raised here in the Commission, after somebody has been 
+able to take a view of its relevance. 
+MS HOFMEYR:  Chair you pose the question on the basis that we couldn’t know for 
+certain what was in the remainder, I have to concede that, but we know what the 
+very high probability, what is in the remainder.  And that is because of the nature of 
+10 
+the data messages that these drives contain, and that is set out in Mr Nombembe’s 
+Affidavit. 
+ 
+They are by and large in the majority, email communications and the 
+background hidden messaging that happens pursuant to that communication and 
+some other information.  Now because we have seen parts of that through the A 
+data, and in the majority it appears to be relevant, well is relevant on the basis of 
+what has been publicly disclosed already.   
+ 
+There is an incredibly probability that the remainder is, I can’t say for 
+certain, very few things a certain, but a very high probability.  
+CHAIRPERSON:  But how does the work of the Commission get prejudiced if we 
+20 
+don’t, if I don’t make an order admitting that part, that component?  How does work 
+of the commission gets prejudiced? 
+MS HOFMEYR:  Chair that takes us back to the previous debate we have about why 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 96 of 101 
+ 
+now.  And it is to signify that there is more in this application than merely the need for 
+analysis to take place and emails and other evidence to be presented.  It is that at 
+this very moment, the Commission has within its possession, the fullest recovery of 
+the data from a original hard disc drive that came from Sahara Computers, and it is 
+because it has that in its possession, and it was appropriate for that to be publicly 
+disclosed now, and could not be disclosed previously, that this is a moment in time in 
+which it should be admitted, to preserve that full record which now in the possession 
+of the Commission. 
+CHAIRPERSON:  But where it is sitting now it is preserved.  That is what the witness 
+told us.  It’s secure, it’s preserved, only very few people know about it, why does, 
+10 
+why is an order admitting it necessary for its preservation? 
+MS HOFMEYR:  Because despite all the endeavours that have been made to secure 
+it, something may happen to it.  It is in within the borders of South Africa, HDDH 
+albeit, in a secure location.  That has been disclosed in the Affidavit before you.  It is 
+appropriate that all precautions be taken by the legal team and the investigators who 
+are the custodians of that resource of data, tell us publicly that they have it and 
+having done so, increase the preservation if it. 
+CHAIRPERSON:  Well what is the meaning of an order admitting a piece of 
+evidence?  I don’t think that the mere making of an order that a court, or a forum 
+such as this is admitting the same piece of evidence on its own, helps anything with 
+20 
+the preservation.  Obviously normally what would happen is that that piece of 
+evidence is handed up and then the Registrar in the case of a court, preserves it 
+whatever. 
+ 
+But here we have a situation where we have been told that all that 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 97 of 101 
+ 
+evidence is somewhere secure and all precautions have been taken to make sure 
+that it is safe.  Obviously, maybe I shouldn’t say obviously, there are no guarantees 
+in life, you know, but from what I have heard, for all intents and purposes, everything 
+has been done to keep it safe and I want to be safe.   
+ 
+I am just not sure that I follow why an order admitting it is necessary for 
+its preservation with regard to evidence that has been analysed.  At least it’s 
+relevant, it’s relevance maybe clearer and the evidence that has not been analysed, 
+probably some of it is relevant, maybe some of it is not relevant and I just saying, 
+how does it help anybody for me to make an order saying I am admitting that part of 
+the evidence. 
+10 
+ 
+How does it prejudice the work of the Commission, how does it prejudice 
+the work of the investigators to make or not to make that order?  What I referred to 
+earlier on about publicly saying what is in the possession of the Commission, we 
+have already been saying… the witness has told South Africa through… these 
+proceedings are being broadcast so people who have an interest in what the 
+Commission is doing, will know what we have already in terms of that evidence. 
+ 
+I am just not sure of the necessity of making that order now, at least in 
+regard to that.  It may be that, it may be that it is something that maybe the legal 
+team which to reflect further on and I am quite happy that we, we look at it before 
+any decision is made, but I, I have that concern as to… I can see that I may make an 
+20 
+order admitting the part that has been analysed.  I am not sure so about the part that 
+has not been analysed.  
+MS HOFMEYR:  Chair thank you for that, if we may take you up on that opportunity.  
+We are close to the conclusion of today’s proceedings and we do want to reflect 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 98 of 101 
+ 
+carefully on the issue that you have raised, and how it may affect the rulings that are 
+sought in this application.  So if it would be appropriate and with you leave, possibly 
+to take a moment and adjourn to tomorrow morning, I don’t know what is most 
+suitable to you Chair. 
+CHAIRPERSON:  No, no that’s fine we can adjourn till tomorrow morning at 10:00am 
+and then we can look at it.  It may well be that you might persuade, but I just have 
+those concerns and I mean there is no doubt, that the investigators should go ahead 
+and analyse the component that has not been analysed.  There is no doubt about 
+that.   
+ 
+But I say they don’t need an order admitting those components as 
+10 
+evidence, in order for them to do that, and then I just ask why we need to do that to 
+make such an order in regard to that component in circumstances where, with regard 
+to its relevance, we say it hasn’t been aliased so some of it may be relevant, some of 
+it might not be relevant, maybe most of it will be relevant but do we need to decide 
+now, or should we let the process of analysing take place first and then a view is 
+taken and once a view is taken, what is brought up for admission is only that which is 
+established as relevant.  Okay. 
+MS HOFMEYR:  Thank you Chair we will give careful consideration to those aspects. 
+CHAIRPERSON:  Okay all right.  Thank you very much.  In terms of arrangements 
+for tomorrow, will be it that part… we don’t have any witness for tomorrow, is that 
+20 
+right? 
+MS HOFMEYR:  No. 
+CHAIRPERSON:  Okay and as things stand the witness for the 3rd October, 
+DAY 17, 27 September 2018 
+  
+B CURRIN  
+eb 
+ 
+ 
+Page 99 of 101 
+ 
+arrangements are still in place for that? 
+ADV PAUL PRETORIUS SC:  Yes. 
+CHAIRPERSON:  Thank you.  The proceedings adjourn for today, we resume 
+tomorrow at 10:00am. 
+HEARING ADJOURNS 
+ 
+ 
+ 
+ 
+ 
+10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20 
+ 
+ 
+ 
+ 
+ 
+Page 100 of 101 
+ 
+TRANSCRIBER’S CERTIFICATE FOR COMMISSION OF INQUIRY 
+INTO STATE CAPTURE 
+HELD AT 
+PARKTOWN, JOHANNESBURG 
+ 
+ 
+DATE HELD 
+ 
+ 
+:  2018-09-27 
+DAY: 
+ 
+ 
+ 
+:  17 
+TRANSCRIBERS 
+ 
+:  E. KOEKEMOER, C. SWART, M. BOCCHIO, E 
+BOUWER 
+ 
+Audio’s are typed verbatim, as far as audible/possible 
+ 
