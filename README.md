@@ -13,6 +13,14 @@ Source: [https://en.wikipedia.org/wiki/Zondo_Commission](https://en.wikipedia.or
 
 We extracted plaintext versions of thhe published transcripts (from [https://www.statecapture.org.za/site/transcripts](https://www.statecapture.org.za/site/transcripts). There is minimal clearning but we believe these can be sued for textual analysis. 
 
+
+
+| file/folder     | description| url |
+|-----------------|-----|---------------|
+| data/interim | Folder with individuaual *.txt* files of extracted transcripts by day.  |       [/data/interim/](/data/interim/)         |
+| state-capture-transcripts-day-1-399.txt.zip | zip file wiht all transcripts. | [state-capture-transcripts-day-1-399.txt.zip](/data/state-capture-transcripts-day-1-399.txt.zip)|
+
+
 ## TODOs
 
 * Clean up the data
