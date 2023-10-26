@@ -1,7 +1,6 @@
 # South African State Capture Commision Transcripts - Zondo Commission
 
-
-[![DOI]()]()
+Give Feedback 📑: [DSFSI Resource Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSf7S36dyAUPx2egmXbFpnTBuzoRulhL5Elu-N1eoMhaO7v10w/formResponse)
 
 ## About State Capture Comission
 
